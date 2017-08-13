@@ -3,6 +3,8 @@ layout: post
 title: Blog Objectives
 ---
 
+What is the objective of this blog?
+
 The basic objective of this blog is to give me a platform to communicate some of the thoughts and observations I have that don't fit well into the [Bible Notes](https://fhightower.gitbooks.io/bible-notes/content/) project. My goal in voicing some of these thoughts is to provide more resources that will strengthen the Church and produce mature, thoughtful followers of Christ. It also gives me the chance to hone my writing and communication skills (which I then hope to use to strengthen the Church). In turn, the goal of strengthening the Church and maturing believers is to bring glory to God through the corporate Church and our individual lives. If this blog has a theme verse, it is 1 Corinthians 14:20:
 
 > "Brethren, do not be children in your thinking; yet in evil be infants, but in your thinking be mature."
