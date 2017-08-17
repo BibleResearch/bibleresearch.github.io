@@ -1,9 +1,10 @@
 ---
 layout: post
+category: blog
 title: If you can read this... Thank a Teacher!
 ---
 
-This week, take some time to thank one teacher/mentor you appreciate.
+This week, take some time to thank a teacher or mentor you appreciate.
 
 All it takes is a quick email, phone call, or even a text. Or better yet... next time you see them, take some time to let them know how much you appreciate what they do for you. It is *really* hard to be a teacher and is often a thank-less endeavour which can get depressing over time. Even a short word of thanks can go great lengths to encourage your teacher. Consider **Galatians 6:13**:
 
