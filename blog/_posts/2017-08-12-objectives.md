@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: Blog Objectives
+author: Floyd Hightower
 ---
 
 What is the objective of this blog?

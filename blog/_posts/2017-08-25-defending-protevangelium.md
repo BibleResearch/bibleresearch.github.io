@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: Satan or Serpent? Understanding the Protevangelium.
+author: Floyd Hightower
 ---
 
 Are we right to interpret Genesis 3:15 as applying to Satan?
