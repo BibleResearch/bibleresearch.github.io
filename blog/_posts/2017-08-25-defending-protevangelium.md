@@ -33,4 +33,4 @@ In short, yes, it is appropriate to interpret Genesis 3:15 such that it is being
 
 ## Footnotes
 
-\* - http://biblehub.com/commentaries/cambridge/genesis/3.htm
+\* - [http://biblehub.com/commentaries/cambridge/genesis/3.htm](http://biblehub.com/commentaries/cambridge/genesis/3.htm)
