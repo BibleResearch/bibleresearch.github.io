@@ -4,12 +4,12 @@ category: blog
 title: Why is Canaan Cursed Rather than Ham?
 author: Floyd Hightower
 tags:
-    - Genesis
-    - Old Testament
+    - Question
+    - Canaan
     - Noah
     - Ham
-    - Canaan
-    - Question
+    - Genesis
+    - Old Testament
 ---
 
 Characteristic of the strange stories in Genesis, the story of Shem, Ham (and Canaan), and Japheth in Genesis 9:18-27 is the subject of much debate. Of particular interest is this: Why does Noah curse Canaan (Ham's son) if Ham was the one who perpetrated the crime in question?

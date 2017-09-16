@@ -4,15 +4,15 @@ category: blog
 title: Satan or Serpent? Understanding the Protevangelium.
 author: Floyd Hightower
 tags:
+    - Question
     - Protevangelium
-    - Genesis
-    - Old Testament
+    - Interpretation
     - Satan
     - Serpent
-    - Eden
     - Adam and Eve
-    - Interpretation
-    - Question
+    - Eden
+    - Genesis
+    - Old Testament
 ---
 
 Are we right to interpret Genesis 3:15 as applying to Satan?

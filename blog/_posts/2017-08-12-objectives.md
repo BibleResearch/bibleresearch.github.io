@@ -4,6 +4,7 @@ category: blog
 title: Blog Objectives
 author: Floyd Hightower
 tags:
+    - Question
     - Why
     - Objectives
 ---
