@@ -13,9 +13,12 @@ layout: default
       </div>
 
       {% if post.tags %}
+        {% assign first_tag = post.tags | first %}
+        {% assign remaining_tags = post.tags | shift %}
         <div class="post-tags">
-          {% for tag in post.tags %}
-            <div class="tag">{{ tag }}</div> 
+          <div class="tag category-tag">{{ first_tag }}</div>
+          {% for tag in remaining_tags %}
+            <div class="tag">{{ tag }}</div>
           {% endfor %}
         </div>
       {% endif %}
