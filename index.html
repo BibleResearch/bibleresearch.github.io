@@ -12,6 +12,14 @@ layout: default
         {{ post.excerpt }}
       </div>
 
+      {% if post.tags %}
+        <div class="post-tags">
+          {% for tag in post.tags %}
+            <div class="tag">{{ tag }}</div> 
+          {% endfor %}
+        </div>
+      {% endif %}
+
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
