@@ -10,9 +10,12 @@ layout: default
   </div>
 
   {% if page.tags %}
+    {% assign first_tag = page.tags | first %}
+    {% assign remaining_tags = page.tags | shift %}
     <div class="post-tags footer-tags">
-      {% for tag in page.tags %}
-        <div class="tag">{{ tag }}</div> 
+      <div class="tag category-tag">{{ first_tag }}</div>
+      {% for tag in remaining_tags %}
+        <div class="tag">{{ tag }}</div>
       {% endfor %}
     </div>
   {% endif %}

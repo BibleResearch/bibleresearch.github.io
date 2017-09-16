@@ -164,6 +164,8 @@ img {
 .category-tag {
     background-color: #dca45a;
     color: black;
+    /* Make the right margin slightly larger to offset the perceptual biased caused by the different color of the category tag. */
+    margin-right: .17em;
 }
 
 /*********************/
