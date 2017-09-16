@@ -5,9 +5,11 @@ title: "Passages for a Preliminary Understanding of the Plagues and the Exodus"
 author: Floyd Hightower
 tags:
     - Exodus
+    - Old Testament
     - Pharaoh
     - Plagues
     - Plunder
+    - Introduction
 ---
 
 When we think about Israel's time in Egypt, the plagues, and Israel's Exodus from Egypt, there are a few passages that are important to keep in mind.

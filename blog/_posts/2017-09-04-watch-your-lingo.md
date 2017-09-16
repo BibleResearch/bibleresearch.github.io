@@ -3,6 +3,10 @@ layout: post
 category: blog
 title: Watch your Lingo!
 author: Floyd Hightower
+tags:
+    - Admonition
+    - Lingo
+    - Language
 ---
 
 We are living in what is quickly becoming a post-Christian culture. As such, pastors, teachers, leaders, and even lay Christians need to wake up to the reality that Christian jargon widely understood in previous generations is no longer understood by the vast majority of people under the age of 30.

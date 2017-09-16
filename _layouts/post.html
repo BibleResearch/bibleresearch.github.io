@@ -9,6 +9,14 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.tags %}
+    <div class="post-tags">
+      {% for tag in page.tags %}
+        <div class="tag">{{ tag }}</div> 
+      {% endfor %}
+    </div>
+  {% endif %}
+
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }} by {{ page.author }}
   </div>

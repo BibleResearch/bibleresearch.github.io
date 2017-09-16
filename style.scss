@@ -142,6 +142,19 @@ img {
     clear: both;
 }
 
+.post-tags {
+    text-align: right;
+    text-decoration: none;
+    font: italic 700 16px/30px Georgia, serif
+}
+
+.tag {
+    display: inline;
+    background-color: #555;
+    color: white;
+    padding: .25em;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/

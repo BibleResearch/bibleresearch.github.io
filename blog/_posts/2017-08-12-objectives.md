@@ -3,6 +3,9 @@ layout: post
 category: blog
 title: Blog Objectives
 author: Floyd Hightower
+tags:
+    - Why
+    - Objectives
 ---
 
 What is the objective of this blog?
