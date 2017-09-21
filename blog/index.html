@@ -4,17 +4,26 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    {% if post.categories contains 'blog' %}
-        <article class="post">
+    <article class="post">
 
-          <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1 style="display: inline;"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>&nbsp;&nbsp;<time style="display: inline;">{{ post.date | date: "%B %-d, %Y" }}</time>
 
-          <div class="entry">
-            {{ post.excerpt }}
-          </div>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-        </article>
-    {% endif %}
+      {% if post.tags %}
+        {% assign first_tag = post.tags | first %}
+        {% assign remaining_tags = post.tags | shift %}
+        <div class="post-tags">
+          <div class="tag category-tag">{{ first_tag }}</div>
+          {% for tag in remaining_tags %}
+            <div class="tag">{{ tag }}</div>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
   {% endfor %}
 </div>
