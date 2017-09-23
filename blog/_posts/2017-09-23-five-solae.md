@@ -13,7 +13,7 @@ tags:
 
 Many protestants are very familiar with the five 'solas' of the Reformation, but do you understand how they relate with one another?
 
-In 1965, <intro here> summarized the reformation in five exclusive statements deemed 'Solae' or 'Solas':
+The principles behind the reformation are often summarized in five exclusive statements deemed 'Solae' or 'Solas':
 
 - Sola Scriptura ("Scripture alone")
 - Sola Fide ("faith alone")
