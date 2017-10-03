@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Why we are apathetic toward Leviticus.
+title: Why you are apathetic toward Leviticus.
 author: Floyd Hightower
 tags:
     - Thought
