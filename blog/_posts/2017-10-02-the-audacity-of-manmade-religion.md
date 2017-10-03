@@ -8,6 +8,8 @@ tags:
     - Man-made Religion
     - Arrogance
     - Strange Fire
+    - Nadab and Abihu
+    - Leviticus
     - Sin
 ---
 
