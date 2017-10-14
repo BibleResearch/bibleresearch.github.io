@@ -8,6 +8,7 @@ tags:
     - Spies
     - Promised Land
     - Leviticus
+    - Old Testament
 ---
 
 In Leviticus 13:25-33, the spies sent into the Promised Land return with a scouting report. There is some subtlety, however, to the way in which the report is described in the text that leads me to believe there is more to this account than is normally assumed. This post lays out what I believe to be the best understanding of the passage.

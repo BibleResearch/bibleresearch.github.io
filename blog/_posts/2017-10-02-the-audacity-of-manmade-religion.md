@@ -9,8 +9,9 @@ tags:
     - Arrogance
     - Strange Fire
     - Nadab and Abihu
-    - Leviticus
     - Sin
+    - Leviticus
+    - Old Testament
 ---
 
 Man-made religion is futile and abhorrent for a few reasons, but one, particular horror towers above the rest. Behind man-made religion is the arrogant declaration that we define the terms of our relationship with God. Thus, it is impossible for man-made religions to worship anything but man himself.
