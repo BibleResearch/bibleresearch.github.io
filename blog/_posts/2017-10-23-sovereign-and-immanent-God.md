@@ -17,9 +17,9 @@ Psalm 90 deals with one of the most basic challenges facing humanity: If there r
 
 Before we begin, let's define some of the terms with which we may not be familiar:
 
-> *Sovereignty of God:* God's absolute control and rule over everything.
+> **Sovereignty of God:** God's absolute control and rule over everything.
 > 
-> *Immanence of God:* The tendency of God to relate with His creation and interact in human history.
+> **Immanence of God:** The tendency of God to relate with His creation and interact in human history.
 
 If both of these attributes as well as Holiness and Omniscience are accurate descriptions of God's character (and they are according to the testimony of Psalm 90 and scripture as a whole), then humans have a big problem. A God who is sovereign (in control), omniscient (knows everything a man does, thinks and feels), holy (separated and opposed to evil) *and* immanent (He relates with His creation) will produce a conundrum where God interacts and relates with His creation (due to His immanence) while killing them for their sin (because of His omniscience, sovereignty, and holiness). Psalm 90 explores this tension.
 
