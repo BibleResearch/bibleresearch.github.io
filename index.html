@@ -18,7 +18,7 @@ layout: default
         <div class="post-tags">
           <div class="tag category-tag">{{ first_tag }}</div>
           {% for tag in remaining_tags %}
-            <div class="tag">{{ tag }}</div>
+            <a href="/tags#{{ tag | downcase }}" class="tag">{{ tag }}</a>
           {% endfor %}
         </div>
       {% endif %}
