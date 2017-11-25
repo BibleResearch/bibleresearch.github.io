@@ -2,6 +2,10 @@
 layout: post
 category: blog
 title: If you can read this... Thank a Teacher!
+tags:
+    - Admonition
+    - Teachers/Teaching
+    - Thankfulness
 ---
 
 This week, take some time to thank a teacher or mentor you appreciate.
@@ -17,3 +21,5 @@ We need to develop a culture where teachers challenge students to learn and grow
 The best growth and learning occurs when both teachers *and* students are engaged in the teaching/learning process.
 
 All of these principles also apply to student-teacher relationships outside of the Church, but especially those within the Church.
+
+Find someone you appreciate and say "Thank you" now!
