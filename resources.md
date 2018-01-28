@@ -11,3 +11,4 @@ Helpful resources for studying and applying the Bible.
 - [Parabible](https://parabible.com/) - This is a great site for viewing the Hebrew and LXX for OT passages.
 - [Manuscript Comparator](http://prototypes.openscriptures.org/manuscript-comparator/) - Good way to view and compare the contents of diverse manuscripts.
 - [Inscript](https://inscript.org/) - Good site for viewing multiple translations in parallel.
+- [Bible study notes on each book of the Bible](http://www.soniclight.com/constable/notes.htm) - These are helpful notes for an in-depth introduction to each book of the Bible.
