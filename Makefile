@@ -7,3 +7,5 @@ upbook:
 	cd bible-notes/ && gitbook install && gitbook build
 	cp -r bible-notes/_book/ ./notes/
 	rm -rf bible-notes/
+	rm -rf ./notes/tests
+	rm -rf ./notes/.travis.yml
