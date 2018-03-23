@@ -7,7 +7,7 @@ tags:
     - Thought
     - Wisdom
     - Wisdom Literature
-    - performativity
+    - Performativity
     - Performative Literature
     - Philosophy of Language
     - Old Testament
