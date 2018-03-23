@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: If you can read this... Thank a Teacher!
+author: Floyd Hightower
 tags:
     - Admonition
     - Teachers/Teaching
