@@ -4,6 +4,7 @@ category: blog
 title: "Practical Spiritual Disciplines: Introduction"
 author: Floyd Hightower
 tags:
+    - Thought
     - Spiritual Disciplines
 ---
 
