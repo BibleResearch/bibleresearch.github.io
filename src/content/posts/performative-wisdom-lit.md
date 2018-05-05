@@ -19,7 +19,7 @@ The Bible contains an entire theology of performative language (creation, prayer
 
 If you have read Ecclesiastes cursorily a few times and think you understand it, you probably do not (reread it and wrestle with it... do the preacher's words in 7:15-18 give biblical, Godly advice?). The arguments presented by Job, Eliphaz, Bildad, Zophar, and Elihu in the book of Job build on one another throughout the book and can be complex. If you want easy, 'fast-food'-style bible study, wisdom literature is not the place to go (although, the desire for spiritual 'fast-food' is itself a problem). Studying, understanding, and applying wisdom literature is hard. And it has to be this way in order to teach you what true wisdom is and to start producing it in your life.
 
-I encourage you to wrestle with [Ecclesiastes](http://bibleresearch.tk/notes/old_testament/wisdom_literature/ecclesiastes.html) or [Job](http://bibleresearch.tk/notes/old_testament/wisdom_literature/job.html). Both of these are powerful books that will force you to develop wisdom. Make no mistake... wisdom literature has an agenda. It is out to get you (Proverbs 9:3-6).
+I encourage you to wrestle with [Ecclesiastes](https://bible.hightower.space/notes/old_testament/wisdom_literature/ecclesiastes.html) or [Job](https://bible.hightower.space/notes/old_testament/wisdom_literature/job.html). Both of these are powerful books that will force you to develop wisdom. Make no mistake... wisdom literature has an agenda. It is out to get you (Proverbs 9:3-6).
 
 ### Notes
 
