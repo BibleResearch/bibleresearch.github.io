@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Bible Research</title>
-    <link>//localhost:8000/categories/</link>
+    <link>//bible.hightower.space/categories/</link>
     <description>Recent content in Categories on Bible Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="//localhost:8000/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//bible.hightower.space/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

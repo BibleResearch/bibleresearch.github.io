@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Church on Bible Research</title>
-    <link>//localhost:8000/tags/church/</link>
+    <link>//bible.hightower.space/tags/church/</link>
     <description>Recent content in Church on Bible Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 30 Dec 2017 06:21:22 -0300</lastBuildDate>
     
-	<atom:link href="//localhost:8000/tags/church/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//bible.hightower.space/tags/church/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Are you Wasting your Life?</title>
-      <link>//localhost:8000/posts/dont-waste-your-life/</link>
+      <link>//bible.hightower.space/posts/dont-waste-your-life/</link>
       <pubDate>Sat, 30 Dec 2017 06:21:22 -0300</pubDate>
       
-      <guid>//localhost:8000/posts/dont-waste-your-life/</guid>
+      <guid>//bible.hightower.space/posts/dont-waste-your-life/</guid>
       <description>You only have one, short life. What is the most valuable thing you can do with it?
 I don&amp;rsquo;t know about you, but one of my greatest fears is wasting my life. Getting to 60 years of age and realizing, with a hollow, sinking feeling in the pit of my stomach, that I haven&amp;rsquo;t done anything with my life.
 The problem for many, myself included, is knowing what is the most valuable thing we can be doing.</description>

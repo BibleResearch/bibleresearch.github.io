@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Language on Bible Research</title>
-    <link>//localhost:8000/tags/language/</link>
+    <link>//bible.hightower.space/tags/language/</link>
     <description>Recent content in Language on Bible Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Sep 2017 06:21:22 -0300</lastBuildDate>
     
-	<atom:link href="//localhost:8000/tags/language/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//bible.hightower.space/tags/language/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Watch your Lingo!</title>
-      <link>//localhost:8000/posts/watch-your-lingo/</link>
+      <link>//bible.hightower.space/posts/watch-your-lingo/</link>
       <pubDate>Mon, 04 Sep 2017 06:21:22 -0300</pubDate>
       
-      <guid>//localhost:8000/posts/watch-your-lingo/</guid>
+      <guid>//bible.hightower.space/posts/watch-your-lingo/</guid>
       <description>We are living in what is quickly becoming a post-Christian culture. As such, pastors, teachers, leaders, and even lay Christians need to wake up to the reality that Christian jargon widely understood in previous generations is no longer understood by the vast majority of people under the age of 30.
 Examples Last time communion was served at my Church, I heard the familiar phrase: &amp;ldquo;If you are not a believer, please let the elements pass you by&amp;rdquo;.</description>
     </item>

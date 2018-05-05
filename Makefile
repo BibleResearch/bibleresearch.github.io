@@ -2,10 +2,10 @@ help:
 	@echo "upbook 		Update bible notes from https://github.com/BibleResearch/bible-notes"
 
 upbook:
-	rm -rf public/notes/
+	rm -rf notes/
 	git clone https://github.com/BibleResearch/bible-notes.git
 	cd bible-notes/ && gitbook install && gitbook build
-	cp -r bible-notes/_book/ ./public/notes/
+	cp -r bible-notes/_book/ ./notes/
 	rm -rf bible-notes/
-	rm -rf ./public/notes/tests
-	rm -rf ./public/notes/.travis.yml
+	rm -rf ./notes/tests
+	rm -rf ./notes/.travis.yml

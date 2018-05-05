@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Why on Bible Research</title>
-    <link>//localhost:8000/tags/why/</link>
+    <link>//bible.hightower.space/tags/why/</link>
     <description>Recent content in Why on Bible Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 12 Aug 2017 06:21:22 -0300</lastBuildDate>
     
-	<atom:link href="//localhost:8000/tags/why/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//bible.hightower.space/tags/why/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog Objectives</title>
-      <link>//localhost:8000/posts/blog-objectives/</link>
+      <link>//bible.hightower.space/posts/blog-objectives/</link>
       <pubDate>Sat, 12 Aug 2017 06:21:22 -0300</pubDate>
       
-      <guid>//localhost:8000/posts/blog-objectives/</guid>
+      <guid>//bible.hightower.space/posts/blog-objectives/</guid>
       <description>What is the objective of this blog?
 The basic objective of this blog is to give me a platform to communicate some of the thoughts and observations I have that don&amp;rsquo;t fit well into the Bible Notes project. My goal in voicing some of these thoughts is to provide more resources that will strengthen the Church and produce mature, thoughtful followers of Christ. It also gives me the chance to hone my writing and communication skills (which I then hope to use to strengthen the Church).</description>
     </item>
