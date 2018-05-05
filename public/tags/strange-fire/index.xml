@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strange Fire on Bible Research</title>
+    <link>//localhost:8000/tags/strange-fire/</link>
+    <description>Recent content in Strange Fire on Bible Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Oct 2017 06:21:22 -0300</lastBuildDate>
+    
+	<atom:link href="//localhost:8000/tags/strange-fire/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Audacity of Man-made Religion</title>
+      <link>//localhost:8000/posts/the-audacity-of-manmade-religion/</link>
+      <pubDate>Mon, 02 Oct 2017 06:21:22 -0300</pubDate>
+      
+      <guid>//localhost:8000/posts/the-audacity-of-manmade-religion/</guid>
+      <description>Man-made religion is futile and abhorrent for a few reasons, but one, particular horror towers above the rest. Behind man-made religion is the arrogant declaration that we define the terms of our relationship with God. Thus, it is impossible for man-made religions to worship anything but man himself.
+One of the clear themes throughout the Bible is that it is God who defines how His creation must/should interact with Him. We are in no position (that is, we have no authority) to come to God on our own terms.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numbers on Bible Research</title>
+    <link>//localhost:8000/tags/numbers/</link>
+    <description>Recent content in Numbers on Bible Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Oct 2017 06:21:22 -0300</lastBuildDate>
+    
+	<atom:link href="//localhost:8000/tags/numbers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Spies&#39; Bad Report</title>
+      <link>//localhost:8000/posts/spies-bad-report/</link>
+      <pubDate>Sat, 14 Oct 2017 06:21:22 -0300</pubDate>
+      
+      <guid>//localhost:8000/posts/spies-bad-report/</guid>
+      <description>In Numbers 13:25-33, the spies sent into the Promised Land return with a scouting report. There is some subtlety, however, to the way in which the report is described in the text that leads me to believe there is more to this account than is normally assumed. This post lays out what I believe to be the best understanding of the passage.
+What is described below is, in my estimation, a well-supported theory, but a theory nonetheless.</description>
+    </item>
+    
+  </channel>
+</rss>

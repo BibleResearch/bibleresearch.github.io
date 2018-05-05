@@ -1,5 +1,5 @@
-# Bible Research Blog
+# Bible Research Website
 
-This is a blog is a place to post some interesting observations and thoughts on the Bible.
+Code for the Bible Research website. This is a site I have been working on for a while as a place to find helpful resources for reading, studying, understanding, and applying the Bible.
 
-This blog was created using [Jekyll Now](http://www.jekyllnow.com/) (which I highly recommend if you're just getting started with Jekyll).
+Check it out at [https://bible.hightower.space](https://bible.hightower.space).

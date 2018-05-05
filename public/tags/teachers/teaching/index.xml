@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachers/Teaching on Bible Research</title>
+    <link>//localhost:8000/tags/teachers/teaching/</link>
+    <description>Recent content in Teachers/Teaching on Bible Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Nov 2017 06:21:22 -0300</lastBuildDate>
+    
+	<atom:link href="//localhost:8000/tags/teachers/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>If you can read this... Thank a Teacher!</title>
+      <link>//localhost:8000/posts/thank-your-teachers/</link>
+      <pubDate>Thu, 23 Nov 2017 06:21:22 -0300</pubDate>
+      
+      <guid>//localhost:8000/posts/thank-your-teachers/</guid>
+      <description>This week, take some time to thank a teacher or mentor you appreciate.
+All it takes is a quick email, phone call, or even a text. Or better yet&amp;hellip; next time you see them, take some time to let them know how much you appreciate what they do for you. It is really hard to be a teacher and is often a thank-less endeavour which can get depressing over time. Even a short word of thanks can go great lengths to encourage your teacher.</description>
+    </item>
+    
+  </channel>
+</rss>

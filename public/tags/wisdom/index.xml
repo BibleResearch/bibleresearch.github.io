@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wisdom on Bible Research</title>
+    <link>//localhost:8000/tags/wisdom/</link>
+    <description>Recent content in Wisdom on Bible Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Mar 2018 06:21:22 -0300</lastBuildDate>
+    
+	<atom:link href="//localhost:8000/tags/wisdom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Performative Nature of Wisdom Literature</title>
+      <link>//localhost:8000/posts/performative-wisdom-lit/</link>
+      <pubDate>Sun, 11 Mar 2018 06:21:22 -0300</pubDate>
+      
+      <guid>//localhost:8000/posts/performative-wisdom-lit/</guid>
+      <description>Wisdom literature in the Bible (books like Job, Proverbs, and Ecclesiastes) is not easy to understand&amp;hellip; and this is no accident. It is designed not only to show you what true wisdom is, but also to produce it within you. This is what makes wisdom literature performative.
+In linguistics, performativity describes of the ability of communication (in any form) to do something.1 This is a break from the way we normally view language as a means of describing something or asking someone to do something.</description>
+    </item>
+    
+  </channel>
+</rss>

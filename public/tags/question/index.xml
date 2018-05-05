@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Question on Bible Research</title>
+    <link>//localhost:8000/tags/question/</link>
+    <description>Recent content in Question on Bible Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Oct 2017 06:21:22 -0300</lastBuildDate>
+    
+	<atom:link href="//localhost:8000/tags/question/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cain &amp; Abel</title>
+      <link>//localhost:8000/posts/cain-and-abel/</link>
+      <pubDate>Mon, 23 Oct 2017 06:21:22 -0300</pubDate>
+      
+      <guid>//localhost:8000/posts/cain-and-abel/</guid>
+      <description>Why was Abel&amp;rsquo;s sacrifice accepted while Cain&amp;rsquo;s was not?
+Genesis 4:1-15 describes the infamous story of Cain and Abel. In this story, two brothers, Cain (a &amp;ldquo;tiller of the ground&amp;rdquo;) and Abel (a &amp;ldquo;keeper of flocks&amp;rdquo;), bring a sacrifice before God (see Genesis 4:2-3). Verses three and four tell us that Cain brings &amp;ldquo;an offering of the fruit of the ground&amp;rdquo; and Abel brings &amp;ldquo;the firstlings of his flock and their fat portions&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Why is Canaan Cursed Rather than Ham?</title>
+      <link>//localhost:8000/posts/canaan-and-ham/</link>
+      <pubDate>Thu, 14 Sep 2017 06:21:22 -0300</pubDate>
+      
+      <guid>//localhost:8000/posts/canaan-and-ham/</guid>
+      <description>Characteristic of the strange stories in Genesis, the story of Shem, Ham (and Canaan), and Japheth in Genesis 9:18-27 is the subject of much debate. Of particular interest is this: Why does Noah curse Canaan (Ham&amp;rsquo;s son) if Ham was the one who perpetrated the crime in question?
+The text does not give us enough details to know exactly why, but I think there are a few things we can conclude from the passage:</description>
+    </item>
+    
+    <item>
+      <title>Satan or Serpent? Understanding the Protevangelium.</title>
+      <link>//localhost:8000/posts/defending-protevangelium/</link>
+      <pubDate>Fri, 25 Aug 2017 06:21:22 -0300</pubDate>
+      
+      <guid>//localhost:8000/posts/defending-protevangelium/</guid>
+      <description>Are we right to interpret Genesis 3:15 as applying to Satan?
+I was recently reading through Genesis and paused when I got to Genesis 3:14-15. I have always been taught that Genesis 3:15 was directed not at the physical serpent (that is, the creature itself), but the spiritual &amp;lsquo;serpent&amp;rsquo; (who is Satan). But in my recent reading, I asked myself: Are we right to interpret Genesis 3:15 in this way?</description>
+    </item>
+    
+    <item>
+      <title>Blog Objectives</title>
+      <link>//localhost:8000/posts/blog-objectives/</link>
+      <pubDate>Sat, 12 Aug 2017 06:21:22 -0300</pubDate>
+      
+      <guid>//localhost:8000/posts/blog-objectives/</guid>
+      <description>What is the objective of this blog?
+The basic objective of this blog is to give me a platform to communicate some of the thoughts and observations I have that don&amp;rsquo;t fit well into the Bible Notes project. My goal in voicing some of these thoughts is to provide more resources that will strengthen the Church and produce mature, thoughtful followers of Christ. It also gives me the chance to hone my writing and communication skills (which I then hope to use to strengthen the Church).</description>
+    </item>
+    
+  </channel>
+</rss>

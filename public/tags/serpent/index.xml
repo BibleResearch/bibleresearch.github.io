@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serpent on Bible Research</title>
+    <link>//localhost:8000/tags/serpent/</link>
+    <description>Recent content in Serpent on Bible Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Aug 2017 06:21:22 -0300</lastBuildDate>
+    
+	<atom:link href="//localhost:8000/tags/serpent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Satan or Serpent? Understanding the Protevangelium.</title>
+      <link>//localhost:8000/posts/defending-protevangelium/</link>
+      <pubDate>Fri, 25 Aug 2017 06:21:22 -0300</pubDate>
+      
+      <guid>//localhost:8000/posts/defending-protevangelium/</guid>
+      <description>Are we right to interpret Genesis 3:15 as applying to Satan?
+I was recently reading through Genesis and paused when I got to Genesis 3:14-15. I have always been taught that Genesis 3:15 was directed not at the physical serpent (that is, the creature itself), but the spiritual &amp;lsquo;serpent&amp;rsquo; (who is Satan). But in my recent reading, I asked myself: Are we right to interpret Genesis 3:15 in this way?</description>
+    </item>
+    
+  </channel>
+</rss>

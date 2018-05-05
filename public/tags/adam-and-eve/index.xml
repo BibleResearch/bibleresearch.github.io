@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam and Eve on Bible Research</title>
+    <link>//localhost:8000/tags/adam-and-eve/</link>
+    <description>Recent content in Adam and Eve on Bible Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Aug 2017 06:21:22 -0300</lastBuildDate>
+    
+	<atom:link href="//localhost:8000/tags/adam-and-eve/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Satan or Serpent? Understanding the Protevangelium.</title>
+      <link>//localhost:8000/posts/defending-protevangelium/</link>
+      <pubDate>Fri, 25 Aug 2017 06:21:22 -0300</pubDate>
+      
+      <guid>//localhost:8000/posts/defending-protevangelium/</guid>
+      <description>Are we right to interpret Genesis 3:15 as applying to Satan?
+I was recently reading through Genesis and paused when I got to Genesis 3:14-15. I have always been taught that Genesis 3:15 was directed not at the physical serpent (that is, the creature itself), but the spiritual &amp;lsquo;serpent&amp;rsquo; (who is Satan). But in my recent reading, I asked myself: Are we right to interpret Genesis 3:15 in this way?</description>
+    </item>
+    
+    <item>
+      <title>Please Pass the Pomegranate. Understanding the Nature of Sin in Genesis 3.</title>
+      <link>//localhost:8000/posts/understanding-sin-from-genesis3/</link>
+      <pubDate>Wed, 16 Aug 2017 06:21:22 -0300</pubDate>
+      
+      <guid>//localhost:8000/posts/understanding-sin-from-genesis3/</guid>
+      <description>Just three short chapters into the narrative of God&amp;rsquo;s redemptive plan, we find Adam and Eve in the Garden of Eden, clothed with fig leaves and damning themselves and their children to a life separated from God. There are two observations about the story in Genesis 3 that I wish to make which will help us better understand the nature of sin.
+First, consider who or what was involved in making Eve sin.</description>
+    </item>
+    
+  </channel>
+</rss>
