@@ -12,11 +12,11 @@ tags:
 
 The record of human history demonstrates that God does three, wonderful things for mankind: He saves; He satisfies; He sustains. Psalm 62 celebrates these wonderful truths and emphasizes God's unique ability to provide in each area.
 
-### Background
+# Background
 
 According to the [superscription](https://en.wikipedia.org/wiki/Psalms#Superscriptions_and_attributions), Psalm 62 is a psalm of David. While there is no explicit, historical context for the psalm, it refers to those who "assail a man that you may murder him" (Psalm 62:3). There were multiple points in David's life when people were seeking to kill him, so this psalm could have been inspired by many of the events in David's life.
 
-### Structure
+# Structure
 
 The psalm breaks down into five sections:
 
@@ -28,11 +28,11 @@ The psalm breaks down into five sections:
 
 There are a couple things to note when considering the structure of this psalm. First, the stanzas alternatively focus on God (in stanzas 1, 3, and 5) and men (stanzas 2 and 4). This parallelism emphasizes the contrast between God and man. Second, there is interesting interplay between the stanzas. For example, compare stanza 1 with stanza 3; they are almost the same. Now, consider stanzas 2 and 4; David's description of men changes. Ignoring, for the moment, the content of each stanza, the very fact that the stanzas about men change while the stanzas about God remain largely the same should tell you something. David is communicating theology through structure and not just content.
 
-### Content
+# Content
 
 So what does the text say? As stated at the beginning, this psalm primarily focuses on God's ability to save (in David's case, save from physical dangers), satisfy, and sustain. There is also an emphasis throughout the psalm on God's unique ability to do each one. We'll now consider each of these points.
 
-#### God's Ability to Save
+## God's Ability to Save
 
 When we read about salvation in the Bible, it is important to ask ourselves a few questions:
 
@@ -63,18 +63,18 @@ Does the salvation described in this psalm apply to us? To put it differently: c
 
 I say all this to make it clear that God makes different promises to different people at different times. If we fail to recognize this, we will misinterpret many passages. Psalm 62 does not apply *directly* to us, but the theology presented in the psalm absolutely applies.
 
-#### God's Ability to Satisfy
+## God's Ability to Satisfy
 
 God satisfies unlike anything else. One of the recurring themes throughout scripture (whether in narratives or admonition) is the vanity of seeking money, power, status, sex, or possessions as the ultimate purpose and satisfaction in one's life. Our passions and desires are too great to be satisfied with trivialities such as these; we were designed to be in relationship with an infinite and infinitely good being. How can the passing pleasures of possessions satisfy? In Psalm 62:7, David states that his glory is found in God. That is, the thing in which he most rejoices and uses to define himself is God. David is stating that even in the midst of difficult and trying circumstances, God is the one who ultimately satisfies.
 
-#### God's Ability to Sustain
+## God's Ability to Sustain
 
 The descriptions of God as a "rock" (verses 2, 6, and 7), "stronghold" (verses 2 and 6), and "refuge" (verses 7 and 8) emphasize God's ability to protect and sustain those God loves *through* trials. Neither David nor us have a promise that there will be no trials in this life, but we both have promises and examples of God's protection. What a joy for David ad for us to be able to trust in God's faithfulness and protection! It doesn't diminish the trial nor remove the distressing circumstances, but it gives us hope to persevere in the midst of hardship. This is reminiscent of what Paul says in 2 Corinthians 4:7-12. Paul and his companions were simultaneously suffering greatly and yet sustained by God.
 
-#### The Uniqueness of God's Abilities
+## The Uniqueness of God's Abilities
 
 Not only does Psalm 62 establish God ability to save, satisfy, and sustain, but it also reminds us of God's unique ability to do each of these things. There is nothing that can save but God. There is nothing that can truly satisfy like God. There is nothing that can ultimately sustain but God. As David notes in verses 9 and 10, it is tempting to trust in men, oppression, robbery, and/or wealth, but all of these things are not worth comparing to God.
 
-### Parting Thoughts
+# Parting Thoughts
 
 **Do you believe that God is uniquely able to save, satisfy, and sustain?** Better yet: Does your life demonstrate you believe this? Let us learn to cultivate a heart and mind that views God as the source and giver of all good things. Let us trust in him for salvation from our sins, hope in Him for future salvation from this fallen world, seek the pleasures He provides, and find refuge and rest in Him.

@@ -1,16 +1,16 @@
 ---
 title: "Practical Spiritual Disciplines: Introduction"
 date: 2018-05-04T06:21:22-03:00
-tags: ["Thought", "Spiritual Disciplines"]
+tags: ["Spiritual Disciplines"]
 ---
 
 This is the introduction to a series which gives practical steps for practicing the "spiritual disciplines" (activities like prayer, reading your Bible, serving the Church, etc). In this post, I lay out the motivation and objectives for this series.
 
-### Motivation
+# Motivation
 
 In Western, conservative Churches, our knowledge often far exceeds our living. That is, we usually know far more about theology than we live out in our lives. When it comes down to it, most of us know *what* we are supposed to do (for example: pray, read your Bible, evangelize, etc.) and *why* we are supposed to do those things, but we still are not doing the things we should. Part of the problem is that we rarely discuss *how* we are supposed to do something. We talk about "what" you are supposed to do and "why" you should do it, but we rarely discuss how you are supposed to practically do something. This blog series started out of frustration with not being able to find quality, practical guides on how to practice spiritual disciplines in your life. In short, this series is designed to help you learn how to make prayer, bible study, service in the Church, etc. a regular part of your life.
 
-### Objectives
+# Objectives
 
 The ultimate objective of this blog series is that you glorify God more through your obedience of and growth in Him while also growing in your love for Him. To achieve this end, there are three traits that will characterize every post in this series:
 
