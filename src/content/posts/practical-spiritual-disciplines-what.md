@@ -1,5 +1,5 @@
 ---
-title: "What are Spiritual Disciplines?"
+title: "Practical Spiritual Disciplines: What are Spiritual Disciplines?"
 date: 2018-05-06T06:21:22-03:00
 tags: ["Spiritual Disciplines"]
 ---
