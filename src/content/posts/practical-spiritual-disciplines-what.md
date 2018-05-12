@@ -2,9 +2,14 @@
 title: "Practical Spiritual Disciplines: What are Spiritual Disciplines?"
 date: 2018-05-06T06:21:22-03:00
 tags: ["Spiritual Disciplines"]
+description: "Introduction to a new series on practical spiritual disciplines."
 ---
 
-I'm starting a series called "Practical Spiritual Disciplines" (there is an introduction [here](../practical-spiritual-disciplines-why)) in which I will be discussing *how* to practice the spiritual disciplines. Before I do this, however, I figured I had better define what I mean by a "spiritual discipline" and that is the subject of this post.
+I'm starting a series called [Practical Spiritual Disciplines](../practical-spiritual-disciplines-why) which is designed to show you *what* tools and activities God has given us to grow and *how* we can practices these disciplines in our daily lives. This post is designed to discuss what I mean by a "spiritual discipline" and to look at some of the spiritual disciplines presented in the Bible.
+
+> “We are far too easily pleased.” 
+> 
+> ~ C.S. Lewis, The Weight of Glory
 
 # Definition
 
@@ -18,9 +23,9 @@ The idea of spiritual disciplines comes from the Bible. In Philippians 2:12-13, 
 
 Even if you have never heard the phrase "spiritual disciplines" before, you are certainly familiar with some examples. Some of the spiritual disciplines we'll be discussing in this series are:
 
-- Bible reading/study
-- Prayer
-- Fasting
-- Serving the Church
+- Bible reading/study (see Hebrews 5:11-14, 1 Timothy 3:2, 3:9, and 2 Timothy 2:15)
+- Prayer and Fasting (1 Thessalonians 5:17, Ephesians 6:18, Colossians 4:12, 1 Peter 3:7, Matthew 6:9-13, Acts 13:2-3, 1 Peter 4:7, and Daniel 9:3-4)
+- Serving the Church (1 Peter 4:7-11 and Ephesians 4)
+- Tithing (see 1 Timothy 6:17-19 and 2 Corinthians 9:7)
 
-There are others given in scripture, but these are the main ones we'll be focusing on. Again, we will be answering questions like "How do I develop this habit?" and "How do I practice this discipline in my life?". It's going to be good!
+There are other spiritual disciplines given in scripture, but these are the main ones we'll be focusing on. Again, we will be answering questions like "How do I develop this habit?" and "How do I practice this discipline in my life?". It's going to be good!
