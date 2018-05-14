@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//bible.hightower.space/posts/prayer-plan/</loc>
+    <lastmod>2018-05-13T06:21:22-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//bible.hightower.space/posts/practical-spiritual-disciplines-prayer/</loc>
+    <lastmod>2018-05-12T06:21:22-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//bible.hightower.space/posts/practical-spiritual-disciplines-what/</loc>
     <lastmod>2018-05-06T06:21:22-03:00</lastmod>
   </url>
@@ -128,7 +138,7 @@
   
   <url>
     <loc>//bible.hightower.space/</loc>
-    <lastmod>2018-05-06T06:21:22-03:00</lastmod>
+    <lastmod>2018-05-13T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -313,7 +323,13 @@
   
   <url>
     <loc>//bible.hightower.space/posts/</loc>
-    <lastmod>2018-05-06T06:21:22-03:00</lastmod>
+    <lastmod>2018-05-13T06:21:22-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//bible.hightower.space/tags/prayer/</loc>
+    <lastmod>2018-05-13T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -401,7 +417,7 @@
   
   <url>
     <loc>//bible.hightower.space/tags/spiritual-disciplines/</loc>
-    <lastmod>2018-05-06T06:21:22-03:00</lastmod>
+    <lastmod>2018-05-13T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   
