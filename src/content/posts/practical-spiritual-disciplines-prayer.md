@@ -1,10 +1,11 @@
 ---
 title: "Practical Spiritual Disciplines: Prayer"
 date: 2018-05-12T06:21:22-03:00
+description: "In this article, I'm going to discuss how we can make prayer a regular part of our lives."
 tags: ["Spiritual Disciplines", "Prayer"]
 ---
 
-I'm starting a series called [Practical Spiritual Disciplines](../practical-spiritual-disciplines-why) in which I will be discussing *how* to practice the spiritual disciplines. In this article, I'm going to discuss how we can make prayer a regular part of our lives.
+This is part of a series called [Practical Spiritual Disciplines](../practical-spiritual-disciplines-why) in which I will be discussing *how* to practice the spiritual disciplines.
 
 # The Question
 

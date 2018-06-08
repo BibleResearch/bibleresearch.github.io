@@ -2,9 +2,10 @@
 title: "Prayer Plan"
 date: 2018-05-13T06:21:22-03:00
 tags: ["Spiritual Disciplines", "Prayer"]
+description: "In this post, I'm laying out a system I use to help me pray for other people and requests consistently over time while not getting bored because I'm praying for the same thing or getting frustrated because I don't know what to pray for."
 ---
 
-In this post, I'm laying out a system I use to help me pray for other people and requests consistently over time while not getting bored because I'm praying for the same thing or getting frustrated because I don't know what to pray for. I use it as a system for guiding my prayer life and I hope you find it helpful. Feel free to tweak and modify it as you see fit.
+I use it as a system for guiding my prayer life and I hope you find it helpful. Feel free to tweak and modify it as you see fit.
 
 # Basics
 

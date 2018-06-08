@@ -1,6 +1,7 @@
 ---
 title: "Psalm 62: God's Unique Ability to Save, Satisfy, and Sustain"
 date: 2018-01-20T06:21:22-03:00
+description: "The record of human history demonstrates that God does three, wonderful things for mankind: He saves; He satisfies; He sustains. Psalm 62 celebrates these wonderful truths and emphasizes God's unique ability to provide in each area."
 tags:
     - Thought
     - Salvation
@@ -9,8 +10,6 @@ tags:
     - Psalms
     - Old Testament
 ---
-
-The record of human history demonstrates that God does three, wonderful things for mankind: He saves; He satisfies; He sustains. Psalm 62 celebrates these wonderful truths and emphasizes God's unique ability to provide in each area.
 
 # Background
 

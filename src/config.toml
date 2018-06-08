@@ -17,7 +17,7 @@ theme = "hugo-theme-cactus-plus"
 
     enableSummary = true
     # Set the value to true if use description in post front matter replace content summary
-    useDescriptionReplaceSummary = false
+    useDescriptionReplaceSummary = true
 
     enableTwitterCard = true
     # The url for twitter card image, default is avatar.png in static/images directory

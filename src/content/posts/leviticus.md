@@ -1,15 +1,14 @@
 ---
-title: Why you are apathetic toward Leviticus.
+title: Why you are Apathetic Toward Leviticus.
 date: 2017-09-29T06:21:22-03:00
+description: "Let's face it, Leviticus can be a hard book to read. It is probably the biggest killers of Bible reading plans. How can we get any value out of this book? In this post, I point out a couple mistakes we make when come to the book of Leviticus and suggest some ways to better understand and apply Leviticus."
 tags:
     - Thought
     - Leviticus
     - Old Testament
 ---
 
-Let's face it, Leviticus can be a hard book to read. It is probably the biggest killers of Bible reading plans. How can we get any value out of this book? In this post, I point out a couple mistakes we make when come to the book of Leviticus and suggest some ways to better understand and apply Leviticus.
-
-### Mistakes
+# Mistakes
 
 We often make two, critical mistakes when we read the book of Leviticus. First, we are to busy looking for imperatives and applications that we miss the meaning (and, therefore, the real applications). Second, we isolate Leviticus and don't read it as part of a larger story. Let us begin with the first issue.
 
@@ -17,7 +16,7 @@ We, Christians who hold the Bible as the sole authority for life and Godliness, 
 
 The second issue stems from the fact that we, speaking for the Church in the United States of entertainment, simply [do not read](fhightower.github.io/2017/09/books-love-reading/) enough of the Bible in one sitting. I do not mean that we are not listening to enough sermons, reading enough 'Christian' books, or spending enough time with our Bible's open (although this is the case for some); I simply mean that we do not read large sections of the Bible in one sitting. When was the last time you read a book in one or two sittings? Have you ever done this? I encourage you to start a habit of doing this as it will help in many different ways (which is the topic of another blog post). With respect to Leviticus, we miss out on the context and the questions behind the book largely because we have not read Exodus in one or two sittings right before reading Leviticus. Understanding the context and questions provided in Exodus helps us understand the importance of Leviticus. To prove this, have you ever noticed that in most English translations, Leviticus starts off with the word "then" or "and"? While Leviticus is a separate book, there is a seamless continuation of thought from the book of Exodus where we have just seen the glory of God descend on the Tabernacle in the midst of an grumbling and idolatrous people. One of the questions posed in Exodus is: *"How will a holy and faithful God dwell in the midst of an unholy and unfaithful people?"*. Leviticus offers many answers to this question, but we miss this because we have not read Exodus recently or very well. The Bible is literature and, if we forget to read it a such, we are in danger of forgetting how to understand God's revelation about Himself.
 
-### Solutions
+# Solutions
 
 So what can we do to understand the book of Leviticus? I believe there are at least two steps (corresponding to the mistakes noted above) we can take to better understand and appreciate this book. First, we need to understand how to read the Bible. Second, we need to ask the right questions.
 

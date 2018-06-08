@@ -1,6 +1,7 @@
 ---
 title: "The Performative Nature of Wisdom Literature"
 date: 2018-03-11T06:21:22-03:00
+description: "Wisdom literature in the Bible (books like Job, Proverbs, and Ecclesiastes) is not easy to understand... and this is no accident. It is designed not only to show you what true wisdom is, but also to produce it within you. Thus, wisdom literature is performative."
 tags:
     - Thought
     - Wisdom
@@ -11,7 +12,7 @@ tags:
     - Old Testament
 ---
 
-Wisdom literature in the Bible (books like Job, Proverbs, and Ecclesiastes) is not easy to understand... and this is no accident. It is designed not only to show you what true wisdom is, but also to produce it within you. This is what makes wisdom literature performative.
+# Performative Wisdom Literature
 
 In linguistics, performativity describes of the ability of communication (in any form) to *do* something.<sup>[1](#footnote1)</sup> This is a break from the way we normally view language as a means of describing something or asking someone to do something. Language itself can do things. For example, saying "I now pronounce you husband and wife" in the proper context is not just a declarative statement about what I happen to be doing at the moment. That statement actually *does* something (namely, seals a marriage).
 
@@ -21,6 +22,6 @@ If you have read Ecclesiastes cursorily a few times and think you understand it,
 
 I encourage you to wrestle with [Ecclesiastes](https://bible.hightower.space/notes/old_testament/wisdom_literature/ecclesiastes.html) or [Job](https://bible.hightower.space/notes/old_testament/wisdom_literature/job.html). Both of these are powerful books that will force you to develop wisdom. Make no mistake... wisdom literature has an agenda. It is out to get you (Proverbs 9:3-6).
 
-### Notes
+# Notes
 
 <a id="footnote1">1. </a>Jillian R. Cavanaugh, "Performativity," Performativity - Anthropology - Oxford Bibliographies, February 15, 2018, , accessed March 12, 2018, http://www.oxfordbibliographies.com/view/document/obo-9780199766567/obo-9780199766567-0114.xml.

@@ -1,6 +1,7 @@
 ---
 title: Understanding the Relationships between the Five 'Solas' of the Reformation.
 date: 2017-09-23T06:21:22-03:00
+description: "Many protestants are very familiar with the five 'solas' of the Reformation, but do you understand how they relate with one another?"
 tags:
     - Thought
     - Five Solas
@@ -8,8 +9,6 @@ tags:
     - Glory to God
     - Reformation
 ---
-
-Many protestants are very familiar with the five 'solas' of the Reformation, but do you understand how they relate with one another?
 
 The principles behind the reformation are often summarized in five exclusive statements deemed 'Solae' or 'Solas':
 

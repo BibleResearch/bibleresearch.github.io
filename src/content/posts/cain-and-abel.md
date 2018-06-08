@@ -1,6 +1,7 @@
 ---
 title: Cain & Abel
 date: 2017-10-23T06:21:22-03:00
+description: "Why was Abel's sacrifice accepted while Cain's was not?"
 tags:
     - Question
     - Cain
@@ -9,8 +10,6 @@ tags:
     - Genesis
     - Old Testament
 ---
-
-Why was Abel's sacrifice accepted while Cain's was not?
 
 Genesis 4:1-15 describes the infamous story of Cain and Abel. In this story, two brothers, Cain (a "tiller of the ground") and Abel (a "keeper of flocks"), bring a sacrifice before God (see Genesis 4:2-3). Verses three and four tell us that Cain brings "an offering of the fruit of the ground" and Abel brings "the firstlings of his flock and their fat portions". The end of verse four and beginning of verse five reads: "And the LORD had regard for Abel and for his offering; but for Cain and for his offering He had no regard.". What was it about Abel's offering that made it acceptable to God while Cain's offering was not acceptable? In Hebrews 11:4, we read that Abel "offered to God a *better* sacrifice than Cain..." (emphasis added). What made his sacrifice better? In this post, I make three observations on how Abel's sacrifice differs from Cain's in regard to the type, quality, and attitude of the offerings. I also propose that the primary reason Abel's sacrifice was accepted and Cain's was rejected was the attitude with which each sacrifice was brought.
 

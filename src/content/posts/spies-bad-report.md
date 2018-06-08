@@ -1,6 +1,7 @@
 ---
 title: The Spies' Bad Report
 date: 2017-10-14T06:21:22-03:00
+description: "In Numbers 13:25-33, the spies sent into the Promised Land return with a scouting report. There is some subtlety, however, to the way in which the report is described in the text that leads me to believe there is more to this account than is normally assumed. This post lays out what I believe to be the best understanding of the passage."
 tags:
     - Thought
     - Spies
@@ -9,9 +10,7 @@ tags:
     - Old Testament
 ---
 
-In Numbers 13:25-33, the spies sent into the Promised Land return with a scouting report. There is some subtlety, however, to the way in which the report is described in the text that leads me to believe there is more to this account than is normally assumed. This post lays out what I believe to be the best understanding of the passage.
-
-What is described below is, in my estimation, a well-supported theory, but a theory nonetheless. Consider it thoughtfully and critically.
+What is described below is, in my estimation, a well-supported conjecture, but a conjecture nonetheless. Consider it thoughtfully and critically.
 
 I believe that Numbers 13:25-33 can be broken down as follows:
 

@@ -1,6 +1,7 @@
 ---
 title: "Is Paul Interpreting the Old Testament Allegorically in Galatians 4?"
 date: 2018-05-23T06:21:22-03:00
+description: "In Galatians 4:21-31, is Paul interpreting the Old Testament allegorically?"
 tags: ["Question", "Interpretation", "Hermeneutics", "Allegory", "Paul", "Old Testament", "Abraham", "Sarah", "Hagar", "Galatians", "New Testament"]
 ---
 

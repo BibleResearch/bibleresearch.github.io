@@ -1,6 +1,7 @@
 ---
 title: "Passages for a Preliminary Understanding of the Plagues and the Exodus"
 date: 2017-09-16T06:21:22-03:00
+description: ""
 tags:
     - Introduction
     - Plagues

@@ -1,6 +1,7 @@
 ---
 title: Satan or Serpent? Understanding the Protevangelium.
 date: 2017-08-25T06:21:22-03:00
+description: "Are we right to interpret Genesis 3:15 as applying to Satan?"
 tags:
     - Question
     - Protevangelium
@@ -12,8 +13,6 @@ tags:
     - Genesis
     - Old Testament
 ---
-
-Are we right to interpret Genesis 3:15 as applying to Satan?
 
 I was recently reading through Genesis and paused when I got to Genesis 3:14-15. I have always been taught that Genesis 3:15 was directed not at the physical serpent (that is, the creature itself), but the spiritual 'serpent' (who is Satan). But in my recent reading, I asked myself: Are we right to interpret Genesis 3:15 in this way? This post contains my conclusion on the subject after thought and investigation.
 
