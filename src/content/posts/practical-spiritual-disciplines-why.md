@@ -2,7 +2,7 @@
 title: "Practical Spiritual Disciplines: Introduction"
 date: 2018-05-04T06:21:22-03:00
 description: "This is the introduction to a series which gives practical steps for practicing the \"spiritual disciplines\" (activities like prayer, reading your Bible, serving the Church, etc). In this post, I lay out the motivation and objectives for this series."
-tags: ["Spiritual Disciplines"]
+tags: ["Spiritual Disciplines", "Why", "Objectives"]
 ---
 
 # Motivation
@@ -20,3 +20,5 @@ The ultimate objective of this blog series is that you glorify God more through 
 As I mentioned in the previous section, this series is designed to help you make prayer, bible study, service in the Church, etc. a regular part of your life.
 
 Enjoy! If you have any questions or feedback, feel free to <a href="mailto:floyd.hightower27@gmail.com">contact me</a>.
+
+Otherwise, check out the next article in this series which discusses [What is a spiritual discipline?](../practical-spiritual-disciplines-what).

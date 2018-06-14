@@ -25,7 +25,7 @@ The idea of spiritual disciplines comes from the Bible. In Philippians 2:12-13, 
 Even if you have never heard the phrase "spiritual disciplines" before, you are certainly familiar with some examples. Some of the spiritual disciplines we'll be discussing in this series are:
 
 - Bible reading/study (see Hebrews 5:11-14, 1 Timothy 3:2, 3:9, and 2 Timothy 2:15)
-- Prayer and Fasting (1 Thessalonians 5:17, Ephesians 6:18, Colossians 4:12, 1 Peter 3:7, Matthew 6:9-13, Acts 13:2-3, 1 Peter 4:7, and Daniel 9:3-4)
+- [Prayer](../practical-spiritual-disciplines-prayer) and Fasting (1 Thessalonians 5:17, Ephesians 6:18, Colossians 4:12, 1 Peter 3:7, Matthew 6:9-13, Acts 13:2-3, 1 Peter 4:7, and Daniel 9:3-4)
 - Serving the Church (1 Peter 4:7-11 and Ephesians 4)
 - Tithing (see 1 Timothy 6:17-19 and 2 Corinthians 9:7)
 

@@ -250,12 +250,6 @@
   </url>
   
   <url>
-    <loc>//bible.hightower.space/tags/introduction/</loc>
-    <lastmod>2017-09-16T06:21:22-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>//bible.hightower.space/tags/language/</loc>
     <lastmod>2017-09-04T06:21:22-03:00</lastmod>
     <priority>0</priority>
@@ -305,7 +299,7 @@
   
   <url>
     <loc>//bible.hightower.space/tags/objectives/</loc>
-    <lastmod>2017-08-12T06:21:22-03:00</lastmod>
+    <lastmod>2018-05-04T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -354,6 +348,12 @@
   <url>
     <loc>//bible.hightower.space/tags/plagues/</loc>
     <lastmod>2017-09-16T06:21:22-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//bible.hightower.space/tags/plan/</loc>
+    <lastmod>2018-05-13T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -495,7 +495,7 @@
   
   <url>
     <loc>//bible.hightower.space/tags/why/</loc>
-    <lastmod>2017-08-12T06:21:22-03:00</lastmod>
+    <lastmod>2018-05-04T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   

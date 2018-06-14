@@ -1,7 +1,7 @@
 ---
 title: "Prayer Plan"
 date: 2018-05-13T06:21:22-03:00
-tags: ["Spiritual Disciplines", "Prayer"]
+tags: ["Spiritual Disciplines", "Prayer", "Plan"]
 description: "In this post, I'm laying out a system I use to help me pray for other people and requests consistently over time while not getting bored because I'm praying for the same thing or getting frustrated because I don't know what to pray for."
 ---
 
