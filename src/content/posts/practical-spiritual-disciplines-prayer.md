@@ -7,6 +7,10 @@ tags: ["Spiritual Disciplines", "Prayer"]
 
 This is part of a series called [Practical Spiritual Disciplines](../practical-spiritual-disciplines-why) in which I will be discussing *how* to practice the spiritual disciplines.
 
+> Since [prayer] is a duty of such absolute necessity for all and of such universal use, it is fitting we should all know how to perform it aright, that it may be accepted by the great God, and become a delightful and profitable exercise to our own souls and to those that join with us.
+> 
+> ~ Isaac Watts - *A Guide to Prayer*
+
 # The Questions
 
 We all know prayer is important. Prayer is one of the most common topics throughout the Bible and Jesus Himself consistently made time out of His busy and effective ministry to pray (see Luke 5:16, 6:12, 9:28, 11:1, and 22:41 as some examples). If you think you are too busy or don't need prayer, take a look at Jesus' life and think again. Assuming we understand our need for prayer, a critical question is: *How do I incorporate prayer into my daily life in a way that is powerful and effective?*. Once we have done this, the question becomes: *When I take time to pray, how should I pray (e.g. what should I be praying for)?*. We'll answer both of these questions below.
@@ -35,4 +39,4 @@ So you've started praying regularly... but what do you say when you pray? Jesus'
   >  > 
   >  > Spiritual needs (12-13)
 
-Think about how we normally pray. W spend the majority of our time praying for physical needs (and sometimes spiritual needs). Both physical and spiritual needs are part of Jesus' prayer, but we often forget the first half of the Lord's prayer that begins in worship to God. When you pray, I encourage you to start out by worshiping and thanking God for who He is and what He has promised to do. This is Biblical and it will transform prayer from a dry recitation of requests into a rich time of worship and communion with God.
+Think about how we normally pray. We spend the majority of our time praying for physical needs (and sometimes spiritual needs). Both physical and spiritual needs are part of Jesus' prayer, but we often forget the first half of the Lord's prayer that begins in worship to God. When you pray, I encourage you to start out by worshiping and thanking God for who He is and what He has promised to do. This is Biblical and it will transform prayer from a dry recitation of requests into a rich time of worship and communion with God.

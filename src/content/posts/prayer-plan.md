@@ -11,18 +11,18 @@ I use it as a system for guiding my prayer life and I hope you find it helpful. 
 
 There are two basic parts of this system:
 
-1. Requests
+1. Prayer items
 2. Bible passages
 
-The idea is that you split up your requests over a week and will have a specific Bible passage to guide your prayer each week. For example, let's say you have a friend named Martha and you want to pray for her. In this system, you would pick a day of the week on which to pray for her (e.g. Monday). Thus, you will pray for Martha every Monday. Additionally, each week there is a passage of scripture to guide you thoughts and prayers. For example, one week it might be 1 Thessalonians 1:2-7. The next week, it might be 2 Peter 3:17-*18*. These passages help you know the Bible more and can help guide your prayers for Martha. In the next section, I'll describe how to get started with this process.
+The idea is that you split up your prayer items over a week and will have a specific Bible passage to guide your prayer each week. For example, let's say you have a friend named Martha and you want to pray for her. In this system, you would pick a day of the week on which to pray for her (e.g. Monday). Thus, you will pray for Martha every Monday. Additionally, each week there is a passage of scripture to guide you thoughts and prayers. For example, one week it might be 1 Thessalonians 1:2-7. The next week, it might be 2 Peter 3:17-*18*. These passages help you know the Bible more and can help guide your prayers for Martha. In the next section, I'll describe how to get started with this process.
 
 # Getting Started
 
-So let's get started! The first step is to list out all of the people, organizations, and other requests that you want to be praying for.
+So let's get started! The first step is to list out all of the people, organizations, and other topics that you want to be praying for.
 
-## Requests
+## Prayer Items
 
-As you start listing out everything you want to be praying for, this list will probably get rather large. That's fine. It can include anything; family friends, coworkers, personal requests, etc.
+As you list out everything you want to be praying for, this list will probably get rather large. That's fine. It can include anything; family, friends, coworkers, personal requests, etc.
 
 Next, print out or draw a calendar or table like the one [here](https://www.calendarlabs.com/templates/blank/monthly-calendar-landscape-color-sunday.pdf) (you can also use a task app that lets you create recurring tasks).
 
