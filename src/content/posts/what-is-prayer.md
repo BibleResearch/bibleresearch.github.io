@@ -1,5 +1,5 @@
 ---
-title: "What is Prayer?"
+title: "What Is Prayer?"
 date: 2018-06-16T05:21:22-03:00
 tags: ["Prayer", "Question"]
 description: "When dealing with familiar concepts (like prayer) it is often helpful and refreshing to define that concept in simple language. My goal in this post is to do that for prayer."
@@ -7,7 +7,7 @@ description: "When dealing with familiar concepts (like prayer) it is often help
 
 # What is Prayer?
 
-The most basic and robust definition I can muster is:
+The most basic and robust definition I can think of is:
 
 > Prayer is talking to God.
 
@@ -55,9 +55,11 @@ In this passage, we are commanded to humble ourselves, in part by casting our ca
 
 God is, by nature, sovereign. That is, He is in complete control of all creation and is able to perfectly and completely execute His will. We could rightly say He is king of the universe. His will and decrees are carried out with precision. So how does this relate to prayer? Consider a universe in which there was a non-sovereign deity to whom you were praying. Would you have confidence that this 'god' could answer your requests? Such a 'god' may be able to have a relationship with you, may be able to hear your prayers, and may be compassionate, but none of this matters if that 'god' cannot do anything in response to your prayers. God's sovereignty gives us confidence that our prayers can actually change things because we are praying to the God who is in control of everything! When discussing this topic, we need to answer two questions that relate to God's sovereignty and prayer.
 
-When I say that God's sovereignty ought to encourage us to pray, there are a couple of questions that may come to mind. First: "If God is sovereign, why should we bother praying?". This is a great question. When we talk about God's sovereignty, understand that we are not talking only about God's ability to chose, know, and bring about a particular outcome; we are also talking about God's ability to chose the way in which that outcome is brought about. Put succinctly, God is sovereign over ends *and* means. God controls what happens (the ends) *and* how it happens (the means). So, to answer the question, if God is sovereign and has commanded us in His word to pray, we can infer that God uses prayer as a means to His ends.
+### Questions About God's Sovereignty and Prayer
 
-Another question that may come up when we talk about God's sovereignty as it relates to pray is: "If God is sovereign, why doesn't He answer my prayers?". Put another way, if God is able to answer my prayers, why doesn't He? While we know God is able to answer our prayers, we have no guarantee that our prayers align with His will. It is possible that our sin or infinitely smaller knowledge causes us to pray for something that does not align with God's will. We see an example of this in 2 Corinthians 12:7-9 where Paul prays three times that the "thorn in the flesh" be removed, only to find that it remained. When praying, we must simultaneously have confidence in God's ability to answer prayer and confidence in God's sovereign plan and goodness (even when He doesn't answer our prayers).
+When I say that God's sovereignty ought to encourage us to pray, there are a couple of questions that may come to mind. First: If God is sovereign, why should we bother praying? When we talk about God's sovereignty, understand that we are not talking only about God's ability to chose, know, and bring about a particular outcome; we are also talking about God's ability to chose the way in which that outcome is brought about. Put succinctly, God is sovereign over ends *and* means. God controls what happens (the ends) *and* how it happens (the means). So, to answer the question, if God is sovereign and has commanded us in His word to pray, we can infer that God uses prayer as a means to His ends.
+
+Another question that may come up when we talk about God's sovereignty as it relates to pray is: If God is sovereign, why doesn't He answer my prayers? Put another way, if God is able to answer my prayers, why doesn't He? While we know God is able to answer our prayers, we have no guarantee that our prayers align with His will. It is possible that our sin or infinitely smaller knowledge causes us to pray for something that does not align with God's will. We see an example of this in 2 Corinthians 12:7-9 where Paul prays three times that the "thorn in the flesh" be removed, only to find that it remained. When praying, we must simultaneously have confidence in God's ability to answer prayer and confidence in God's sovereign plan and goodness (even when He doesn't answer our prayers).
 
 ## Conclusion
 
