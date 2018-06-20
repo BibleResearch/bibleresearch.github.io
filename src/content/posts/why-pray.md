@@ -48,6 +48,10 @@ Part of prayer is worshiping God. In each of the passages below, the one praying
 - Romans 16:25-27
 - Jude 24-25
 
+As Isaac Watts put it in his *Guide to Prayer*:
+
+> [W]e should express holy wonder and pleasure that the most high God who inhabits eternity, allows such contemptible and worthless beings as we to communicate with him.
+
 ## "... and to enjoy him forever"
 
 Not only does prayer bring glory to God, but it is also a means of grace to believers and a way that we can enjoy God. Here are three ways that prayer helps us enjoy God:

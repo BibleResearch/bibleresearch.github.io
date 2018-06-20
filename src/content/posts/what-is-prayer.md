@@ -5,6 +5,10 @@ tags: ["Prayer", "Question"]
 description: "When dealing with a familiar concept (like prayer) it is often helpful and refreshing to define that concept in simple language. My goal in this post is to simply define prayer and it's theological foundation."
 ---
 
+> [P]rayer is a retirement from earth and a retreat from our fellow creatures to fix our attention on God and communicate with Him who dwells in heaven.
+> 
+> ~ Isaac Watts - *A Guide to Prayer*
+
 # What is Prayer?
 
 The most basic and robust definition I can think of is:

@@ -5,7 +5,6 @@ tags: ["Spiritual Disciplines"]
 description: "This post answers the questions: what is a \"spiritual discipline\" what spiritual disciplines are presented in the Bible?"
 ---
 
-
 This is part of a series called [Practical Spiritual Disciplines](../practical-spiritual-disciplines-why) which is designed to show you *what* tools and activities God has given us to grow and *how* we can practices these disciplines in our daily lives. 
 
 > “We are far too easily pleased.” 
