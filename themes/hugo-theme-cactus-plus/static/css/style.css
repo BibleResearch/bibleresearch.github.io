@@ -365,6 +365,10 @@ em, i {
     display: block;
 }
 
+.post .tags a {
+    text-decoration: underline;
+}
+
 #post-list h2 {
     font: normal 17px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #777;
