@@ -367,7 +367,7 @@ em, i {
 
 #post-list h2 {
     font: normal 17px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #aaa;
+    color: #777;
     margin-top: 2px;
 }
 
@@ -481,6 +481,13 @@ img {
 /*=========================================
 Post List
 =========================================== */
+
+#post-list .tagEntry {
+    font: italic 19px/1.3em Georgia, serif;
+    color: #999;
+    display: inline;
+    text-decoration: underline;
+}
 
 #post-list, #archive-list {
 }

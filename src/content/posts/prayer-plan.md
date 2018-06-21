@@ -1,7 +1,7 @@
 ---
 title: "Prayer Plan"
 date: 2018-05-13T06:21:22-03:00
-tags: ["Spiritual Disciplines", "Prayer", "Plan"]
+tags: ["Plan", "Prayer", "Spiritual Disciplines"]
 description: "In this post, I lay out a prayer plan to help you pray consistently, passionately, and scripturally."
 ---
 

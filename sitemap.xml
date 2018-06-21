@@ -4,7 +4,7 @@
   
   <url>
     <loc>//bible.hightower.space/posts/thoughts-on-prayer/</loc>
-    <lastmod>2018-06-19T06:21:22-03:00</lastmod>
+    <lastmod>2018-06-20T06:21:22-03:00</lastmod>
   </url>
   
   <url>
@@ -148,7 +148,7 @@
   
   <url>
     <loc>//bible.hightower.space/</loc>
-    <lastmod>2018-06-19T06:21:22-03:00</lastmod>
+    <lastmod>2018-06-20T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -172,6 +172,12 @@
   <url>
     <loc>//bible.hightower.space/tags/eden/</loc>
     <lastmod>2017-08-25T06:21:22-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//bible.hightower.space/tags/enemies/</loc>
+    <lastmod>2018-06-20T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -218,6 +224,12 @@
   </url>
   
   <url>
+    <loc>//bible.hightower.space/tags/holy-spirit/</loc>
+    <lastmod>2018-06-20T06:21:22-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>//bible.hightower.space/tags/immanence/</loc>
     <lastmod>2017-10-23T06:21:22-03:00</lastmod>
     <priority>0</priority>
@@ -244,6 +256,12 @@
   <url>
     <loc>//bible.hightower.space/tags/lingo/</loc>
     <lastmod>2017-09-04T06:21:22-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//bible.hightower.space/tags/love/</loc>
+    <lastmod>2018-06-20T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -327,13 +345,13 @@
   
   <url>
     <loc>//bible.hightower.space/posts/</loc>
-    <lastmod>2018-06-19T06:21:22-03:00</lastmod>
+    <lastmod>2018-06-20T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>//bible.hightower.space/tags/prayer/</loc>
-    <lastmod>2018-06-19T06:21:22-03:00</lastmod>
+    <lastmod>2018-06-20T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -421,7 +439,7 @@
   
   <url>
     <loc>//bible.hightower.space/tags/spiritual-disciplines/</loc>
-    <lastmod>2018-06-19T06:21:22-03:00</lastmod>
+    <lastmod>2018-06-20T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -451,7 +469,7 @@
   
   <url>
     <loc>//bible.hightower.space/tags/thought/</loc>
-    <lastmod>2018-06-19T06:21:22-03:00</lastmod>
+    <lastmod>2018-06-20T06:21:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   

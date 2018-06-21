@@ -13,6 +13,16 @@
                             <h2>{{ .Summary | plainify | htmlUnescape }}</h2>
                         {{ end }}
                     {{ end }}
+                    <div>
+                    {{ with .Params.tags }}
+                        {{ if ge (len .) 1 }}
+                            {{ range . }}
+                                <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}" class="tagEntry">{{ . }}</a>&nbsp;&nbsp;
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    </div>
+                    <br>
                 </a>
             </li>
         {{ end }}
