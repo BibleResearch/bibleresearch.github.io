@@ -1,0 +1,30 @@
+<ul id="post-list">
+    {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
+    {{ $url := replace .Permalink .Site.BaseURL "" }}
+        {{ if ne $url "about/" }}
+            <li>
+                <aside class="dates">{{ .Date.Format "Jan 2, 2006" }}</aside>
+                <a href='{{ .Permalink }}'>
+                    {{ .Title }}
+                    {{ if .Site.Params.enableSummary }}
+                        {{ if .Site.Params.useDescriptionReplaceSummary }}
+                            <h2>{{ .Description | plainify }}</h2>
+                        {{ else }}
+                            <h2>{{ .Summary | plainify | htmlUnescape }}</h2>
+                        {{ end }}
+                    {{ end }}
+                    <div>
+                    {{ with .Params.tags }}
+                        {{ if ge (len .) 1 }}
+                            {{ range . }}
+                                <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}" class="tagEntry">{{ . }}</a>&nbsp;&nbsp;
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    </div>
+                    <br>
+                </a>
+            </li>
+        {{ end }}
+    {{ end }}
+</ul>
