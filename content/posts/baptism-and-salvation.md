@@ -1,7 +1,7 @@
 ---
-title: Three Proofs Baptism Is Not Necessary for Salvation
+title: Three Evidences that Baptism Is Not Necessary for Salvation
 date: 2018-06-23T06:21:22-03:00
-description: "Three evidences from scripture that Baptism is not necessary for salvation."
+description: "Three evidences from scripture that baptism is not necessary for salvation."
 tags: ["Baptism", "Faith", "Salvation"]
 ---
 
