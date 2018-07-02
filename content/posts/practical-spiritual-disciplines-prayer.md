@@ -27,7 +27,7 @@ Here are some tips for making prayer a habit:
 
 # What to Say When You Pray
 
-So you've started praying regularly... but what do you say when you pray? Jesus's disciples asked Him the same exact question in Luke 11:1-13. Jesus responds with what we know as "The Lord's Prayer". There is a parallel passage where Jesus teaches the same thing in Matthew 6:9-13. We'll look at the passage in Matthew 6:9-13 because this is a great model for our prayers. I would break down Jesus's prayer in Matthew 6:9-13 as follows:
+So you've started praying regularly... but what do you say when you pray? Jesus's disciples asked Him the same exact question in Luke 11:1-13. Jesus responds with what we know as "The Lord's Prayer". There is a parallel passage where Jesus teaches the same thing in Matthew 6:9-13. We'll look at the passage in Matthew 6:9-13 because it is a great model for our prayers. I would break down Jesus's prayer in Matthew 6:9-13 as follows:
 
   > Worshiping God (vs. 9-10)
   > 

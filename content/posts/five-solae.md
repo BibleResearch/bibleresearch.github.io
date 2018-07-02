@@ -8,6 +8,7 @@ tags:
     - Glory
     - Glory to God
     - Reformation
+    - Ephesians
 ---
 
 The principles behind the reformation are often summarized in five exclusive statements deemed 'Solae' or 'Solas':

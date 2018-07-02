@@ -2,7 +2,7 @@
 title: "Thoughts On Prayerlessness"
 date: 2018-06-23T06:21:22-03:00
 description: "A look at how Jesus might respond to your excuses for not praying."
-tags: ["Excuses", "Jesus", "Prayer", "Prayerlessness", "Spiritual Disciplines", "Thought"]
+tags: ["Excuses", "Jesus", "Prayer", "Prayerlessness", "Spiritual Disciplines", "Thought", "Luke"]
 ---
 
 # My Excuses
