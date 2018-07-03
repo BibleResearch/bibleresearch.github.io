@@ -1,7 +1,7 @@
 ---
 title: "Practical Spiritual Disciplines: What are Spiritual Disciplines?"
 date: 2018-05-06T06:21:22-03:00
-tags: ["Spiritual Disciplines"]
+tags: ["Practical Spiritual Disciplines", "Spiritual Disciplines"]
 description: "This post answers the questions: what is a \"spiritual discipline\" what spiritual disciplines are presented in the Bible?"
 ---
 

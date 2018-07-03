@@ -2,7 +2,7 @@
 title: "Practical Spiritual Disciplines: Introduction"
 date: 2018-05-04T06:21:22-03:00
 description: "This is the introduction to a series which gives practical steps for practicing the \"spiritual disciplines\" (activities like prayer, reading your Bible, serving the Church, etc). In this post, I lay out the motivation and objectives for this series."
-tags: ["Spiritual Disciplines", "Why", "Objectives"]
+tags: ["Practical Spiritual Disciplines", "Spiritual Disciplines", "Why", "Objectives"]
 ---
 
 # Motivation
