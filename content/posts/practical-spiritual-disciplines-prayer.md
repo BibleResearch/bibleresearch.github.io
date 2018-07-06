@@ -15,7 +15,7 @@ This is part of a series called [Practical Spiritual Disciplines](../practical-s
 
 We all know prayer is important. Prayer is one of the most common topics throughout the Bible and Jesus Himself consistently made time out of His busy and effective ministry to pray (see Luke 5:16, 6:12, 9:28, 11:1, and 22:41 as some examples). If you think you are too busy or don't need prayer, take a look at Jesus' life and think again.
 
-Assuming we understand our need for prayer, a critical question is: *How do I incorporate prayer into my daily life in a way that is powerful and effective?*. Once we have done this, the question becomes: *When I take time to pray, how should I pray (e.g. what should I be praying for)?*. We'll answer both of these questions below.
+Assuming we understand our need for prayer, a critical question is: *How do I incorporate prayer into my daily life in a way that is powerful and effective?*. Once we have done this, the question becomes: *When I take time to pray, how should I pray (e.g. what should I be praying for)?* We'll answer both of these questions below.
 
 # Making Prayer a Habit
 

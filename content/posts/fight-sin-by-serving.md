@@ -1,5 +1,5 @@
 ---
-title: "Fighting Sin with Serving"
+title: "Fighting Sin by Serving"
 date: 2018-06-30T06:21:22-03:00
 description: "Serving others is a strategy for fighting sin."
 tags: ["Galatians", "New Testament", "Service", "Sin", "Thought"]

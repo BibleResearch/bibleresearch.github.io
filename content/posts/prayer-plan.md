@@ -5,9 +5,27 @@ tags: ["Plan", "Prayer", "Spiritual Disciplines"]
 description: "In this post, I lay out a prayer plan to help you pray consistently, passionately, and scripturally."
 ---
 
-I use it as a system for guiding my prayer life and I hope you find it helpful. Feel free to modify it as you see fit.
+# Why?
 
-# Basics
+Let me begin by explaining *why* I developed this plan. **If I'm honest, my prayer time was embarrassing.** I told people I would pray for them only to pray for them once and promptly forget about them entirely. When I was praying, I was constantly fighting a wandering mind and sleep-inducing boredom as I would use the same phrases over-and-over:
+
+> "God, please be with Martha in her life."
+
+> "God, I bring Bobby before you and pray that you would work in his life."
+
+Honestly, I had no idea what it meant for God to "be with" Martha or to "work in" Bobby's life, but I prayed like this for almost everyone. **Prayer was stale and nothing more than a duty which had to be done.** Jesus and Paul did it (and apparently found it somehow enriching), so we should too. People described prayer as the expression of a relationship, but I saw it more as an exercise in rambling... And then I heard a sermon that changed everything.
+
+**The pastor argued that we should use a passage of scripture to guide our prayers.** For example, rather than praying that God would "be with Martha", I could pray that God would "help Martha 'comprehend with all the saints what is the breadth and length and height and depth, and to know the love of Christ which surpasses knowledge'" (taken from Paul's prayer in Ephesians 3:18-19). Using the Bible as a guide for prayer has numerous benefits:
+
+1. It allows me to avoid generic, repetitive, shallow, virtually meaningless phrases like "be with" and "work in his/her life"
+2. It makes every day different because the Bible passage and the people you are praying for are constantly changing
+3. It allows me to be confident that I am praying according to God's will
+4. It makes prayer a rich experience where you can learn more about God while praying
+5. It allows you to worship God while praying (Yes, [worshiping God](../../posts/practical-spiritual-disciplines-prayer/#what-to-say-when-you-pray) is part of prayer)
+
+The system below is designed to help you awaken your prayer life and "grow in the grace and knowledge of our Lord and Saviour Jesus Christ" (2 Peter 3:*18*). I have used this plan to guide my prayer life for some time and I hope you find it helpful. Feel free to tweak it to work for you and your schedule. There is a website that let's you record and manage prayer requests according to this plan [here](http://prayer.hightower.space/).
+
+# What? - The Basics
 
 There are two basic parts of this system:
 
@@ -16,7 +34,7 @@ There are two basic parts of this system:
 
 The idea is that you split up your prayer items over a week and will have a specific Bible passage to guide your prayer each week. For example, let's say you have a friend named Martha and you want to pray for her. In this system, you would pick a day of the week on which to pray for her (e.g. Monday). Thus, you will pray for Martha every Monday. Additionally, each week there is a passage of scripture to guide you thoughts and prayers. For example, one week it might be 1 Thessalonians 1:2-7. The next week, it might be 2 Peter 3:17-*18*. These passages help you know the Bible more and can help guide your prayers for Martha. In the next section, I'll describe how to get started with this process.
 
-# Getting Started
+# How? - Getting Started
 
 So let's get started! The first step is to list out all of the people, organizations, and other topics that you want to be praying for.
 
@@ -53,3 +71,9 @@ Below is a list of good Bible passages for guiding prayer. It is by no means exh
 - Hosea 6:1-3
 - Ephesians 6:23-24
 - Revelation 21 – 22
+
+There is also a helpful list of all prayers from the New Testament [here](https://www.desiringgod.org/articles/what-should-we-pray-for).
+
+# Conclusion
+
+Prayer is a [tremendous blessing](../../posts/why-pray/) that you are missing out on if you are not praying regularly or are not enjoying your prayer time. To help you get started, there is an online prayer journal/planner [here](http://prayer.hightower.space/) that is based on the system I've described in this blog. Enjoy and feel free to [contact me](https://hightower.space/contact/) if you have any questions!
