@@ -13,21 +13,11 @@ Let me begin by explaining *why* I developed this plan. **If I'm honest, my pray
 
 > "God, I bring Bobby before you and pray that you would work in his life."
 
-Honestly, I had no idea what it meant for God to "be with" Martha or to "work in" Bobby's life, but I prayed like this for almost everyone. **Prayer was stale and nothing more than a duty which had to be done.** Jesus and Paul did it (and apparently found it somehow enriching), so we should too. People described prayer as the expression of a relationship, but I saw it more as an exercise in rambling... And then I heard a sermon that changed everything.
-
-**The pastor argued that we should use a passage of scripture to guide our prayers.** For example, rather than praying that God would "be with Martha", I could pray that God would "help Martha 'comprehend with all the saints what is the breadth and length and height and depth, and to know the love of Christ which surpasses knowledge'" (taken from Paul's prayer in Ephesians 3:18-19). Using the Bible as a guide for prayer has numerous benefits:
-
-1. It allows me to avoid generic, repetitive, shallow, virtually meaningless phrases like "be with" and "work in his/her life"
-2. It makes every day different because the Bible passage and the people you are praying for are constantly changing
-3. It allows me to be confident that I am praying according to God's will
-4. It makes prayer a rich experience where you can learn more about God while praying
-5. It allows you to worship God while praying (Yes, [worshiping God](../../posts/practical-spiritual-disciplines-prayer/#what-to-say-when-you-pray) is part of prayer)
-
-The system below is designed to help you awaken your prayer life and "grow in the grace and knowledge of our Lord and Saviour Jesus Christ" (2 Peter 3:*18*). I have used this plan to guide my prayer life for some time and I hope you find it helpful. Feel free to tweak it to work for you and your schedule. There is a website that let's you record and manage prayer requests according to this plan [here](http://prayer.hightower.space/).
+Honestly, I had no idea what it meant for God to "be with" Martha or to "work in" Bobby's life, but I prayed like this for almost everyone. **Prayer was stale and nothing more than a duty which had to be done.** Jesus and Paul did it (and apparently found it somehow enriching), so we should too. People described prayer as the expression of a relationship, but I saw it more as an exercise in rambling. I wanted to be serious when I told someone "I'll be praying for you." and I wanted to actually enjoy praying and find it useful rather than being a waste of time. If you're in a similar situation as I was, I hope this prayer plan is helpful and encouraging (even if you don't use it as laid out below). **This plan is designed to help you awaken your prayer life and "grow in the grace and knowledge of our Lord and Saviour Jesus Christ" (2 Peter 3:*18*).** I have used this plan to guide my prayer life for some time and I hope you find helpful too. Feel free to tweak it to work for you and your schedule. There is a prayer planner that let's you record and manage prayer requests according to this plan [here](http://prayer.hightower.space/). Without further ado, here are the basics of this prayer plan.
 
 # What? - The Basics
 
-There are two basic parts of this system:
+There are two basic parts of this plan:
 
 1. Prayer items
 2. Bible passages
