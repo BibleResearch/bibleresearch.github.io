@@ -16,4 +16,4 @@ In this sermon, the pastor argued that we should use a passage of scripture to g
 5. Using the Bible means that God communicates, through His word, to you and you communicate, through prayer, to Him
 6. It allows you to worship God while praying (Yes, [worshiping God](../../posts/practical-spiritual-disciplines-prayer/#what-to-say-when-you-pray) is part of prayer)
 
-If you do not use the Bible to guide your prayers, I would encourage you to start doing it. There is a [prayer plan](https://bible.hightower.space/posts/prayer-plan/) (like a Bible-reading plan) to help you setup a schedule to make faithful, powerful prayer a habit.
+If you do not use the Bible to guide your prayers, I would encourage you to start doing it. There is a [prayer plan](https://bible.hightower.space/posts/prayer-plan/) (like a Bible-reading plan) to help you setup a schedule to make faithful, powerful prayer a habit. Specifically, there are some Bible passages to help guide your prayers [here](https://bible.hightower.space/posts/prayer-plan/#bible-passages).
