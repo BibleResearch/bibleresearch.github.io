@@ -21,7 +21,7 @@ The principles behind the reformation are often summarized in five exclusive sta
 
 These statements have been used both to describe what Luther and the other reformers believed as well as to discern what the Bible does and does not teach. Because we often see the five solas listed out in bullet points, we often do not consider the relationships between them. To describe these relationships, consider the graphic below:
 
-![How the five solae relate to one another](../../static/images/five-solae.png)
+![How the five solae relate to one another](../../images/five-solae.png)
 
 On the bottom of the diagram (the starting point, if you will) is "Sola Scriptura" because the truth and authority of Scripture is essential for establishing any of the other solas. It is from Scripture that we find support for the claim that salvation is by faith in Christ alone and is granted to the sinner only by grace. The object of saving faith is Christ and the expression of saving grace is Christ's incarnation, life, death, and resurrection. Thus, Christ is the only mediator between God and man and is the single, exclusive means to salvation and a relationship with God the Father.
 

@@ -24,7 +24,11 @@ There are two basic parts of this plan:
 1. Prayer items
 2. Bible passages
 
-The idea is that you split up your prayer items over a week and will have a specific Bible passage to guide your prayer each week. For example, let's say you have a friend named Martha and you want to pray for her. In this system, you would pick a day of the week on which to pray for her (e.g. Monday). Thus, you will pray for Martha every Monday. Additionally, each week there is a passage of scripture to guide you thoughts and prayers. For example, one week it might be 1 Thessalonians 1:2-7. The next week, it might be 2 Peter 3:17-*18*. These passages help you know the Bible more and can help guide your prayers for Martha. In the next section, I'll describe how to get started with this process.
+The idea is that you split up your prayer items over a week and will have a specific Bible passage to guide your prayer each week. For example, let's say you have a friend named Martha and you want to pray for her. In this system, you would pick a day of the week on which to pray for her (e.g. Monday). Thus, you will pray for Martha every Monday. Additionally, each week there is a passage of scripture to guide you thoughts and prayers. For example, one week it might be 1 Thessalonians 1:2-7. The next week, it might be 2 Peter 3:17-*18*. These passages help you know the Bible more and can help guide your prayers for Martha.
+
+![This prayer plan includes a regular list of weekly requests and a different Bible passage for each week](../../images/bible-reading-plan-full.png)
+
+In the next section, I'll describe how to get started with this process.
 
 # How? - Getting Started
 
