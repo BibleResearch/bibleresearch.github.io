@@ -1,7 +1,7 @@
 ---
 title: "What Is Prayer?"
 date: 2018-06-16T05:21:22-03:00
-tags: ["Prayer", "Question"]
+tags: ["Attributes of God", "Compassion", "Prayer", "Question", "Sovereignty"]
 description: "When dealing with a familiar concept (like prayer) it is often helpful and refreshing to define that concept in simple language. My goal in this post is to simply define prayer and it's theological foundation."
 ---
 
