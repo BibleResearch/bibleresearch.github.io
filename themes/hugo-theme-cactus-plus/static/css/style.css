@@ -13,7 +13,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     display: block;
 }
 
-aside {
+aside .marginnote {
     width: 25%;
     padding-left: .5rem;
     margin-right: -15rem;

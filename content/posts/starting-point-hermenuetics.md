@@ -16,7 +16,7 @@ To clarify the objective of this blog post, I am not seeking to establish a comp
 
 ## "God-glorifying hermeneutic"
 
-<aside>
+<aside class="marginnote">
   <span style="color: red;">†</span> - This is not to say that a hermeneutic will guarantee that you are always right; a number of other problems can occur, but making sure we have a solid hermeneutic is a good starting point.
 </aside>
 
@@ -43,7 +43,7 @@ I assert that language has meaning. To broadly deny this assertion would pose a 
 
 ### Meaning in Language is Comprehensible
 
-<aside>
+<aside class="marginnote">
   <span style="color: red;">†</span> - There is also the question of how clear the Bible is (a doctrine called the <a href="https://www.merriam-webster.com/dictionary/perspicuous">perspicuity</a> of scripture), but that is a discussion for another time.
 </aside>
 
