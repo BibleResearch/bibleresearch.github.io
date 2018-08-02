@@ -3,7 +3,7 @@ title: "A Starting Point for Hermeneutics"
 date: 2018-08-01
 description: "Hermeneutics are important. A starting point for a common-sense, God-glorifying hermeneutic can be developed by considering the nature of language, the responsibility of the individual and local communities, and the role of the intellect in interpreting scripture."
 abstract: true
-tags: ["Thought", "Interpretation", "Hermeneutics"]
+tags: ["Thought", "Interpretation", "Hermeneutics", "Philosophy of Language", "Glory to God", "Acts", "Bereans", "Galatians"]
 ---
 
 # Definitions and Objectives
