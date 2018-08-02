@@ -30,6 +30,9 @@
                     </div>
                   {{ end }}
                 {{ end }}
+                {{ if .Params.abstract }}
+                  <h1>Abstract</h1>
+                {{ end }}
                 <p>{{ .Description }}</p>
                 <section id="post-body">
                     {{ .Content }}
