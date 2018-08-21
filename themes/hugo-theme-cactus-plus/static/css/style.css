@@ -13,9 +13,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     display: block;
 }
 
-aside .marginnote {
+.marginnote {
     width: 25%;
     padding-left: .5rem;
+    margin-top: -15em;
     margin-right: -15rem;
     float: right;
     box-shadow: inset 5px 0 5px -5px #29627e;
@@ -220,6 +221,12 @@ nav.main-nav a.cta {
       font-size: 13px;
       line-height: 1.35;
       border-radius: 3px;
+  }
+  .marginnote {
+      margin: inherit;
+      float: inherit;
+      width: 100%;
+      box-shadow: inset 5px 0 5px -5px #29627e;
   }
 }
 @media (max-width: 324px) {
