@@ -16,7 +16,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 .marginnote {
     width: 25%;
     padding-left: .5rem;
-    margin-top: -15em;
+    margin-top: -10em;
     margin-right: -15rem;
     float: right;
     box-shadow: inset 5px 0 5px -5px #29627e;
