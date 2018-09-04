@@ -5,7 +5,7 @@ description: "A few thoughts on prayer."
 tags: ["Enemies", "Holy Spirit", "Love", "Prayer", "Spiritual Disciplines", "Thought"]
 ---
 
-In studying prayer recently, I have a few more thoughts that did not find a home among the other writings on prayer. I have captured them below in no particular order other than the sequence in which they were brought to mind.
+In [studying prayer recently](https://bible.hightower.space/posts/practical-spiritual-disciplines-prayer/), I have a few more thoughts that did not find a home among the other [writings on prayer](https://bible.hightower.space/tags/prayer/). I have captured them below in no particular order other than the sequence in which they were brought to mind.
 
 # Pray for Your Enemies
 
@@ -19,14 +19,6 @@ Throughout scripture, the Holy Spirit is closely related to prayer. In my [discu
 
 In the New Testament the Holy Spirit is also tied to prayer for Christians. After teaching His disciples to pray in Luke 11:1-4, Jesus then proceeds to give an analogy emphasizing the goodness and willingness of God in giving "the Holy Spirit to those who ask Him" (Luke 11:1-13). Romans 8:26 says that the Holy Spirit, through whom we have intimacy with the Father (see Romans 8:14-15), "intercedes for us with groanings too deep for words". Both Ephesians 6:18 and Jude 20 encourage believers to pray "in the [Holy] Spirit". Clearly, the Holy Spirit is involved in helping us to pray in a way that aligns with God's will and glorifies Him. In fact, it would be worthwhile to consider how each person of the trinity is involved in prayer, but that is a topic for another time.
 
-----------------------
+# Prayer is Often Practiced in Community
 
-- Good isaac watt's quote on pg. 120 - direction 1
-
-- 2 cor. 12:6 -> is this an AI hermenuetic? If not, should this lead us to be covenental? (see pg. 126 of guide to prayer)
-
-- jude 19 - those w/o HS are fleshly - proof, in conjunction w/ the fact that Conrelious wasn't baptised before receiving the HS in acts 10, that baptism doesn't save - more on the role of the HS on pg. 131 of "Guide to prayer"
-
-- great quotes on prayer on pg. 169 (in fact, the final chapter is wonderful)
-
-- blog post on what to do when you don't feel like praying
+In modern, western culture, we are extremely individualistic and independent. This has a number of effects on our spiritual life and growth as well as how we relate as a body of believers. One particular manifestation of our independence is that when we think of prayer, we usually think of a solitary individual praying to God. There is nothing wrong with praying to God while you are alone and I strongly encourage it, but we must not forget that the early church primarily prayed as a church. Cooperate prayer is powerful and important for the spiritual growth of believers. Sadly, cooperate prayer has been sacrificed on the alter of individual independence and autonomy. Consider how you can get involved and get fellow believers involved in praying together on a regular basis.
