@@ -21,7 +21,7 @@ Assuming we understand our need for prayer, a critical question is: *How do I in
 
 Here are some tips for making prayer a habit:
 
-1. **Find a time.** Try to find a consistent time everyday when you can pray. Maybe it is over a lunch break, perhaps on the drive to work, maybe in between classes. Having a specific time when you pray will help you build a new habit
+1. **Make time.** Try to find a consistent time everyday when you can pray. Maybe it is over a lunch break, perhaps on the drive to work, maybe in between classes. Having a specific time when you pray will help you build a new habit.
 2. **Stay committed.** There is nothing magical about the spiritual disciplines... just as it takes time to grow physically, it also takes time to grow spiritually. I often see people give up after one or two weeks, but you need to persevere in order to grow. Do whatever it takes to help you make your prayer life a priority and a commitment.
 3. **Develop a plan.** When it comes to prayer, here is a big challenge: how do you consistently pray for requests that you have while not getting bored in praying for the same thing over and over again? I have developed a system for praying that I find helpful as it allows you to consistently pray for people while not getting bored because you're praying for the same things over and over. You can read more about this plan [here](../prayer-plan). Feel free to adjust this system as you see fit.
 

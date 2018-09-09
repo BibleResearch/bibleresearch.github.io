@@ -21,4 +21,18 @@ In the New Testament the Holy Spirit is also tied to prayer for Christians. Afte
 
 # Prayer is Often Practiced in Community
 
-In modern, western culture, we are extremely individualistic and independent. This has a number of effects on our spiritual life and growth as well as how we relate as a body of believers. One particular manifestation of our independence is that when we think of prayer, we usually think of a solitary individual praying to God. There is nothing wrong with praying to God while you are alone and I strongly encourage it, but we must not forget that the early church primarily prayed as a church. Cooperate prayer is powerful and important for the spiritual growth of believers. Sadly, cooperate prayer has been sacrificed on the alter of individual independence and autonomy. Consider how you can get involved and get fellow believers involved in praying together on a regular basis.
+In modern, western culture, we are extremely individualistic and independent. This has a number of effects on our spiritual life and growth as well as how we relate as a body of believers. One particular manifestation of our independence is that when we think of prayer, we usually think of a solitary individual praying to God. There is nothing wrong with praying to God while you are alone and I strongly encourage it, but we must not forget that the early church primarily prayed as a church. Cooperate prayer is powerful and important for the spiritual growth of believers. Doing so is not only a way to mutually encourage one another, but is also a way to grow in unity.<sup>[1](#footnote1)</sup> Sadly, cooperate prayer has been sacrificed on the alter of individual independence and autonomy. Consider how you can get involved and get fellow believers involved in praying together on a regular basis.
+
+# Prayer Changes our Hearts
+
+The very act of prayer changes your affections. I have not mentioned very much in this regard because this is the benefit of prayer that is normally emphasized, but I would be remiss if I did not mention it. As Jonathan Edwards put it:
+
+> "[W]e are not appointed, in [prayer], to declare God's perfections, his majesty, holiness, goodness, allsufficiency, and our own meanness, emptiness, dependence, and unworthiness, and our wants and desires, to inform God of these things, or to incline his heart, and prevail with him to be willing to show us mercy; but suitably to affect our own hearts with the things we express, and so to prepare us to receive the blessings we ask."<sup>[2](#footnote2)</sup>
+
+Prayer [does things](/posts/why-pray#prayer-accomplishes-things) to be sure, but it also effects our affections.
+
+# Notes
+
+<a id="footnote1">1. </a>As stated in *RetroChristianity*: "Prayer indeed is a fundamental means of promoting unity" - Michael J. Svigel, *RetroChristianity: Reclaiming the Forgotten Faith* (Wheaton, IL: Crossway, 2012), 210.
+
+<a id="footnote2">2. </a>Edwards, Jonathan, Perry Miller, John E. Smith, and Harry S. Stout. *The Works of Jonathan Edwards. Religious Affections*. New Haven: Yale University Press, 1966, 114-115.
