@@ -5,7 +5,7 @@ description: "Three evidences from scripture that baptism is not necessary for s
 tags: ["Baptism", "Faith", "Salvation", "Acts", "1 Corinthians"]
 ---
 
-There are some passages in scripture which appear, at first glance, to be saying that baptism is necessary for salvation (for example Mark 16:16, Acts 2:37-38, Galatians 3:27). In reformed, protestant circles, there are counter-arguments given for all of these passages (which I think are convincing and have sound Biblical grounds). I here present, however, three evidences from scripture that salvation does not require baptism. I would be curious how someone who believes that baptism is required for salvation would respond (you [contact me](https://hightower.space/contact/) if you are such a person).
+There are some passages in scripture which appear, at first glance, to be saying that baptism is necessary for salvation (for example Mark 16:16, Acts 2:37-38, Galatians 3:27). In reformed, protestant circles, there are counter-arguments given for all of these passages (which I think are convincing and have sound Biblical grounds). I here present, however, three evidences from scripture that salvation does not require baptism. I would be curious how someone who believes that baptism is required for salvation would respond (you can [contact me](https://hightower.space/contact/) if you are such a person).
 
 1. 1 Corinthians 1:10-17 doesn't argue that baptism is necessary for salvation. In this passage, Paul treats baptism as a means of possible contention and never mentions it as a means to salvation. If baptism were necessary for salvation, would Paul say this in 1 Corinthians 1:17:
 
