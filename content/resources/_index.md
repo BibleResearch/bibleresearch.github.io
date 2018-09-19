@@ -11,3 +11,4 @@ Helpful resources for studying and applying the Bible.
 - [Inscript](https://inscript.org/) - Good site for viewing multiple translations in parallel.
 - [Bible study notes on each book of the Bible](http://www.soniclight.com/constable/notes.htm) - These are helpful notes for an in-depth introduction to each book of the Bible.
 - [Prayer planner](http://prayer.hightower.space) - This is a site to help you organize your prayers so you can pray consistently, effectively, and biblically. You can read more about the background of the plan [here](https://bible.hightower.space/posts/prayer-plan/).
+- [Professor Grant Horner's Bible-Reading System](../Professor Horner's Bible Reading Plan.pdf) is a helpful way to get familiar with all of the entire Bible. If you haven't heard of it before, I highly recommend you at least read the [introduction](../Professor Horner's Bible Reading Plan.pdf).
