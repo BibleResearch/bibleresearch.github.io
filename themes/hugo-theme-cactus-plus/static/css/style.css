@@ -19,7 +19,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     margin-top: -10em;
     margin-right: -15rem;
     float: right;
-    box-shadow: inset 5px 0 5px -5px #29627e;
+    box-shadow: inset 5px 0 5px -5px black;
     font-size: .75em;
 }
 
@@ -28,8 +28,15 @@ body {
 }
 
 blockquote, q {
-    quotes: none
+    quotes: none;
+    font-style: italic;
 }
+
+blockquote sup {
+    font-style: normal;
+    padding-left: 0.5em;
+}
+
 
 blockquote:before, blockquote:after, q:before, q:after {
     content: none
@@ -428,7 +435,7 @@ p.small {
 
 blockquote {
     padding-left: 15px;
-    border-left: 3px solid #eee;
+    border-left: 3px solid #aaa;
 }
 
 hr {
