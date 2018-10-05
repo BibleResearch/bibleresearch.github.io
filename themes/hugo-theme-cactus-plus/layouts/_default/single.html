@@ -9,7 +9,7 @@
                         {{ .Title }}
                     </h1>
                     <h2 class="headline">
-                    {{ .Date.Format "Jan 2, 2006 15:04" }}
+                    {{ .Date.Format "January 2, 2006" }}
                     · {{ if lt 1 .WordCount }}{{ .WordCount }} words{{ else }}{{ .WordCount }} word{{ end }}
                     · {{ .ReadingTime }} minute read
                       <span class="tags">
@@ -22,6 +22,10 @@
                       {{ end }}
                       </span>
                     </h2>
+                    {{ if .Params.abstract }}
+                      <h1>Abstract</h1>
+                    {{ end }}
+                    <p>{{ .Description }}</p>
                 </header>
                 {{ if .Site.Params.enableToc }}
                   {{ if .TableOfContents }}
@@ -30,10 +34,6 @@
                     </div>
                   {{ end }}
                 {{ end }}
-                {{ if .Params.abstract }}
-                  <h1>Abstract</h1>
-                {{ end }}
-                <p>{{ .Description }}</p>
                 <section id="post-body">
                     {{ .Content }}
                 </section>

@@ -5,7 +5,7 @@ title = "Bible Research"
 theme = "hugo-theme-cactus-plus"
 
 [params]
-    author = "Floyd Hightower"
+    author = "<a href='https://hightower.space/'>Floyd Hightower</a>"
     description = "Bible Research"
     bio = "\"In your thinking be mature\""
 

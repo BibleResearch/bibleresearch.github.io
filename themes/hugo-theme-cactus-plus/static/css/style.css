@@ -19,12 +19,23 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     margin-top: -10em;
     margin-right: -15rem;
     float: right;
-    box-shadow: inset 5px 0 5px -5px black;
+    box-shadow: inset 5px 0 5px -5px #999;
     font-size: .75em;
 }
 
+.noteNumber {
+    font-weight: bold;
+}
+
 body {
-    line-height: 1
+    margin-left: auto;
+    margin-right: auto;
+    font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    background-color: #282821;
+}
+
+sup {
+    font-weight: bold;
 }
 
 blockquote, q {
@@ -32,8 +43,7 @@ blockquote, q {
     font-style: italic;
 }
 
-blockquote sup {
-    font-style: normal;
+blockquote {
     padding-left: 0.5em;
 }
 
@@ -134,7 +144,7 @@ html, body {
 
 body {
     font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #666;
+    color: #fffff8;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
@@ -142,13 +152,13 @@ body {
 h1 {
     font-size: 30px;
     letter-spacing: -1px;
-    color: #222;
+    color: #fffff8;
     font-weight: bold;
 }
 
 h2 {
     font: italic 19px/1.3em Georgia, serif;
-    color: #bbb;
+    color: #fffff8;
 }
 
 .profile #wrapper {
@@ -175,13 +185,13 @@ h2 {
     font-weight: 400;
     letter-spacing: 0px;
     font-size: 20px;
-    color: #222;
+    color: #fffff8;
 }
 
 .profile h2 {
     font-size: 20px;
     font-weight: 300;
-    color: #aaa;
+    color: #fffff8;
     margin-top: 10px;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-style: normal;
@@ -189,25 +199,25 @@ h2 {
 
 nav.main-nav {
     padding: 20px 20px 0;
-    background: #fff;
-    background: rgba(255, 255, 255, .90);
+    background-color: #282821;
     margin: 0 auto;
     text-align: right;
     z-index: 100;
 }
 
 nav.main-nav a {
+    text-decoration: none;
     top: 8px;
     right: 6px;
     padding: 8px 12px;
-    color: #5badf0;
+    color: #65bded;
     font-size: 13px;
     line-height: 1.35;
     border-radius: 3px;
 }
 
 nav.main-nav a.cta {
-    background: #5badf0;
+    background: #65bded;
     color: #fff;
     margin-left: 12px;
 }
@@ -224,7 +234,7 @@ nav.main-nav a.cta {
       top: 8px;
       right: 6px;
       padding: 8px 8px;
-      color: #5badf0;
+      color: #65bded;
       font-size: 13px;
       line-height: 1.35;
       border-radius: 3px;
@@ -232,8 +242,9 @@ nav.main-nav a.cta {
   .marginnote {
       margin: inherit;
       float: inherit;
+      margin-bottom: 2em;
       width: 100%;
-      box-shadow: inset 5px 0 5px -5px #29627e;
+      box-shadow: inset 5px 0 5px -5px #999;
   }
 }
 @media (max-width: 324px) {
@@ -268,15 +279,14 @@ nav.main-nav a.cta {
 /*Accent color*/
 
 a, #title, #post-list a:hover, #title:hover {
-    text-decoration: none;
-    color: #5badf0;
-    color: #5694f1;
+    color: #65bded;
+    text-decoration: underline;
 }
 
 p a {
-    color: #5694f1;
+    color: #65bded;
+    text-decoration: underline;
 }
-
 
 /*Transitions*/
 
@@ -316,7 +326,6 @@ ul>li {
 
 b, strong {
     font-weight: 500;
-    color: #1E2025;
 }
 
 em, i {
@@ -335,19 +344,19 @@ em, i {
 .description {
     float: right;
     font: italic 14px/1.4em Georgia, serif;
-    color: #aaa;
+    color: red;
 }
 
 .home h1 {
     font-size: 30px;
     letter-spacing: -1px;
-    color: #222;
+    color: #fffff8;
     font-weight: bold;
 }
 
 .home h2 {
     font: italic 19px/1.3em Georgia, serif;
-    color: #bbb;
+    color: #fffff8;
 }
 
 .post header {
@@ -357,7 +366,7 @@ em, i {
 .post h1 {
     margin-top: 40px;
     margin-bottom: 20px;
-    color: #222;
+    color: #fffff8;
     font: 300 32px/1.4em "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -365,13 +374,12 @@ em, i {
     margin-top: 20px;
     margin-bottom: 10px;
     font: 300 24px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #111;
 }
 
 .post h2.headline {
     font: normal 13px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: -5px 0 0 0;
-    color: #b2b9be;
+    color: #fffff8;
     font-size: 13px;
     letter-spacing: 1px;
     display: inline-block;
@@ -380,7 +388,6 @@ em, i {
 .post h2.headline .tags {
     font: normal 13px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: -5px 0 40px 0;
-    color: #b2b9be;
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -389,17 +396,22 @@ em, i {
 }
 
 .post .tags a {
+    color: #999;
     text-decoration: underline;
+}
+
+.tags a:hover {
+    box-shadow: 0px 0px 100px #333;
 }
 
 #post-list h2 {
     font: normal 17px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #777;
+    color: #fffff8;
     margin-top: 2px;
 }
 
 h3, h4, h5 {
-    color: #333;
+    color: #fffff8;
 }
 
 h3 {
@@ -420,12 +432,12 @@ h5 {
 h6 {
     font-size: 13px;
     font-weight: bold;
-    color: #666;
+    color: #fffff8;
     margin-bottom: 6px;
 }
 
 p.small {
-    color: #bbb;
+    color: #fffff8;
     font-size: 14px;
     line-height: 1.5;
     display: block;
@@ -435,7 +447,7 @@ p.small {
 
 blockquote {
     padding-left: 15px;
-    border-left: 3px solid #aaa;
+    /*border-left: 1px solid #999;*/
 }
 
 hr {
@@ -443,7 +455,7 @@ hr {
     border: none;
     height: 1px;
     margin: 40px auto;
-    background: #eee;
+    background: #fffff8;
 }
 
 table {
@@ -481,7 +493,6 @@ thead th, th {
     height: 20px;
     font-size: 13px;
     font-weight: bold;
-    color: #444;
     border-bottom: 1px solid #dadadc;
     cursor: default;
     white-space: nowrap;
@@ -532,9 +543,15 @@ Post List
 }
 
 #post-list a {
-    color: #333;
+    text-decoration: none;
+    color: #fffff8;
     display: block;
     font: bold 19px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+}
+
+#post-list a:hover {
+    text-decoration: none;
+    box-shadow: 0px 0px 100px #282828;
 }
 
 #post-list .dates {
@@ -542,11 +559,11 @@ Post List
     position: relative;
     top: 1px;
     font: 300 17px/1.8 "Helvetica Neue", helvetica, Arial, sans-serif;
-    color: #bbb;
+    color: #999;
 }
 
 #post-list-footer {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #fffff8;
     margin-top: 20px;
     padding-top: 100px;
 }
@@ -561,9 +578,9 @@ Post List
 }
 
 #archive-link:hover {
-    background: #5694f1;
+    background: #65bded;
     color: #fff;
-    box-shadow: 0 0 0 1px #5694f1;
+    box-shadow: 0 0 0 1px #65bded;
 }
 
 #archive-link span {
@@ -592,17 +609,16 @@ Post List
     font-size: 13px;
     font-weight: bold;
     line-height: 1.4;
-    border-top: 1px solid #eee;
+    border-top: 1px solid #fffff8;
     padding-top: 40px;
     margin-bottom: 40px;
     padding-bottom: 40px;
     margin-top: 40px;
-    color: #444;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #fffff8;
 }
 
 #post-meta div span {
-    color: #aaa;
+    color: #999;
     font-weight: 500;
     display: block;
 }
@@ -626,7 +642,7 @@ Post List
     font-size: 23px;
     margin-left: 1px;
     margin-top: 4px;
-    color: #d4d4d4;
+    color: #999;
     display: inline-block;
     vertical-align: middle;
 }
@@ -698,7 +714,7 @@ h2.month {
     margin-top: 40px;
     margin-bottom: 10px;
     padding-bottom: 10px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #fffff8;
 }
 
 #archive-list li:last-child {
@@ -708,7 +724,7 @@ h2.month {
 #archive-list a {
     display: block;
     font: bold 17px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
-    color: #333;
+    color: #fffff8;
 }
 
 #archive-list .dates {
@@ -716,11 +732,11 @@ h2.month {
     position: relative;
     top: 1px;
     font: 300 17px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
-    color: #bbb;
+    color: #999;
 }
 
 #archive-list li a:hover, #archive-list li:hover .dates {
-    color: #5694f1;
+    color: #65bded;
 }
 
 #post-meta img.avatar {
@@ -730,7 +746,7 @@ h2.month {
     border-radius: 50%;
     margin-top: 3px;
     margin-right: 20px;
-    box-shadow: 0 0 0 3px #fff, 0 0 0 4px #eee;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 4px #fffff8;
 }
 
 #post-list.archive.readmore {
@@ -746,7 +762,7 @@ h2.month {
 
 #post-list.archive.readmore a {
     font: 400 16px/1.6 "Helvetica Neue", helvetica, Arial, sans-serif;
-    color: #5694f1;
+    color: #65bded;
 }
 
 #post-list.archive.readmore a:hover {
@@ -759,14 +775,6 @@ h2.month {
 
 #disqus_thread, #ds-thread {
     margin-top: 100px;
-}
-
-#sharing a.facebook {
-    background: #4361b3;
-}
-
-#sharing a.twitter {
-    background: #4fafed;
 }
 
 #sharing a {
@@ -840,7 +848,7 @@ h2.month {
     display: inline-block;
     width: 60px;
     margin: 0;
-    color: #8a8a8a;
+    color: #999;
 }
 
 @media screen and (max-width: 768px) {
@@ -853,23 +861,16 @@ h2.month {
 }
 
 .archive .post-link {
-    color: #8a8a8a;
+    color: #fffff8;
 }
 
 .archive .post-item:hover {
-    color: #5694f1;
+    color: #65bded;
     transition: 0.3s ease-out;
 }
 .archive .post-item:hover .post-link {
-    color: #5694f1;
+    color: #65bded;
 }
-
-.fa.fa-heart:hover {
-    color: #ff3356;
-    transition: 0.7s ease-out;
-    cursor: pointer;
-}
-
 
 /* CUSTOM ADDITIONS */
 
@@ -901,10 +902,10 @@ a.symbol:hover {
   padding-bottom: 14px;
   margin: 0 0 25px 0;
   display: block;
-  color: #808080;
-  background: #fff;
+  color: #282821;
+  background: #fffff8;
   border: none;
-  box-shadow: inset 0 0 0 1px #E4EBF2;
+  box-shadow: inset 0 0 0 1px #999;
   border-radius: 4px;
   overflow: hidden;
   font-family: 'Menlo', 'Monaco', Courier, monospace;
@@ -917,12 +918,11 @@ a.symbol:hover {
   white-space: nowrap;
 }
 #TableOfContents ul {
-  list-style-type:none;
   margin: 0;
   padding: 0 .5em;
 }
 #TableOfContents ul li {
-  list-style-type: none;
+  /*list-style-type: none;*/
   line-height: 1.7em;
 }
 #TableOfContents > ul {
@@ -931,14 +931,9 @@ a.symbol:hover {
 #TableOfContents > ul > li > ul {
   padding: 0;
 }
-#TableOfContents a code{
-  font-family: Menlo, Monaco, Courier;
-  background-color: #fff;
-  font-size: 11px;
-  padding: 2px 3px;
-  font-weight: 100;
+#TableOfContents a {
+    color: #282821;
 }
-
 
 /**
  * tags page
@@ -957,12 +952,12 @@ a.symbol:hover {
     font-size: 1.2em;
 }
 .page-tags ul li a {
-    color: #8a8a8a;
+    color: #999;
 
 }
 .page-tags ul li a span {
     font-size: .9em;
 }
 .page-tags ul li a:hover {
-    color: #5694f1;
+    color: #65bded;
 }

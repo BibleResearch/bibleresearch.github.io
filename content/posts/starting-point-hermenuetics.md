@@ -16,10 +16,10 @@ To clarify the objective of this blog post, I am not seeking to establish a comp
 
 ## "God-glorifying hermeneutic"
 
-There are wrong hermeneutics. A wrong hermeneutic does not handle God's revelation properly and will likely arrive at conclusions which are not supported by scripture.<span style="color: red;">†</span> Thus, it is possible for hermeneutic to not glorify God. I intend to write more about this in the future, but for now I want to be clear that my goal is to establish a hermeneutic which handles God's words properly and glorifies Him. A hermeneutic is a very powerful thing.
+There are wrong hermeneutics. A wrong hermeneutic does not handle God's revelation properly and will likely arrive at conclusions which are not supported by scripture.<sup>1</sup> Thus, it is possible for hermeneutic to not glorify God. I intend to write more about this in the future, but for now I want to be clear that my goal is to establish a hermeneutic which handles God's words properly and glorifies Him. A hermeneutic is a very powerful thing.
 
 <aside class="marginnote">
-  <span style="color: red;">†</span> - This is not to say that a hermeneutic will guarantee that you are always right; a number of other problems can occur, but making sure we have a solid hermeneutic is a good starting point.
+  <span class="noteNumber">1</span> - This is not to say that a hermeneutic will guarantee that you are always right; a number of other problems can occur, but making sure we have a solid hermeneutic is a good starting point.
 </aside>
 
 # Foundational Principles
@@ -43,11 +43,12 @@ I assert that language has meaning. To broadly deny this assertion would pose a 
 
 ### Meaning in Language is Comprehensible
 
-When I speak about the comprehensibility of meaning in language, I would like to qualify what I am asserting. As I said earlier, I assert it is "possible, at least theoretically, to understand meaning through human language". I say "theoretically" because there may be practical concerns which interfere with our ability to derive meaning from language. For example, if I am talking with someone at a train station, I will not be able to understand that person if his/her voice is too quiet and I can't hear him/her (unless his/her body language is very clear, of course). If someone writes me a note but the note gets left in a pocket and sent through the washer and dryer, I will probably not be able to understand the meaning of the note because it will likely be crumpled and wadded beyond readability. Thus, there can be practical limitations which prevent the comprehensibility of language.<span style="color: red;">†</span> On the whole, however, I assert that the meaning of language is understandable.
+When I speak about the comprehensibility of meaning in language, I would like to qualify what I am asserting. As I said earlier, I assert it is "possible, at least theoretically, to understand meaning through human language". I say "theoretically" because there may be practical concerns which interfere with our ability to derive meaning from language. For example, if I am talking with someone at a train station, I will not be able to understand that person if his/her voice is too quiet and I can't hear him/her (unless his/her body language is very clear, of course). If someone writes me a note but the note gets left in a pocket and sent through the washer and dryer, I will probably not be able to understand the meaning of the note because it will likely be crumpled and wadded beyond readability. Thus, there can be practical limitations which prevent the comprehensibility of language.<sup>2</sup> On the whole, however, I assert that the meaning of language is understandable.
 
 <aside class="marginnote">
-  <span style="color: red;">†</span> - There is also the question of how clear the Bible is (a doctrine called the <a href="https://www.merriam-webster.com/dictionary/perspicuous">perspicuity</a> of scripture), but that is a discussion for another time.
+  <span class="noteNumber">2</span> - There is also the question of how clear the Bible is (a doctrine called the <a href="https://www.merriam-webster.com/dictionary/perspicuous" target="_blank">perspicuity</a> of scripture), but that is a discussion for another time.
 </aside>
+
 
 ## The Responsibility of the Individual and Local Communities
 
