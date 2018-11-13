@@ -31,7 +31,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-    background-color: #282821;
+    background-color: #282823;
 }
 
 sup {
@@ -199,7 +199,7 @@ h2 {
 
 nav.main-nav {
     padding: 20px 20px 0;
-    background-color: #282821;
+    background-color: #282823;
     margin: 0 auto;
     text-align: right;
     z-index: 100;
@@ -325,7 +325,7 @@ ul>li {
 }
 
 b, strong {
-    font-weight: 500;
+    font-weight: bold;
 }
 
 em, i {
@@ -902,7 +902,7 @@ a.symbol:hover {
   padding-bottom: 14px;
   margin: 0 0 25px 0;
   display: block;
-  color: #282821;
+  color: #282823;
   background: #fffff8;
   border: none;
   box-shadow: inset 0 0 0 1px #999;
@@ -932,7 +932,7 @@ a.symbol:hover {
   padding: 0;
 }
 #TableOfContents a {
-    color: #282821;
+    color: #282823;
 }
 
 /**

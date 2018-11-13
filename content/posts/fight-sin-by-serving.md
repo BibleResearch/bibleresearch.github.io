@@ -1,11 +1,11 @@
 ---
 title: "Fighting Sin by Serving"
 date: 2018-06-30T06:21:22-03:00
-description: "Serving others is a strategy for fighting sin."
-tags: ["Galatians", "New Testament", "Service", "Sin", "Thought"]
+description: "Serving others as a strategy for fighting sin."
+tags: ["Galatians", "New Testament", "Serving", "Sin", "Thought", "One Anothers"]
 ---
 
-I was just reading Galatians and 5:13 really jumped out at me:
+I was reading Galatians 5:13 recently and this jumped out at me:
 
 > For you were called to freedom, brethren; only do not turn your freedom into an opportunity for the flesh, but through love serve one another.
 
