@@ -2,7 +2,7 @@
 title: Why Every Christian Must Fight and Flee Pornography
 date: 2018-10-30T06:21:22-03:00
 description: ""
-tags: ["Pornography", "Love", "Church", "Christ", "Marriage", "Human Beings", "Holiness"]
+tags: ["Pornography", "Love", "Church", "Christ", "Marriage", "Human Beings", "Holiness", "One Anothers"]
 ---
 
 Let's cut to the chase... pornography has been cited as an epidemic of our age. It is ubiquitous and easily accessible. There is a lot which can be said on the subject from many different angles and different perspectives, but for now, I'm going to present **four motives that should animate *every* Christian to fight and flee pornography**. I hope to discuss *how* to fight and flee pornography at some point, but for now, we'll deal with *why*.
@@ -109,8 +109,6 @@ Finally, if you are a Christian, you must fight and flee pornography out of a lo
   <p><span class="noteNumber">19</span> - See question #1 of the <a href="https://reformed.org/documents/wsc/index.html?_top=https://reformed.org/documents/WSC.html" target="_blank">Westminster Shorter Catechism</a></p>
   <span class="noteNumber">20</span> - There is a well-cited article on this subject <a href="https://fightthenewdrug.org/3-reasons-why-watching-porn-is-harmful/" target="_blank">here</a> along with numerous research articles:
   <ul>
-    <li><a href="https://www.apadivisions.org/division-46/resources/articles/pornography-exposure.pdf" target="_blank">Repeated Exposure to Pornography</a></li>
-    <li><a href="http://psycnet.apa.org/record/1989-08815-001" target="_blank">Effects of long-term exposure to sexually degrading depictions of women</a></li>
     <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-2466.1982.tb02514.x" target="_blank">Pornography and Sexual Callousness, and the Trivialization of Rape</a></li>
     <li><a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C47&as_vis=1&q=effects+of+pornography&btnG=" target="_blank">https://scholar.google.com/scholar?hl=en&as_sdt=0%2C47&as_vis=1&q=effects+of+pornography&btnG=</a></li>
   </ul>
