@@ -5,7 +5,11 @@ description: ""
 tags: ["Pornography", "Love", "Church", "Christ", "Marriage", "Human Beings", "Holiness", "One Anothers"]
 ---
 
-Let's cut to the chase... pornography has been cited as an epidemic of our age. It is ubiquitous and easily accessible. There is a lot which can be said on the subject from many different angles and different perspectives, but for now, I'm going to present **four motives that should animate *every* Christian to fight and flee pornography**. I hope to discuss *how* to fight and flee pornography at some point, but for now, we'll deal with *why*.
+Let's cut to the chase... pornography has been cited as an epidemic of our age.<sup>1</sup> It is ubiquitous and easily accessible. There is a lot which can be said on the subject from many different angles and different perspectives, but for now, I'm going to present **four motives that should animate *every* Christian to fight and flee pornography**. I hope to discuss *how* to fight and flee pornography at some point, but for now, we'll deal with *why*.
+
+<aside class="marginnote">
+  <span class="noteNumber">1</span> - There are some statistics and resources to this effect <a href="https://theweek.com/articles/493433/internet-porn-epidemic-by-numbers" _target="blank">here</a>
+</aside>
 
 Every Christian *must* fight and flee pornography out of:
 
