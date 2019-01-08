@@ -1,7 +1,7 @@
 ---
 title: "A Consequentialist Hermeneutic"
 date: 2019-01-01
-description: "Bad hermeneutics are commonly used and accepted in conservative evangelicalism today. This blog post is my attempt to diagnose why pastors and laypeople alike appear to be comfortable badly misusing scripture. I believe one of the primary reasons why hermeneutics are ignored and unconsidered is because the church today practices a consequentialist hermeneutic. In this post, I define a consequentialist hermeneutic and note some of the flaws in this view."
+description: "Bad hermeneutics are commonly used and accepted in conservative evangelicalism today. This blog post is my attempt to diagnose why pastors and laypeople alike appear to be comfortable while badly misusing scripture. I believe one of the primary reasons why hermeneutics are ignored and unconsidered is because the church today practices a consequentialist hermeneutic. In this post, I define a consequentialist hermeneutic and note some of the flaws in this view."
 tags:
     - Hermeneutics
     - Philosophy
