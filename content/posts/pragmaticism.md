@@ -73,6 +73,6 @@ Consider a man who affirms the resurrection but lives the same way as a person w
 
 # Conclusion
 
-At some point, I hope to provide a more philosophical response to Pragmaticism, but for the time being, I wanted to provide an introduction to this idea (which seems to permeate modern, American culture, yet without diagnosis) and show you the dangers of adopting this view.
+I have a more philosophical response to Pragmaticism [here](https://hightower.space/thoughts/pragmaticism-question/), but for the time being, I wanted to provide an introduction to this idea (which seems to permeate modern, American culture, yet without diagnosis) and show you the dangers of adopting this view.
 
 As always, if you have questions, comments, feedback, or concerns, please [contact me](https://hightower.space/contact/).

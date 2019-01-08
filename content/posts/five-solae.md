@@ -10,6 +10,11 @@ tags:
     - Reformation
     - Ephesians
     - Church History
+    - Sola Fide
+    - Sola Scriptura
+    - Sola Gratia
+    - Solus Christus
+    - Soli Deo Gloria
 ---
 
 The principles behind the reformation are often summarized in five exclusive statements deemed 'Solae' or 'Solas':
