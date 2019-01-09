@@ -63,6 +63,11 @@ table {
     box-sizing: border-box;
 }
 
+code {
+    color: #282823;
+    background-color: #fffff8;
+}
+
 
 /* Clearfix */
 
@@ -960,4 +965,13 @@ a.symbol:hover {
 }
 .page-tags ul li a:hover {
     color: #65bded;
+}
+
+/*.rtBibleRef {
+    color: red;
+}*/
+
+.dialogueName {
+    font-weight: bold;
+    text-decoration: underline;
 }
