@@ -17,7 +17,11 @@ The three aspects of saving faith identified by the reformers are *notitia*, *as
 
 ## Notitia
 
-*Notitia* refers to the comprehension of data or content that is to be believed. Faith, especially saving faith, always has an object. You always believe *in* something. *Notitia* provides the understanding of the object of saving faith (namely, the truth about Christ's birth, life, death, burial, and resurrection - see 1 Corinthians 15:1-8).
+*Notitia* refers to the comprehension of data or content that is to be believed. Faith, especially saving faith, always has an object. You always believe *in* something. *Notitia* provides the understanding of the object of saving faith (namely, the truth about Christ's birth, life, death, burial, and resurrection - see 1 Corinthians 15:1-8<sup>1</sup>).
+
+<aside class="marginnote">
+  <span class="noteNumber">1</span> - For further discussion about how we define the Gospel, refer to the article on <a href="https://bible.hightower.space/posts/defining-gospel/">How we define the Gospel</a>
+</aside>
 
 ## Assensus
 
