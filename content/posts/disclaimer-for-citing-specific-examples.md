@@ -13,7 +13,11 @@ tags: ["Citations", "Academic Integrity", "Truth", "Love", "Questions"]
   <span class="noteNumber">1</span> - Ephesians 4:11-16
 </aside>
 
-The challenge I'm facing is this: I have numerous questions about Christianity and Protestantism. These questions are not, in my estimation and the thinking of thoughtful friends with whom I engage, inconsequential or periphery; they are foundational, epistemological, and methodological questions that have a significant bearing on my everyday life. I want to articulate these questions and this blog is one of the primary means of doing so, but it is easy to be misunderstood on the internet and it is equally easy to slip into the zeitgeist of the internet age where everyone is either sarcastic, mean, or lacking nuance and philosophical distinction. In short, I want to write clear, thoughtful articles that communicate my questions without coming across as mean or subversive.
+The challenge I'm facing is this: I have numerous questions about Christianity and Protestantism. These questions are not, in my estimation and the thinking of thoughtful friends with whom I engage, inconsequential or periphery; they are foundational, epistemological, and methodological questions that have a significant bearing on my everyday life. I want to articulate these questions and this blog is one of the primary means of doing so, but it is easy to be misunderstood on the internet and it is equally easy to slip into the zeitgeist of the internet age where everyone<sup>2</sup> is either sarcastic, mean, or lacking nuance and philosophical distinction. In short, I want to write clear, thoughtful articles that communicate my questions without coming across as mean or subversive.
+
+<aside class="marginnote">
+  <span class="noteNumber">2</span> - As Mark Twain said: "All generalizations are always wrong"
+</aside>
 
 To communicate clearly, I think I must reference specific examples from books, blogs, movies, sermons, etc. to prove and demonstrate what I am talking about. Because it is so easy for such direct references to be misunderstood, this blog post lays out my objectives for using primary source material and sets some principles to which I will try to hold myself accountable. Here goes...
 
@@ -32,14 +36,14 @@ So how am I going to use primary source material in my blog posts? Here are five
 1. **Be humble.** - In citing what I perceive to be the shortcomings of another person, I am not under the delusion that I am free from errors (even the same errors which I criticize). I will use primary source material humbly, recognizing that I too have many areas in which I need to grow.
 2. **Be positive.** - To best help the body of Christ grow and mature, I will always be sure to provide guidelines and principles for how to fix a problem and how we can do something better in the future.
 3. **Be open to correction.** - As I critique others, I will always be open and soliciting feedback and correction. I do not have everything figured out and I make mistakes too.
-4. **Don't throw the baby out with the bathwater.**<sup>2</sup> - When addressing the errors of another person, I will try not to over-react. One error does not discredit everything a person has done. There are different types of errors and different reasons errors occur, so it is wrong to say that because someone is wrong on one issue, they can't be trusted on any issues.
-5. **Speaking the truth...** - Taking a hint from Ephesians 4:15, I will seek to speak the truth (which is, in part, contained in Scripture<sup>3</sup>) and to not get bogged down in falsehood.
-6. **Speaking the truth *in love*...** - Again from Ephesians 4:15, I will seek to communicate lovingly and motivated by love<sup>4</sup>.
+4. **Don't throw the baby out with the bathwater.**<sup>3</sup> - When addressing the errors of another person, I will try not to over-react. One error does not discredit everything a person has done. There are different types of errors and different reasons errors occur, so it is wrong to say that because someone is wrong on one issue, they can't be trusted on any issues.
+5. **Speaking the truth...** - Taking a hint from Ephesians 4:15, I will seek to speak the truth (which is, in part, contained in Scripture<sup>4</sup>) and to not get bogged down in falsehood.
+6. **Speaking the truth *in love*...** - Again from Ephesians 4:15, I will seek to communicate lovingly and motivated by love<sup>5</sup>.
 
 <aside class="marginnote">
-  <p><span class="noteNumber">2</span> - This is an <a target="_blank" href="https://en.wikipedia.org/wiki/Don%27t_throw_the_baby_out_with_the_bathwater">English idiom</a></p>
-  <p><span class="noteNumber">3</span> - By this, I mean that all Scripture is true by nature of it's divine origin (see 2 Timothy 3:16 and 2 Peter 1:16-21), but not all truth is contained in Scripture</p>
-  <span class="noteNumber">4</span> - Specifically, a love for Christ, His Church, and those whom Christ has chosen to be part of the Church
+  <p><span class="noteNumber">3</span> - This is an <a target="_blank" href="https://en.wikipedia.org/wiki/Don%27t_throw_the_baby_out_with_the_bathwater">English idiom</a></p>
+  <p><span class="noteNumber">4</span> - By this, I mean that all Scripture is true by nature of it's divine origin (see 2 Timothy 3:16 and 2 Peter 1:16-21), but not all truth is contained in Scripture</p>
+  <span class="noteNumber">5</span> - Specifically, a love for Christ, His Church, and those whom Christ has chosen to be part of the Church
 </aside>
 
 In keeping with the spirit of this blog post, feel free to [contact me](https://hightower.space/contact/) if you have any questions, comments, or feedback.
