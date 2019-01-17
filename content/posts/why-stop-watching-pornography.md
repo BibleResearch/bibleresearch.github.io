@@ -2,7 +2,7 @@
 title: Why Every Christian Must Fight and Flee Pornography
 date: 2018-10-30T06:21:22-03:00
 description: ""
-tags: ["Pornography", "Love", "Church", "Christ", "Marriage", "Human Beings", "Holiness", "One Anothers"]
+tags: ["Pornography", "Love", "Church", "Jesus Christ", "Marriage", "Human Beings", "Holiness", "One Anothers"]
 ---
 
 Let's cut to the chase... pornography has been cited as an epidemic of our age.<sup>1</sup> It is ubiquitous and easily accessible. There is a lot which can be said on the subject from many different angles and different perspectives, but for now, I'm going to present **four motives that should animate *every* Christian to fight and flee pornography**. I hope to discuss *how* to fight and flee pornography at some point, but for now, we'll deal with *why*.
