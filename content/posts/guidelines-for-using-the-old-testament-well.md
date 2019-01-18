@@ -1,6 +1,6 @@
 ---
 title: "Guidelines for Using Old Testament Passages Well"
-date: 2019-01-15
+date: 2019-01-20
 description: "A brief look at some questions you can ask yourself to make sure you are using the Old Testament correctly."
 tags:
     - Hermeneutics
