@@ -9,9 +9,9 @@ For the time being, I'm going to answer this question by looking at what the New
 
 The Old Testament...
 
-1. predicts/points to Christ (Luke 24:44-47)
-2. is sufficient to bring about salvation (Luke 16:19-31 (especially 29-31), 2 Timothy 3:15)
-3. was written for our instruction (Romans 15:4, 1 Corinthians 10:11, Luke 17:32)
-4. was written for our encouragement (Romans 15:4)
-5. (as part of scripture) is profitable for teaching, reproof, correction, and training in righteousness (2 Timothy 3:16-17)
-6. is fulfilled in/by Christ (2 Corinthians 1:20)
+1. Predicts/points to Christ (Luke 24:44-47)
+2. Is sufficient to bring about salvation (Luke 16:19-31 (especially 29-31), 2 Timothy 3:15)
+3. Was written for our instruction (Romans 15:4, 1 Corinthians 10:11, Luke 17:32)
+4. Was written for our encouragement (Romans 15:4)
+5. (as part of scripture) Is profitable for teaching, reproof, correction, and training in righteousness (2 Timothy 3:16-17)
+6. Is fulfilled in/by Christ (2 Corinthians 1:20)
