@@ -2,7 +2,7 @@
 title: Thoughts on Article VIII of the Chicago Statement on Biblical Hermeneutics
 date: 2019-02-04
 description: "A few thoughts on one of the articles from a prominent statement on Biblical Hermeneutics."
-tags: ["Hermeneutics", "Chicago Statement on Biblical Hermeneutics", "Application", "International Council on Biblical Inerrancy"]
+tags: ["Hermeneutics", "Chicago Statement on Biblical Hermeneutics", "Application", "International Council on Biblical Inerrancy", "Normativity"]
 ---
 
 Article VIII of the [Chicago Statement on Biblical Hermeneutics](https://library.dts.edu/Pages/TL/Special/ICBI_2.pdf) states:
