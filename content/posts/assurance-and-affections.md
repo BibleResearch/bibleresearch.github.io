@@ -23,7 +23,7 @@ This observation does not necessarily disprove the thesis of the pastors mention
 
 # Contradictions with Scripture
 
-If we assert, as the pastors above do, that love for Jesus is the primary/only/best assurance of salvation, it seems to me that this assumes it is impossible to have counterfeit love for Jesus (it is impossible to think that you love Jesus if you are really not saved). If it were possible to have a counterfeit love for Jesus, this would dash this argument to pieces because it would fail to answer the question. In the words of one pastor, a love for Christ "can't be faked"<sup>3</sup>. The difficulty with this assumption is that is appears to contradict what is written in 1 John 4:20. Echoing the cautions earlier in the book of 1 John which start with "if we say..." (1 John 1:6, 1:8, 1:10), 1 John 4:20 seems to be clear in warning that it is possible for someone to claim he/she loves God without actually loving God (the fact that such a person may exist is implied in the writing of such a warning). Thus, I think it is biblically possible for someone to think he or she loves God without actually loving God.
+If we assert, as the pastors above do, that love for Jesus is the primary/only/best assurance of salvation, it seems to me that this assumes it is impossible to have counterfeit love for Jesus (if you are not saved, it is impossible to think that you love Jesus). If it were possible to have a counterfeit love for Jesus, this would dash this argument to pieces because it would fail to answer the question "How do I *know* that I'm saved?". In the words of one pastor, a love for Christ "can't be faked"<sup>3</sup>. The difficulty with this assumption is that is appears to contradict what is written in 1 John 4:20. Echoing the cautions earlier in the book of 1 John which start with "if we say..." (1 John 1:6, 1:8, 1:10), 1 John 4:20 seems to be clear in warning that it is possible for someone to claim he/she loves God without actually loving God (the fact that such a person may exist is implied in the writing of such a warning). Thus, I think it is biblically possible for someone to think he or she loves God without actually loving God.
 
 <aside class="marginnote">
   <span class="noteNumber">3</span> - <a href="https://www.youtube.com/watch?v=nT7RNnz4Nl0&t=38m10s" target="_blank">https://www.youtube.com/watch?v=nT7RNnz4Nl0&t=38m10s</a>
@@ -55,7 +55,7 @@ And 1 John 3:13-24:
 > 
 > <u>By this we shall know that we are of the truth and reassure our heart before him</u>; for whenever our heart condemns us, God is greater than our heart, and he knows everything. <u>Beloved, if our heart does not condemn us</u>, we have confidence before God; and whatever we ask we receive from him, because we keep his commandments and do what pleases him. And this is his commandment, that <u>we believe in the name of his Son Jesus Christ and love one another</u>, just as he has commanded us. <u>Whoever keeps his commandments abides in God, and God in him</u>. And by this we know that he abides in us, <u>by the Spirit whom he has given us</u>.
 
-And 1 John 4:
+And 1 John 4:1-21:
 
 > Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world. <u>By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God, and every spirit that does not confess Jesus is not from God</u>. This is the spirit of the antichrist, which you heard was coming and now is in the world already. Little children, you are from God and have overcome them, for he who is in you is greater than he who is in the world. They are from the world; therefore they speak from the world, and the world listens to them. We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. By this we know the Spirit of truth and the spirit of error.
 > 
@@ -79,11 +79,17 @@ And 1 John 5:13-20:
 > 
 > And we know that the Son of God has come and has given us understanding, so that we may know him who is true; and we are in him who is true, in his Son Jesus Christ. He is the true God and eternal life.
 
+The only statement in that is close to the "love for Jesus" argument is 1 John 5:1-2, but even this is clarified and made more practical by defining what it means to love God in 1 John 5:3 when the apostle says "For this is the love of God, that we keep his commandments".
+
 # Conclusion
+
+To be clear, I think all true Christians do love God (Ephesians 6:24, 1 Corinthians 16:22, 1 John 5:1-3). I'm just concerned that we are putting too much weight on this as the exclusive test of salvation and that we are relying on it without support from scripture.
 
 What pains me most about this trend is the disregard and complacency shown for God's divinely inspired word. Do we really think we have more wisdom than scripture? How have we become comfortable answering questions (which are addressed in scripture) differently than the divinely inspired authors themselves?
 
 If you think I'm misunderstanding something, please [contact me](https://hightower.space/contact/).
+
+<!-- TODO: add an appendix addressing the role of pastoral wisdom in this matter -->
 
 ---
 
