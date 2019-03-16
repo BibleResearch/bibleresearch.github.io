@@ -3,6 +3,7 @@ title: "Questions about Exegetical Preaching"
 date: 2019-02-16
 description: "Questions regarding the validity and foundation of exegetical preaching."
 tags:
+    - Hermeneutics
     - Exegesis
     - Preaching
     - Exegetical Preaching
@@ -146,7 +147,7 @@ My second question about our exegetical preaching style on literary grounds is t
   <p><span class="noteNumber">10</span> - The list of books read by the Monster is immensely significant as they describe the Monster's education, closely mirroring Mary Shelley's own tastes and Romantic values, and are programmatic for the ensuing interaction and rest of the story.</p>
   <p><span class="noteNumber">11</span> - John 3</p>
   <p><span class="noteNumber">12</span> - In my opinion, the book of Job is   another one of the greatest works of literature ever produced</p>
-  <p><span class="noteNumber">13</span> - The primary question in the book of Job is not "Why do men suffer?"; the book is more focused on "Is God right/just?". For more details on Job, see <a href="https://bible.hightower.space/" target="_blank">notes on Job</a>.</p>
+  <p><span class="noteNumber">13</span> - The primary question in the book of Job is not "Why do men suffer?"; the book is more focused on "Is God right/just in light of man's suffering?". There are notes which discuss this further <a href="https://bible.hightower.space/notes/old_testament/wisdom_literature/job.html" target="_blank">here</a>.</p>
 </aside>
 
 In this paragraph, I'm going to rant about literature; feel free to jump to the next paragraph. If we were to read Sonia reading Raskolnikov the story of Lazarus<sup>7</sup> with the strategy that appears to be employed when writing most exegetical sermons, we would probably sever the passage into a series of disconnected sections with titles like: "From Cowardly to Courageous" and "How to Read Your Bible"<sup>8</sup>. If we read Mary Shelley's *Frankenstein* using the hermeneutic commonly practiced in exegetical interpretation, we would probably read the Monster's statement: "Fortunately the books were written in the language the elements of which I had acquired at the cottage; they consisted of *Paradise Lost*, a volume of *Plutarch's Lives*, and the *Sorrows of Werter*" <sup>9</sup> as nothing more than a suggested reading list (or perhaps a sermon entitled "Books to Make a Monster"... doesn't that alliterate nicely<sup>8</sup>)<sup>10</sup>. When we read the story of Nicodemus<sup>11</sup>, we have so jettisoned a literary reading of the text that we don't even notice that Jesus uses light and darkness in John 3:19-21 to confront Nicodemus who comes to Jesus at night (in the dark). And we likely fail to notice that the light/dark motif in John 3 ties backwards into John 1, which ties back into creation in Genesis and that the light/dark motif in John 3 is carried forward into 1 John (which ties into Deuteronomy, etc...). We aren't used to thinking about the Bible on the level of literary concepts. When we read Job<sup>12</sup>, we are so bent on finding answers to our preconceived notions that we actually think that the book of Job is primarily about suffering.<sup>13</sup>
