@@ -1,6 +1,6 @@
 ---
 title: "Questions about Exegetical Preaching"
-date: 2019-02-16
+date: 2020-02-16
 description: "Questions regarding the validity and foundation of exegetical preaching."
 tags:
     - Hermeneutics
