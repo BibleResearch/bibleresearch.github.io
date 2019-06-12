@@ -2,4 +2,11 @@
 title: "Church History"
 ---
 
-Welcome to the site for the summer 2019, ISM class on church history! More content is coming soon...
+Welcome to the home page of the ISM Church History class for the summer of 2019!
+
+### Week 1 (June 11): Introduction
+
+##### Assignment
+
+- Read the book of Acts
+- Read the didache
