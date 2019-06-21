@@ -145,7 +145,7 @@ Now, consider John 1:5:
 There are conservative evangelicals who argue that the word "κατέλαβεν" (which could mean "comprehend" or "overcome") has a double meaning here.<sup>17</sup>
 
 <aside class="marginnote">
-  <span class="noteNumber">17</span> - This position was recently affirmed by a conservative, evangelical pastor, but the sermon is not available online (yet) so I have no citation for it.
+  <span class="noteNumber">17</span> - This position was recently affirmed by a conservative, evangelical pastor, but the sermon is not available online (yet) so I have no citation for it. This is understanding is supported by scholars such as D.A. Carson <a href="https://s3.amazonaws.com/tgc-documents/carson/1982_understanding_misunderstandings_reformatted.pdf" target="_blank">here</a>.
 </aside>
 
 There are others who disagree, but there seems to be no textual, linguistic, theological, or philosophical limitation preventing that word from having multiple, intended meanings.
