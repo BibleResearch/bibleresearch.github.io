@@ -68,6 +68,7 @@ Don't forget that prayer actually *does* things! You can read more about how God
 - John 17
 - Acts 12:1-19
 - Romans 15:30-33
+- Philippians 1:19
 - James 1:5
 - James 5:16
 
