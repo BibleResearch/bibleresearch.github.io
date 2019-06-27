@@ -7,11 +7,31 @@ title: "Church History"
 
 <hr>
 
-### **Week 3 (June 18):** Didache and First Epistle of Clement to the Corinthians
+### **Week 4 (July 2):** Shepherd of Hermas and Epistle of Barnabas
 
 #### Assignment (for next week)
 
 TBA
+
+<br>
+
+#### Lesson Outline
+
+- Study *Shepherd of Hermas*
+- Study *Epistle of Barnabas*
+
+<br>
+
+![Painting representing the Good Shepherd](../../images/hermas.jpg)
+
+<hr>
+
+### **Week 3 (June 25):** Didache and First Epistle of Clement to the Corinthians
+
+#### Assignment (for next week)
+
+- Read [*The Shepherd of Hermas*](https://www.ccel.org/ccel/schaff/anf02.ii.html)
+- Read [*The Epistle of Barnabas*](https://www.ccel.org/ccel/schaff/anf01.vi.html)
 
 <br>
 
