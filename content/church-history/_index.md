@@ -31,7 +31,9 @@ TBA
 #### Assignment (for next week)
 
 - Read [*The Shepherd of Hermas*](https://www.ccel.org/ccel/schaff/anf02.ii.html)
+	- [Printer-friendly version](https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_II/The_Pastor_of_Hermas)
 - Read [*The Epistle of Barnabas*](https://www.ccel.org/ccel/schaff/anf01.vi.html)
+	- [Printer-friendly version](https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/The_Epistle_of_Barnabas)
 
 <br>
 
@@ -53,7 +55,7 @@ TBA
 
 - Read the book of Matthew
 - Read [*The First Epistle of Clement to the Corinthians*](https://www.ccel.org/ccel/schaff/anf01.ii.ii.html)
-	- There is a complete, printer-friendly version [here](http://www.ewtn.com/library/patristc/anf1-1.htm)
+	- There is a complete, printer-friendly version [here](https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/First_Epistle_to_the_Corinthians)
 
 <br>
 
