@@ -7,11 +7,31 @@ title: "Church History"
 
 <hr>
 
-### **Week 4 (July 2):** Shepherd of Hermas and Epistle of Barnabas
+### **Week 5 (July 9):** Heresy Week: Looking at Trinitarian Heresies
 
 #### Assignment (for next week)
 
 TBA
+
+<br>
+
+#### Lesson Outline
+
+- Finish discussing *Epistle of Barnabas*
+- Take a quiz on the Trinity
+- Discuss trinitarian heresies
+
+<br>
+
+![Classic representation of the trinity](../../images/trinity.png)
+
+<hr>
+
+### **Week 4 (July 2):** Shepherd of Hermas and Epistle of Barnabas
+
+#### Assignment (for next week)
+
+- Watch [https://www.youtube.com/watch?v=IlzM7LogGRU](https://www.youtube.com/watch?v=IlzM7LogGRU)
 
 <br>
 
