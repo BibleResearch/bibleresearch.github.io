@@ -11,7 +11,11 @@ title: "Church History"
 
 #### Assignment (for next week)
 
-TBA
+- [Nicene Creed](https://www.ccel.org/creeds/nicene.creed.html)
+- [Apostle's Creed](https://www.ccel.org/creeds/apostles.creed.html)
+- [Athanasian Creed](https://www.ccel.org/creeds/athanasian.creed.html)
+- [Chalcedonian Creed](https://www.ccel.org/creeds/chalcedonian-creed.html)
+- Watch R. C. Sproul's [lecture series on the Trinity](https://www.ligonier.org/learn/series/mystery-of-the-trinity/)
 
 <br>
 
