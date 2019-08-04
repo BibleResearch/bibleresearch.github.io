@@ -7,11 +7,26 @@ title: "Church History"
 
 <hr>
 
-### **Week 8 (July 30):** Orthodox View on the Trinity
+### **Week 9 (August 7):** Orthodox View on the Trinity (part 2) and Q/A
 
 #### Assignment (for next week)
 
 TBA
+
+<br>
+
+#### Lesson Outline
+
+- This week, we will finish discussing the Orthodox view of the Trinity
+- Discuss (and attempt to answer) theological questions
+
+<hr>
+
+### **Week 8 (July 30):** Orthodox View on the Trinity
+
+#### Assignment (for next week)
+
+Come up with theological questions for next week.
 
 <br>
 
