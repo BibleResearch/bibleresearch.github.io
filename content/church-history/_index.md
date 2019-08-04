@@ -26,7 +26,8 @@ TBA
 
 #### Assignment (for next week)
 
-Come up with theological questions for next week.
+- Come up with theological questions for next week.
+- Watch R. C. Sproul's [lecture series on the Trinity](https://www.ligonier.org/learn/series/mystery-of-the-trinity/)
 
 <br>
 
