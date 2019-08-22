@@ -7,11 +7,77 @@ title: "Church History"
 
 <hr>
 
-### **Week 5 (July 9):** Heresy Week: Looking at Trinitarian Heresies
+### **Week 9 (August 7):** Orthodox View on the Trinity (part 2) and Q/A
 
 #### Assignment (for next week)
 
 TBA
+
+<br>
+
+#### Lesson Outline
+
+- This week, we will finish discussing the Orthodox view of the Trinity
+- Discuss (and attempt to answer) theological questions
+
+<hr>
+
+### **Week 8 (July 30):** Orthodox View on the Trinity
+
+#### Assignment (for next week)
+
+- Come up with theological questions for next week.
+- Watch R. C. Sproul's [lecture series on the Trinity](https://www.ligonier.org/learn/series/mystery-of-the-trinity/)
+
+<br>
+
+#### Lesson Outline
+
+- Study the Orthodox view on the Trinity
+
+<br>
+
+![Classic representation of the Trinity](../../images/trinity.png)
+
+<hr>
+
+### **Week 7 (July 23):** NO CLASS
+
+![Giampetrino's "Christ with the Symbol of the Trinity"](../../images/giampetrino-trinity.jpg)
+
+<hr>
+
+### **Week 6 (July 16):** Heresy Week (part 2): Looking at Trinitarian Heresies
+
+#### Assignment (for next week)
+
+- [Nicene Creed](https://www.ccel.org/creeds/nicene.creed.html)
+- [Apostle's Creed](https://www.ccel.org/creeds/apostles.creed.html)
+- [Athanasian Creed](https://www.ccel.org/creeds/athanasian.creed.html)
+- [Chalcedonian Creed](https://www.ccel.org/creeds/chalcedonian-creed.html)
+- Watch R. C. Sproul's [lecture series on the Trinity](https://www.ligonier.org/learn/series/mystery-of-the-trinity/)
+
+<br>
+
+#### Lesson Outline
+
+- Continue laying out Trinitarian heresies
+
+<br>
+
+![Gill's "The Trinity ("BENEDICTA SIT SANCTA TRINITAS")"](../../images/gill-trinity.jpg)
+
+<hr>
+
+### **Week 5 (July 9):** Heresy Week: Looking at Trinitarian Heresies
+
+#### Assignment (for next week)
+
+- [Nicene Creed](https://www.ccel.org/creeds/nicene.creed.html)
+- [Apostle's Creed](https://www.ccel.org/creeds/apostles.creed.html)
+- [Athanasian Creed](https://www.ccel.org/creeds/athanasian.creed.html)
+- [Chalcedonian Creed](https://www.ccel.org/creeds/chalcedonian-creed.html)
+- Watch R. C. Sproul's [lecture series on the Trinity](https://www.ligonier.org/learn/series/mystery-of-the-trinity/)
 
 <br>
 
