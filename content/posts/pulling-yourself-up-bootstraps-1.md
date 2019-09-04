@@ -1,7 +1,7 @@
 ---
 title: Why you MUST pull yourself up by your own bootstraps.
 date: 2019-01-30
-description: "When Christians discuss sanctification, we are prone to say things like \"Don't pull yourself up by your own bootstraps\". I think this is absolutely false and has devastating consequences. This blog post identifies two of the false dichotomies underlying this mistaken understanding of sanctification and demonstrates why they are not Biblical."
+description: "When Christians discuss sanctification, we are prone to say things like \"Don't pull yourself up by your own bootstraps\". I think this is wrong and has devastating consequences. This blog post identifies two of the false dichotomies underlying this mistaken understanding of sanctification and demonstrates why they are not biblical."
 tags:
     - Holy Spirit
     - Santification
@@ -10,7 +10,7 @@ tags:
     - Volition
 ---
 
-I have observed a dangerous teaching circling in conservative evangelicalism and I would like to shoot it out of the sky; this blog post is my attempt to do that. I will begin by pointing out the harmful visage in the form of two, pervasive dichotomies. I will then identify why each of these flies in the face of the bible.
+I have observed a dangerous teaching circling in conservative evangelicalism and I would like to address it. I will begin by pointing out the harmful teaching in the form of two, pervasive dichotomies. I will then identify why each of them is not biblically supported.
 
 # False Dichotomies
 
@@ -18,7 +18,7 @@ The problem I wish to point out appears in the form of false dichotomies; specif
 
 ## False Dichotomy Between the Human Mind and the Holy Spirit 
 
-Unfortunately within conservative evangelicalism, the human mind (specifically, the mind of a Christian) is often described as being in opposition with the Holy Spirit. Support for this view is usually taken from 1 Corinthians 1 and 2.<sup>1</sup> Someone holding to this position may conclude something like: 'the rational mind is opposed to the spirit'<sup>2</sup>.
+Unfortunately within conservative evangelicalism, the human mind (specifically, the mind of a Christian) is often described as being in opposition with the Holy Spirit. Support for this view is usually taken from 1 Corinthians 1 and 2.<sup>1</sup> Someone holding to this position may conclude something like: "the rational mind is opposed to the spirit"<sup>2</sup>.
 
 <aside class="marginnote">
   <p><span class="noteNumber">1</span> - Especially 1 Corinthians 1:20-24</p>
@@ -50,7 +50,7 @@ The true dichotomy, according to Paul, is between the flesh and the Holy Spirit,
 
 ## False Dichotomy Between the Human Will and the Holy Spirit 
 
-When discussing sanctification, well-meaning Christians will often say things like: "Don't pull yourself up by your own bootstraps.", "You shouldn't rely on your own strength but on the Holy Spirit", or "When we do things in our own strength, we won't accomplish much". The problem with statements like this is that they are not biblical; they create a false dichotomy between human will (and usually human strength and effort) and the Holy Spirit where one does not exist in scripture. According to scripture, using your own will, strength, and effort is a **good** thing! Consider Philippians 2:12-13; in light of Jesus' selfless submission to the Father's will on our behalf, so too we should "work out our salvation with fear and trembling; for it is God who is at work in you, both to will and to work for His good pleasure". The principle described in Philippians 2:13 is that God is working *within* our will and effort. Like the mind as addressed in the previous section, our wills, efforts, and strength is not in essential opposition to the Holy Spirit. Instead, they must be submitted to the Holy Spirit and used in accordance with scripture.
+When discussing sanctification, well-meaning Christians will often say things like: "Don't pull yourself up by your own bootstraps.", "You shouldn't rely on your own strength but on the Holy Spirit", or "When we do things in our own strength, we won't accomplish much". The problem with statements like these is that they are not biblical; they create a false dichotomy between human will/strength/effort and the Holy Spirit where one does not exist in scripture. According to scripture, using your own will, strength, and effort is a **good** thing! Consider Philippians 2:12-13; in light of Jesus' selfless submission to the Father's will on our behalf, we should also "work out our salvation with fear and trembling; for it is God who is at work in you, both to will and to work for His good pleasure". The principle described in Philippians 2:13 is that God is working *in* our will and effort. Like the mind, our wills, efforts, and strengths are not in essential opposition to the Holy Spirit. Instead, they must be submitted to the Holy Spirit and used in accordance with scripture.
 
 To prove this from the Bible, consider how often Paul gives commandments to his readers. If human effort, will, and strength are not to be used, why would Paul give commandments? Why does Paul encourage diligence and hard work (e.g. 1 Timothy 4:6-16 and Titus 3:8)? Consider some of the commands from the book of Romans below and see whether Paul thinks there is a dichotomy between human will/effort and the Holy Spirit:
 
@@ -66,11 +66,11 @@ To prove this from the Bible, consider how often Paul gives commandments to his 
 
 # Conclusion
 
-I hope I have clearly demonstrated from scripture that human mind, will, effort, and strength can be redeemed by God at salvation and *must* be exercised in sanctification to honor and glorify God.
+I hope I have clearly demonstrated from scripture that human mind, will, effort, and strength can be redeemed by God at salvation and *must* be exercised in sanctification to honor and glorify God. There is no dichotomy between the human mind and the Holy Spirit - that is, walking in the Spirit does not exclude exercising our rational faculties. There is no dichotomy between our effort/will/strength and the sanctifying work of the God head - that is, being sanctified does not exclude our willful, diligent effort.
 
 # Appendix A: The Dangers of the Dichotomies
 
-I want to briefly address two of the dangers I see with the dichotomies described above (there are many I could address). If accepted, I believe either of the two dichotomies above will tend to produce:
+I want to briefly address two of the dangers that may be produced if the dichotomies above are accepted. I believe accepting either of the dichotomies above will tend to produce:
 
 1. **An apathetic monergism** - If sanctification is solely an act of God apart from any effort on the part of the human, all we can do as Christians is sit around and hope for God to unilaterally do something in our lives. This is biblically wrong and will lead to a lack-luster and anemic Christian life very different from the one the Apostles describe in their letters.
 2. **A charismatic expectation** - If the Holy Spirit operates apart from the human mind, will, effort, and strength, this produces the expectation of some operation of the Spirit that is outside and unrelated to our mind, will, effort, and strength. What would this look like? I'm not sure, but this view produces in many an unrealistic charismatic expectation. The Bible describes Christians as new creations<sup>9</sup> whose minds are transformed<sup>10</sup>; not helpless beings waiting for an action of the Holy Spirit outside of and apart from ourselves.
