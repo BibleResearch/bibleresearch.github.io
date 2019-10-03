@@ -1,5 +1,5 @@
 ---
-title: "A New Plato's Cave: How I Feel with Church and the Bible Right Now."
+title: "A Deadly Plato's Cave: How I Feel About Church and the Bible Right Now."
 date: 2019-10-03
 description: "I'm wrestling with some big, theological and doctrinal questions right now and this is what it feels like to go to church and read the bible. It's not how I want to feel, but this is where I'm at... and I really don't know what to do."
 tags: ["Doubts", "Thought", "Church", "Bible"]
