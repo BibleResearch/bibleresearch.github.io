@@ -9,8 +9,11 @@ Here are some practical principles I have come up with:
 
 - Don't wallow in doubt
 - Don't stay isolated (and don't isolate yourself)
-- James 1: With respect to God's word: Be quick to listen, slow to speak, and slow to become angry
-- Pray like crazy! - Follow the example of David, James 1, Jesus, and the Apostles
+- With respect to God's word, be (James 1):
+    - quick to listen
+    - slow to speak
+    - slow to become angry
+- Pray like crazy! - Follow the example of David, James 1, Jesus, and the Apostles (see also some [thoughts on prayerlessness](https://bible.hightower.space/posts/excuses-for-prayerlessness/))
 - Trust God's sovereignty
 - Address the issues head-on
 - When in doubt, trust the boundaries and means of Grace God has given
