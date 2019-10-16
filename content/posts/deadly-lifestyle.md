@@ -1,5 +1,5 @@
 ---
-title: "A Deadly Lifestyle: How I Feel About Church and the Bible Right Now."
+title: "A Deadly Lifestyle: How I Feel About Church and the Bible Right Now"
 date: 2019-10-03
 description: "I'm wrestling with some big, theological and doctrinal questions right now... and it is exhausting! This blog post is a description of what it feels like to go to church and read the bible. It's not how I want to feel, but this is where I'm at... and I really don't know what to do."
 tags: ["Doubts", "Thought", "Church", "Bible"]
@@ -17,9 +17,9 @@ To make matters worse, some of the food is poisoned, raw, or rotting meaning tha
 
 ---
 
-> "Why should I take my flesh in my teeth
+> Why should I take my flesh in my teeth
 > And put my life in my hands?
-> "Though He slay me,
+> Though He slay me,
 > I will hope in Him.
 
 > "Then Jesus said to His disciples, 'If anyone wants to come with Me, he must deny himself, take up his cross, and follow Me. For whoever wants to save his life will lose it, but whoever loses his life because of Me will find it. What will it benefit a man if he gains the whole world yet loses his life? Or what will a man give in exchange for his life? For the Son of Man is going to come with His angels in the glory of His Father, and then He will reward each according to what he has done...'"
