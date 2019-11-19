@@ -1,5 +1,5 @@
 ---
-title: What makes an action glorifying to God?
+title: What Makes an Action Glorifying to God?
 date: 2019-11-18
 description: "Most protestants (that I know) claim that there is no dichotomy between sacred and secular work in terms of the opportunity afforded by them to glorify God. If this is so, what makes an action glorifying to God?"
 tags: ["Glory", "Glory to God", "Glorifying God", "Work", "Sacred and Secular Dichotomy", "Question"]

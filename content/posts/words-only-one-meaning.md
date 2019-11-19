@@ -1,5 +1,5 @@
 ---
-title: "Does every word in the Bible only have one meaning?"
+title: "Does Every Word in the Bible Only Have One Meaning?"
 date: 2019-03-02
 description: "This blog post addresses the common, evangelical claim that every word in the Bible only has one meaning."
 tags:
