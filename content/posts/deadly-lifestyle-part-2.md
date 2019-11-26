@@ -42,12 +42,15 @@ There are four things that have been preserving me through this time in life:
 
 1. Prayer
     - This whole situation has provoked me to cry out to God with a renewed vigor. I have not been as consistent in crying out to God as I would like, but I think prayer is a **critical** action if you are in a similar situation.
+    - I have found it helpful to write out poetic prayers based on sermons I hear. I have increasing theological concerns and disagreements with the sermons I'm hearing, but there is still a lot of content I agree with and writing prayers based on that good stuff helps me stay focused on truth, beauty, and goodness and helps me worship God.
 2. Friendships
     - Having friends with whom I can rant, share struggles, and get honest feedback has been essential to my perseverance through this time. Friends with whom you can have frank, weighty discussions are so helpful! They bring different perspectives and experience that you may not have or see. They encourage you to persevere both in asking hard questions in pursuit of truth and in worshiping and glorifying God. Good friends are a must!
 3. Scripture memorization
     - Lately, I have found it easier to interact with scripture if I start memorizing it. Memorizing scripture gives me time to meditate on the passage as I'm memorizing it; I don't feel the need to research everything right away, I can take my time, memorizing and meditating, before researching and understanding possible views on the passage.
 4. Rooting oneself
     - When I face times of significant theological questions, I find it absolutely necessary to avoid throwing the baby out with the bath water (over-reacting to the questions and concerns I have). For example, the fact that I have questions about the mechanics of salvation, the role of sin in the life of a believer, and assurance of salvation should not cause me to reject Christianity and stop worshiping God. Christianity has been around for thousands of years and my inability to make sense of it over six years of study does not mean I should give up the faith entirely. These are complex, weighty things that take time to study and understand. All that to say, it is important to stay rooted when you start asking questions about your faith. What I mean by this is that it is important to realize how much common-ground Christians affirm. A good book to help you in this is C.S. Lewis's *Mere Christianity* or a lecture on [the historic roots of the doctrine of the Trinity](https://www.ligonier.org/learn/series/mystery-of-the-trinity/). Stay rooted; don't over-react by throwing the baby (orthodox Christianity) out with the bath water (theological concerns).
+
+Shout-out to Beatrice Hemlock and Beauregard Louis for being such a blessing in my life! You both help keep me healthy and sane!
 
 ---
 
