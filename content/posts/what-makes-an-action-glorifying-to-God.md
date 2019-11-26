@@ -21,7 +21,7 @@ In this blog post, I'm going to make some assumptions and pose a question that, 
 
 # The Claim
 
-Within most protestant churches, especially those influenced by the reformers, there is the claim that 'secular' work (like being a computer programmer for a fortune 100 company) is no more glorifying to God than 'sacred' work (like being a pastor). Being a pastor is not more glorifying to God than being a farmer; being a missionary is no more glorifying than being a businessman. Unfortunately, preaching at these churches often implies the opposite, but that is a different discussion for another time.<sup>1</sup> The claim is that working as a professional minister is not 'better' or 'more spiritual' than a job in the 'secular' world. God can be glorified and equally glorified in my secular day-job as He can in the work of a pastor.
+Within most protestant churches, especially those influenced by the reformers, there is the claim that 'secular' work (like being a computer programmer for a fortune 100 company) is no less glorifying to God than 'sacred' work (like being a pastor). Being a pastor is not more glorifying to God than being a farmer; being a missionary is no more glorifying than being a businessman. Unfortunately, preaching at these churches often implies the opposite, but that is a different discussion for another time.<sup>1</sup> The claim is that working as a professional minister is not 'better' or 'more spiritual' than a job in the 'secular' world. God can be glorified and equally glorified in my secular day-job as He can in the work of a pastor.
 
 Here are a number of articles that articulate and support this claim:
 
@@ -39,7 +39,7 @@ So here's my question:
 
 We claim that my secular work can be just as glorifying to God as pastoral work... how and why?
 
-When pastors and ministers start talking about how and why an action glorifies God, things get really confusing (especially with the examples they give). Is an action only glorifying to God if I do something 'churchy' or 'spiritual' or 'sacred' (e.g. I'm not glorifying God if I write software for a secular company, but I am if I write software to help me study the bible). Is it only glorifying to God if my motives are good? Is it only glorifying to God if I'm listening to a sermon/'churchy' songs while doing my work? Is it only glorifying to God if I'm thanking God and thinking about Him while doing my work? Are sacred and secular actions *inherently*, equally glorifying to God?
+When pastors and ministers start talking about how and why an action glorifies God, things get really confusing (especially with the examples they give). Is an action only glorifying to God if I do something 'churchy' or 'spiritual' or 'sacred' (e.g. I'm not glorifying God if I write software for a secular company, but I am if I write software to help me study the bible). Is it only glorifying to God if my motives are good? Is it only glorifying to God if I'm listening to a sermon/'churchy' songs while doing my work? Is it only glorifying to God if I'm thanking God and thinking about Him continually while doing my work? Are sacred and secular actions *inherently*, equally glorifying to God?
 
 ## Examples
 

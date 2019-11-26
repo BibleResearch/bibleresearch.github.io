@@ -24,21 +24,30 @@ It is very difficult for me to read/study the Bible right now. Here is what happ
         - This raises a major and complex question: Can a believer lose his/her salvation?
         - If we assume that a believer can lose his/her salvation, can it be lost with only one sin (as seems to be the case with Simon)? Would I have to repent after *every sin*?
     - [Others](https://www.gty.org/library/sermons-library/1726/the-faith-that-does-not-save) say it is impossible to lose one's salvation, but there is such a thing as 'fake' belief and that Simon had 'fake' belief as manifested by his actions. If this is true, this raises two questions:
-        1. Why doesn't Luke say that Simon had 'fake' belief or that Simon *thought* he believed? Luke says "Simon himself believed" (Acts 8:13) with no qualifications... but according to this view, Simon only had a 'fake' belief. If we interpret this passage such that Simon only 'fake'-believed, it seems that Luke is communicating poorly because he only says that Simon "believed" with no other qualifications. Is it unreasonable to expect that divinely inspired writers would be more clear on such a crucial matter.
-        2. If there is such a thing as 'fake' belief which can be manifested as false by a *single*, sinful action, how can anyone be saved? Must we be perfect to show that our belief is genuine? Also, this view seems to destroy all possibility for assurance. If it only takes one sinful action or wrong view/approach to God to prove that faith is not genuine, it appears we have to be perfect. Must every sin bring the legitimacy of our belief into question?
+        1. Why doesn't Luke say that Simon had 'fake' belief or that Simon *thought* he believed? Luke says "Simon himself believed" (Acts 8:13) with no qualifications... but according to this view, Simon only had a 'fake' belief. If we interpret this passage such that Simon only 'fake'-believed, it seems that Luke is communicating poorly because he only says that Simon "believed" with no other qualifications. Is it unreasonable to expect that divinely inspired writers would be more clear on such a crucial matter?
+        2. If there is such a thing as 'fake' belief which can be manifested as false by a *single*, sinful action, how can anyone be saved? Must we be perfect to show that our belief is genuine? Also, this view seems to destroy all possibility for assurance. If it only takes one sinful action or wrong view/approach to God to prove that faith is not genuine, it appears we must be perfect to have assurance of salvation. Must every sin bring the legitimacy of our belief into question?
 4. After a few hours of study, I'm confused. There are usually multiple ways to interpret the passage and most interpretations of a given passage are informed by one's pre-existing theology that one has before reading the passage. The difficulty is that I'm still trying to nail my theology down! I'm coming to Scripture *because* I don't have my theology figured out.
 
 A few thoughts:
 
-I don't see how I can make sense of the Bible without first buying into a theological position. The idea of objectively understanding a passage seems like a chimera to me right now - your interpretation of every passage you read is informed by the your current theology. Ok, but how do I get started? How do I develop theology from the Bible if I don't have a theology with which to interpret the Bible?
+I don't see how I can make sense of the Bible without first buying into a theological position. The idea of objectively understanding a passage seems like a chimera to me right now - your interpretation of every passage is informed by the your theology. Ok, but how do I get started? How do I develop theology from the Bible if I don't have a theology with which to interpret the Bible?
 
 Being in this place is *exhausting*! God's word no longer feels refreshing; it feels frustrating. It no longer feels life-giving; it feels soul-sucking. Honestly, I view reading God's word as a drag right now. I do it because I'm supposed to and supposed to enjoy it, but it is painful.
 
 # Now What?
 
-So how am I responding to this situation and how *should* I be responding?
+So how am (and should) I responding to this situation?
 
-// More here soon...
+There are four things that have been preserving me through this time in life:
+
+1. Prayer
+    - This whole situation has provoked me to cry out to God with a renewed vigor. I have not been as consistent in crying out to God as I would like, but I think prayer is a **critical** action if you are in a similar situation.
+2. Friendships
+    - Having friends with whom I can rant, share struggles, and get honest feedback has been essential to my perseverance through this time. Friends with whom you can have frank, weighty discussions are so helpful! They bring different perspectives and experience that you may not have or see. They encourage you to persevere both in asking hard questions in pursuit of truth and in worshiping and glorifying God. Good friends are a must!
+3. Scripture memorization
+    - Lately, I have found it easier to interact with scripture if I start memorizing it. Memorizing scripture gives me time to meditate on the passage as I'm memorizing it; I don't feel the need to research everything right away, I can take my time, memorizing and meditating, before researching and understanding possible views on the passage.
+4. Rooting oneself
+    - When I face times of significant theological questions, I find it absolutely necessary to avoid throwing the baby out with the bath water (over-reacting to the questions and concerns I have). For example, the fact that I have questions about the mechanics of salvation, the role of sin in the life of a believer, and assurance of salvation should not cause me to reject Christianity and stop worshiping God. Christianity has been around for thousands of years and my inability to make sense of it over six years of study does not mean I should give up the faith entirely. These are complex, weighty things that take time to study and understand. All that to say, it is important to stay rooted when you start asking questions about your faith. What I mean by this is that it is important to realize how much common-ground Christians affirm. A good book to help you in this is C.S. Lewis's *Mere Christianity* or a lecture on [the historic roots of the doctrine of the Trinity](https://www.ligonier.org/learn/series/mystery-of-the-trinity/). Stay rooted; don't over-react by throwing the baby (orthodox Christianity) out with the bath water (theological concerns).
 
 ---
 
