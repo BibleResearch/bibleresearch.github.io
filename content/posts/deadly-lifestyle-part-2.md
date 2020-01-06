@@ -19,13 +19,13 @@ It is very difficult for me to read/study the Bible right now. Here is what happ
     - In Acts 8, it is interesting that Simon the Magician is said to have "believed" and "being baptized, he continued on with Philip..." (Acts 8:13) and yet Peter harshly rebukes him for trying to buy the free gift of God and calls him to repent (Acts 8:21-23). This raises some questions: How is someone saved? Can someone lose their salvation because of sin? Is it possible to have 'fake' belief that is manifested as fake because of sin?
 3. I think through the possible understandings of the passage with the help of additional reading and studying
     - [Some](https://www.youtube.com/watch?v=fQUMS0oRnlg) [people](https://www.youtube.com/watch?v=50rlZePn99I) [within protestantism](https://www.youtube.com/watch?v=1uAdI4EIDAo) say that only belief is required to be saved - but this passage seems to contradict that view. If Luke's account is accurate, then Simon truly believed and yet Peter seems to say that Simon is not saved and must repent because he went on to sin and think he could "obtain the gift of God with money".
-        - People who take this position would probably argue that Peter never says that Simon isn't saved, just that he "[has] no part or portion in this matter" (Acts 8:19) - which could be interpreted in a number of ways (perhaps interpreted as a warning that Simon is missing out on eternal rewards rather than losing his salvation).
+        - People who take this position would probably argue that Peter never says that Simon isn't saved, just that he "[has] no part or portion in this matter" (Acts 8:19) - which could be interpreted in a number of ways (perhaps interpreted as a warning that Simon is missing out on eternal rewards rather than losing his salvation or that Simon is missing a certain intimacy with God).
     - Others say that Simon really believed, but lost his salvation because he thought he could "obtain the gift of God with money".
         - This raises a major and complex question: Can a believer lose his/her salvation?
         - If we assume that a believer can lose his/her salvation, can it be lost with only one sin (as seems to be the case with Simon)? Would I have to repent after *every sin*?
     - [Others](https://www.gty.org/library/sermons-library/1726/the-faith-that-does-not-save) say it is impossible to lose one's salvation, but there is such a thing as 'fake' belief and that Simon had 'fake' belief as manifested by his actions. If this is true, this raises two questions:
         1. Why doesn't Luke say that Simon had 'fake' belief or that Simon *thought* he believed? Luke says "Simon himself believed" (Acts 8:13) with no qualifications... but according to this view, Simon only had a 'fake' belief. If we interpret this passage such that Simon only 'fake'-believed, it seems that Luke is communicating poorly because he only says that Simon "believed" with no other qualifications. Is it unreasonable to expect that divinely inspired writers would be more clear on such a crucial matter?
-        2. If there is such a thing as 'fake' belief which can be manifested as false by a *single*, sinful action, how can anyone be saved? Must we be perfect to show that our belief is genuine? Also, this view seems to destroy all possibility for assurance. If it only takes one sinful action or wrong view/approach to God to prove that faith is not genuine, it appears we must be perfect to have assurance of salvation. Must every sin bring the legitimacy of our belief into question?
+        2. If there is such a thing as 'fake' belief which can be manifested as false by a *single*, sinful action, how can anyone be saved? Does true, saving faith produce *perfect* holiness? Also, this view seems to destroy all possibility for assurance. If it only takes one sinful action or wrong view/approach to God to prove that faith is not genuine, it appears we must be perfect to have assurance of salvation. Must we be perfect to show that our belief is genuine? Must every sin bring the legitimacy of our belief into question?
 4. After a few hours of study, I'm confused. There are usually multiple ways to interpret the passage and most interpretations of a given passage are informed by one's pre-existing theology that one has before reading the passage. The difficulty is that I'm still trying to nail my theology down! I'm coming to Scripture *because* I don't have my theology figured out.
 
 A few thoughts:
@@ -36,7 +36,7 @@ Being in this place is *exhausting*! God's word no longer feels refreshing; it f
 
 # Now What?
 
-So how am (and should) I responding to this situation?
+So how am I (and should I be) responding to this situation?
 
 There are four things that have been preserving me through this time in life:
 
