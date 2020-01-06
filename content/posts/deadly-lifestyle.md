@@ -13,7 +13,7 @@ My life has become a tense, tight-rope walk between two deaths. On one side, I l
 
 It is killing me to get the very thing I must have to live. If I don't get what I need to live, I will die. If I get what I need to live, it will kill me.
 
-To make matters worse, some of the food is poisoned, raw, or rotting meaning that I may strain for the food only to find it not worth consuming.
+To make matters worse, some of the food is poisoned, raw, or rotting meaning I may strain for the food only to find it not worth consuming.
 
 ---
 
