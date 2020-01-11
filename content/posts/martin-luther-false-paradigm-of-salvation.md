@@ -46,7 +46,7 @@ In simple form, the logical structure of the argument is:
 2. "x" is false.
 3. Conclusion from 1 - 3: "A" teaches a false paradigm of salvation.
 4. "B" also teaches "x" (or at least something very similar to "x") as a paradigm of salvation.
-5. Conclusion from 2 and 5: "B" teaches a false paradigm of salvation.
+5. Conclusion from 2 and 4: "B" teaches a false paradigm of salvation.
 
 In longer form, the argument goes:
 
