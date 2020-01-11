@@ -57,8 +57,8 @@ In longer form, the argument goes:
 2. The Roman Catholic Church's teaching on baptism is wrong because it "teaches its adherents to trust in the things that they do in order to eventually achieve salvation" which is contrary to Ephesians 2:8-9.<sup>3</sup>
 
     <aside class="marginnote">
-      <p><span class="noteNumber">2</span> - <a href="http://www.scborromeo.org/ccc/para/1257.htm">http://www.scborromeo.org/ccc/para/1257.htm</a></p>
-      <p><span class="noteNumber">3</span> - <a href="https://immanuelbible.church/content/catholic">https://immanuelbible.church/content/catholic</a></p>
+      <p><span class="noteNumber">2</span> - <a href="http://www.scborromeo.org/ccc/para/1257.htm" target="_blank">http://www.scborromeo.org/ccc/para/1257.htm</a></p>
+      <p><span class="noteNumber">3</span> - <a href="https://immanuelbible.church/content/catholic" target="_blank">https://immanuelbible.church/content/catholic</a></p>
     </aside>
 
 3. Therefore (concluded from premise 1 and 2): the Roman Catholic Church teachers a false paradigm of salvation.
@@ -71,7 +71,7 @@ In longer form, the argument goes:
 5. Therefore (concluding from premise 2 and 5): Martin Luther taught a false paradigm of salvation.
 
 <aside class="marginnote">
-  <span class="noteNumber">4</span> - <a href="https://catechism.cph.org/en/sacrament-of-holy-baptism.html">https://catechism.cph.org/en/sacrament-of-holy-baptism.html</a>
+  <span class="noteNumber">4</span> - <a href="https://catechism.cph.org/en/sacrament-of-holy-baptism.html" target="_blank">https://catechism.cph.org/en/sacrament-of-holy-baptism.html</a>
 </aside>
 
 To be clear, I do not, necessarily, believe the conclusion above and you should not believe it on grounds of my argument alone. I'm simply making implied conclusions explicit. It seems that the facts, interpretations, and logic above prove many conservative, evangelical churches believe that Martin Luther taught a false paradigm of salvation; that is, Martin Luther is a false teacher along with the Roman Catholic Church. Is my logic wrong? Are my facts and/or interpretation of those facts wrong?
@@ -79,7 +79,9 @@ To be clear, I do not, necessarily, believe the conclusion above and you should 
 If my facts, logic, and interpretations hold, what are the implications of the conclusion that Martin Luther taught a false paradigm of salvation? Many conservative, evangelical churches put Martin Luther's face on posters celebrating the reformation and might as well have "Sola Fide" tattooed across the foreheads of every member<sup>5</sup>. The problem is, it seems that Martin Luther meant something very different when he said "Sola Fide" that how we interpret it.
 
 <aside class="marginnote">
-  <span class="noteNumber">5</span> - When I say that "Sola Fide" may as well be tattooed on the foreheads of every congregant, I mean that, in my experience, the slogan "Sola Fide" is <i>very</i> commonly used to describe the conservative, evangelical paradigm of salvation.
+  <p><span class="noteNumber">5</span> - When I say that "Sola Fide" may as well be tattooed on the foreheads of every congregant, I mean that, in my experience, the slogan "Sola Fide" is <i>very</i> commonly used to describe the conservative, evangelical paradigm of salvation.</p>
+  <p><span class="noteNumber">6</span> - Particularly, this reasoning seems to imply that many Anglicans are not saved because they are teaching a false paradigm of salvation too (see article 27 of the <a href="http://www.anglicanchurch.net/media/Articles_of_Religion_1571.pdf" target="_blank"><i>The Thirty-Nine Articles of Religion
+Church of England (Anglican)</i></a>)</p>
 </aside>
 
-If the conclusion is that, according to some churches, Martin Luther taught a false paradigm of salvation, the implications are far-reaching, but that is the topic for another post.
+If the conclusion is that, according to conservative, evangelical churches, Martin Luther taught a false paradigm of salvation, the implications are far-reaching, but that is the topic for another post.<sup>6</sup>
