@@ -48,6 +48,8 @@ In simple form, the logical structure of the argument is:
 4. "B" also teaches "x" (or at least something very similar to "x") as a paradigm of salvation.
 5. Conclusion from 2 and 4: "B" teaches a false paradigm of salvation.
 
+For those interested in programming and/or satisfiability modulo theory solvers, you can validate this logic with the Python code here: <a href="https://gist.github.com/fhightower/d9cc7e7e2c7dc4898edf52695c117a14" target="_blank">https://gist.github.com/fhightower/d9cc7e7e2c7dc4898edf52695c117a14</a> (which uses <a href="https://github.com/Z3Prover/z3" target="_blank">Z3</a>).
+
 In longer form, the argument goes:
 
 1. The Roman Catholic Church teaches the following on baptism as a necessity for salvation:
