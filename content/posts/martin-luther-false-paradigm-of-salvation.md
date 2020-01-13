@@ -61,14 +61,14 @@ In longer form, the argument goes:
       <p><span class="noteNumber">3</span> - <a href="https://immanuelbible.church/content/catholic" target="_blank">https://immanuelbible.church/content/catholic</a></p>
     </aside>
 
-3. Therefore (concluded from premise 1 and 2): the Roman Catholic Church teachers a false paradigm of salvation.
+3. Therefore (concluded from premise 1 and 2): the Roman Catholic Church teaches a false paradigm of salvation.
 4. Martin Luther (*after* his departure from the Roman Church) held a view on baptism that is similar to the Roman Catholic Church. This is evidenced by his *[Small Catechism](https://catechism.cph.org/en/sacrament-of-holy-baptism.html)* where he says:
 
     > "What benefits does Baptism give?
     > 
     > It works forgiveness of sins, rescues from death and the devil, and gives eternal salvation to all who believe this, as the words and promises of God declare."<sup>4</sup>
 
-5. Therefore (concluding from premise 2 and 5): Martin Luther taught a false paradigm of salvation.
+5. Therefore (concluding from premise 2 and 4): Martin Luther taught a false paradigm of salvation.
 
 <aside class="marginnote">
   <span class="noteNumber">4</span> - <a href="https://catechism.cph.org/en/sacrament-of-holy-baptism.html" target="_blank">https://catechism.cph.org/en/sacrament-of-holy-baptism.html</a>
