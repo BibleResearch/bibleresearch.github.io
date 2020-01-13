@@ -37,14 +37,14 @@ I believe that the logical implications of what is taught in some conservative, 
 My conclusion proceeds from the following tenets which are held and promulgated by many conservative, evangelical churches with which I am familiar.
 
 <aside class="marginnote">
-  <span class="noteNumber">1</span> - To be clear, I do not, necessarily, agree with this argument. I'm simply saying that this argument is implied.
+  <span class="noteNumber">1</span> - To be clear, I do not, necessarily, agree with this argument. I'm simply saying that this argument is implied in the logic of many churches.
 </aside>
 
 In simple form, the logical structure of the argument is:
 
 1. "A" teaches "x" as a paradigm of salvation.
 2. "x" is false.
-3. Conclusion from 1 - 3: "A" teaches a false paradigm of salvation.
+3. Conclusion from 1 and 2: "A" teaches a false paradigm of salvation.
 4. "B" also teaches "x" (or at least something very similar to "x") as a paradigm of salvation.
 5. Conclusion from 2 and 4: "B" teaches a false paradigm of salvation.
 
