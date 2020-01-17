@@ -1,5 +1,5 @@
 ---
-title: "Does Lutheranism Teach a False Paradigm of Salvation? (part 2)"
+title: "Does Lutheranism Teach a False Paradigm of Salvation?"
 date: 2020-01-17
 description: "In this post, I briefly examine Lutheranism's teaching on baptism."
 tags:
