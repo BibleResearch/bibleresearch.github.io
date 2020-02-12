@@ -19,7 +19,7 @@ I have two goals for you, my reader, in this post:
   > Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice. Be kind to one another, tender-hearted, forgiving each other, just as God in Christ also has forgiven you.<sup>1</sup>
 
 <aside class="marginnote">
-  <span class="noteNumber">1</span> - Ephesians 4:31-<i>32</i>
+  <span class="noteNumber">1</span> - Ephesians 4:31-32
 </aside>
 
 ## Warning
@@ -47,15 +47,15 @@ On earth as it is in heaven.
 
 ### Thoughts
 
-Notice Jesus is explicit about both the positive (if you forgive) and negative (if you do not forgive): "if you forgive others for their transgressions, your heavenly Father will also forgive you. But if you do not forgive others, then your Father will not forgive your transgressions." Clearly, to forgive or not forgive has serious implications. So what does Jesus mean when he says "forgive"? I'm not exactly sure, but here are some possibilities:
+Notice Jesus is explicit about both the positive (if you forgive) and negative (if you do not forgive): "if you forgive others for their transgressions, your heavenly Father will also forgive you. But if you do not forgive others, then your Father will not forgive your transgressions." Clearly, whether or not we forgive has serious implications. So what does Jesus mean when he says that God will (or will not) "forgive"? I'm not exactly sure, but here are some possibilities:
 
-Is "forgiveness" here referring to an ultimate forgiveness that indicates salvation? I don't think so because the phrase "your Heavenly Father" and "your Father" is used. This seems to be speaking of people who have a relationship with God. So, is "forgiveness" here referring to the fact that God will not forgive us of certain sins? In the denomination where I currently reside, we believe that *all* our sins are paid for (past, present, and future) by Christ's work on the cross. I'm not exactly sure why we believe this, but we do.<sup>2</sup> So, my current theological position would deny that it is possible for a true believer to have such unforgiven sins because they are all covered by Christ. But, this passage throws that axiom into question. Could "forgiveness" be interpreted temporally? In other words, is "forgiveness" referring not to an ultimate forgiveness, but a forgiveness of temporal consquences? I'm sure it could be interpreted as such, but I'm not convinced that makes sense either. All this to say, I'm not sure what "forgiveness" in this passage is referring to.
+Is forgiveness here referring to an ultimate forgiveness that indicates salvation? I don't think so because the phrase "your Heavenly Father" and "your Father" is used. This seems to be speaking of people who have a relationship with God. So, is forgiveness here referring to the fact that God will not forgive us of certain sins? In the denomination where I currently reside, we believe that *all* our sins are paid for (past, present, and future) by Christ's work on the cross. I'm not exactly sure why we believe this<sup>2</sup>, but my current theological position would deny that it is possible for a true believer to have such unforgiven sins because they are all covered by Christ. But, this passage could be interpreted in a way that challenges that axiom. Could this passage be referring to temporal forgiveness of temporal consquences? I'm sure it *could* be interpreted as such, but I'm not convinced that makes sense either. All this to say, I'm not sure what forgiveness in this passage is referring to.
 
 <aside class="marginnote">
   <span class="noteNumber">2</span> - I'm sure there is some passage where we are getting this, I'm just not sure what it is
 </aside>
 
-No matter what is meant by "forgiveness", however, is such forgiveness from God contingent upon our forgiveness? In other words, will God only forgive (in whatever sense is intended by the author of these verses) *if* I forgive? Everything in my denomination's theology screams: "May it never be!", but Jesus' words seems to say: "Yes, absolutely!". It certainly appears from this passage that forgiveness from "[our] Heavenly Father" is contingent on our forgiveness. "For if you forgive others for their transgressions, your heavenly Father will also forgive you. But if you do not forgive others, then your Father will not forgive your transgressions."
+No matter what is meant by forgiveness, however, is such forgiveness from God contingent upon our forgiveness? In other words, will God only forgive (in whatever sense is intended by the author of these verses) *if* I forgive? Everything in my denomination's theology screams: "May it never be!", but Jesus' words seems to say: "Yes, absolutely!". It certainly appears from this passage that forgiveness from "[our] Heavenly Father" is contingent on our forgiveness. "For if you forgive others for their transgressions, your heavenly Father will also forgive you. But if you do not forgive others, then your Father will not forgive your transgressions." Certainly something to think about.
 
 ### Matthew 18:21-35
 
@@ -67,4 +67,8 @@ No matter what is meant by "forgiveness", however, is such forgiveness from God 
 
 #### Thoughts
 
-Wow! "My heavenly Father will also do the same to you, if each of you does not forgive his brother from your heart." What does Jesus mean by "do the same to you"? From the parable, this means "And his lord, moved with anger, handed him over to the torturers until he should repay all that was owed him.". Combining the two, Jesus is saying: My heavenly father will hand you over to the torturers until you should repay all that you owe Him, if each of you does not forgive his brother from your heart. There are serious consequences for unforgiveness! What are these consequences? Some suggest purgetory, others suggest Jesus is referring to temporal punishment. I'm not sure, but clearly there are consequences for a lack of forgiveness.
+Wow! "My heavenly Father will also do the same to you, if each of you does not forgive his brother from your heart." What does Jesus mean by "do the same to you"? From the parable, this means "And his lord, moved with anger, handed him over to the torturers until he should repay all that was owed him.". Combining the two, Jesus is saying something like:
+
+> My heavenly father will hand you over to the torturers until you should repay all that you owe Him, if each of you does not forgive his brother from your heart.
+
+There are serious consequences for unforgiveness! What are these consequences? Some suggest purgetory, others suggest Jesus is referring to temporal punishment. I'm not sure, but clearly there are consequences for a lack of forgiveness.
