@@ -71,4 +71,9 @@ Wow! "My heavenly Father will also do the same to you, if each of you does not f
 
 > My heavenly father will hand you over to the torturers until you should repay all that you owe Him, if each of you does not forgive his brother from your heart.
 
-There are serious consequences for unforgiveness! What are these consequences? Some suggest purgetory, others suggest Jesus is referring to temporal punishment. I'm not sure, but clearly there are consequences for a lack of forgiveness.
+There are serious consequences for unforgiveness! What are these consequences? Some suggest purgetory, others suggest salvation<sup>3</sup>, others suggest Jesus is referring to temporal punishment<sup>4</sup>. I'm not sure, but clearly there are consequences for a lack of forgiveness.
+
+<aside class="marginnote">
+    <p><span class="noteNumber">3</span> - <a href="https://www.catholic.com/qa/where-does-the-bible-say-that-those-who-forgive-will-be-granted-everlasting-life" target="_blank">https://www.catholic.com/qa/where-does-the-bible-say-that-those-who-forgive-will-be-granted-everlasting-life</a> and <a href="https://www.catholic.com/magazine/online-edition/yes-christians-do-have-an-assurance-but-not-an-absolute-assurance-of" target="_blank">https://www.catholic.com/magazine/online-edition/yes-christians-do-have-an-assurance-but-not-an-absolute-assurance-of</a></p>
+    <span class="noteNumber">4</span> - <a href="https://www.gty.org/library/sermons-library/90-349/the-childlikeness-of-believers-granting-forgiveness" target="_blank">https://www.gty.org/library/sermons-library/90-349/the-childlikeness-of-believers-granting-forgiveness</a>
+</aside>
