@@ -123,10 +123,14 @@ Here are some Bible passages and the main command which, by some people's interp
 - John 15:6 - **Abide** in Christ
 - John 20:31 - **Believe** that Jesus is the Christ, the son of God...
 
-[1] This passage can be interpreted in a way that does not make this criteria **necessary** for salvation, but it certainly guarantees salvation
+[1] This passage can be interpreted in a way that does not make this criteria *necessary* for salvation, but it certainly *guarantees* salvation
+
 [2] Here it appears to be the belief which is saving or condemning, not the baptism
+
 [3] I don't think this passage is intended as normative, but it deals with the subject of how to be saved/have sins forgiven (which may or may not be the same thing), so I included it
+
 [4] I'm not sure if this had to do directly with salvation
+
 [5] Interpretations of this passage vary, but Jesus makes it clear that whatever this means, it is required to enter the kingdom of God
 
 Whew, that's a lot of verses... I'll conclude with two thoughts/questions. First, it is frustrating to me when conservative, evangelicals say things like "You just need to believe Jesus to be saved". What does that mean? And besides that, a number of passages listed above seem to indicate that there is something more than belief which is required. Second, if you or anyone distills the Gospel proclamation down to a simple phrase like "believe Jesus" or "believe in Jesus" or "repent and believe", why are you (or the person making the claim) choosing only those criteria as the ones necessary for salvation? Again, it seems like Jesus is clear that there are a number of things required to spend eternity with God. If you're going to take one verse in isolation (e.g. John 3:16), why are you doing that? Should we not also consider the rest of Jesus' words?
