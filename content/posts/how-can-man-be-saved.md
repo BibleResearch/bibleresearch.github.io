@@ -16,9 +16,9 @@ This blog post contains what I consider to be big, weighty questions (with very 
 
 What must I do to be saved?
 
-Seriously, what must I do to be saved? I'm so confused and overwhelmed by a whirl-wind of comments and responses on this question (both from within the Bible and without it) that I honestly don't know what the answer is right now. One of the key questions in this whole discussion is: What do we mean by the word "saved"? But, I'll address that at a later date. For now, I'll define "saved" as: spending eternity in heaven and, later, the News Heavens and New Earth with God.
+Seriously, what must I do to be saved? I'm so confused and overwhelmed by a whirl-wind of comments and responses on this question (both from inside and outside the Bible) that I honestly don't know what the answer is right now. One of the key questions in this whole discussion is: What do we mean by the word "saved"? But, I'll address that at a later date. For now, I'll define "saved" as: spending eternity with God in heaven and, later, the News Heavens and New Earth.
 
-Here are some Bible passages and the main command which, by some people's interpretations of the passage, answer the question of how someone can be saved:
+Here are some Bible passages and the main command which, by some people's interpretations of the passage, answers the question of how someone can be saved:
 
 ## Matthew
 
@@ -106,22 +106,22 @@ Here are some Bible passages and the main command which, by some people's interp
 - John 3:5 - **Be born of water and spirit**[5]
 - John 3:9-21 (esp. 15, 16, 18) - **Believe**
 - John 3:36 - **Believe** in the Son and **obey** the son
-- John 5:24 - Hear Jesus's word and believe in Him who sent Jesus (God the Father)
-- John 5:29 - To be in the resurrection of life, one must do good
-- John 6:29 - Believe in Him (Jesus) whom He (God the Father) has sent
-- John 6:40 - Behold and believe the Son
-- John 6:47 - Believe
-- John 6:51 - Eat the bread of life
-- John 6:53-54 - Eat the flesh of Jesus and drink His blood
-- John 8:12 - Follow Jesus
-- John 8:24 - Believe "that I am" (Jesus speaking)
-- John 8:31-32 - "Continue in my word"
-- John 8:51 - "Keep my word"
-- John 10:9 - Enter through Jesus
-- John 10:28 - Be one of Jesus' sheep
-- John 15:2 - Bear fruit
-- John 15:6 - Abide in Christ
-- John 20:31 - Believe that Jesus is the Christ, the son of God...
+- John 5:24 - **Hear** Jesus's word and **believe** in Him who sent Jesus (God the Father)
+- John 5:29 - To be in the resurrection of life, one must **do good**
+- John 6:29 - **Believe** in Him (Jesus) whom He (God the Father) has sent
+- John 6:40 - **Behold** and **believe** the Son
+- John 6:47 - **Believe**
+- John 6:51 - **Eat the bread of life**
+- John 6:53-54 - **Eat** the flesh of Jesus and **drink** His blood
+- John 8:12 - **Follow Jesus**
+- John 8:24 - **Believe** "that I am" (Jesus speaking)
+- John 8:31-32 - "**Continue** in my word"
+- John 8:51 - "**Keep** my word"
+- John 10:9 - **Enter** through Jesus
+- John 10:28 - **Be one of Jesus' sheep**
+- John 15:2 - **Bear** fruit
+- John 15:6 - **Abide** in Christ
+- John 20:31 - **Believe** that Jesus is the Christ, the son of God...
 
 [1] This passage can be interpreted in a way that does not make this criteria **necessary** for salvation, but it certainly guarantees salvation
 [2] Here it appears to be the belief which is saving or condemning, not the baptism
