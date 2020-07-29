@@ -52,7 +52,7 @@ The logic of this statement is basically as follows:
 
 1. Premise: You are concerned about an increasing pattern of sin in your life
 2. Axiom: If someone is concerned about their sin it is highly likely (if not certain) that he/she is saved
-3. Conclusion from 1-3: The fact that you are concerned over your sin is a good indication (if not a cause for certainty) that you are saved
+3. Conclusion from 1 and 2: The fact that you are concerned over your sin is a good indication (if not a cause for certainty) that you are saved
 
 This argument is regularly repeated in the same, logical form, but with different grounds for assurance/confidence of salvation. Here is another example:
 
@@ -113,11 +113,11 @@ Consider the arguments presented in the [first section](#the-argument). Let's ap
 
 1. Premise: You are concerned about an increasing pattern of sin in your life
 2. Axiom: If someone is concerned about their sin it is highly likely (if not certain) that he/she is saved
-3. Conclusion from 1-3: The fact that you are concerned over your sin is a good indication (if not a cause for certainty) that you are saved
+3. Conclusion from 1 and 2: The fact that you are concerned over your sin is a good indication (if not a cause for certainty) that you are saved
 
 Does this apply to catholics? I posit that premise #1 applies. There are a good number of catholics who are very distraught over their sin (some a good deal more distraught than many protestants). If premise #1 applies, it follows that the whole argument holds for catholics. In other words, according to the logic of that argument, catholics with a concern for sin are probably saved.
 
-But there is a problem here... Most of the churches I grew up in which use [the arguments presented above](#the-argument) believe that Roman Catholicism is teaching a false gospel (and that anyone faithfully adhering to their teaching is not saved). Something doesn't seem right. It seems that we are trying to hold to the following logic:
+But there is a problem here... Most of the churches I grew up in which use [the arguments presented above](#the-argument) also believe that Roman Catholicism is teaching a false gospel (and that anyone faithfully adhering to their teaching is not saved). Something doesn't seem right. It seems that we are trying to hold to the following logic:
 
 1. Premise: Anyone with a concern for sin is probably saved
 2. Premise: Many Roman Catholics have a concern for sin
@@ -127,6 +127,7 @@ But there is a problem here... Most of the churches I grew up in which use [the 
 Note that the conclusion in #3 flies in the face of premise #4. We have a problem! Among other possibilities, it seems that either:
 
 a. We have wrong facts/premises (e.g. premise 2 or 4 is wrong)
+
 b. We have faulty logic (e.g. premise 1 is wrong or a fallacy has occurred somewhere)
 
 Either way, applying the logic of [the arguments](#the-argument) does not work if you believe that Roman Catholics are not preaching a true gospel.
