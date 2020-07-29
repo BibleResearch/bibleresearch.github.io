@@ -21,7 +21,7 @@ When I first read article VIII, it was in the context of an article entitled "*T
   <span class="noteNumber">1</span> - <a href="https://www.etsjets.org/files/JETS-PDFs/40/40-1/40-1-pp069-082_JETS.pdf" target="_blank">https://www.etsjets.org/files/JETS-PDFs/40/40-1/40-1-pp069-082_JETS.pdf</a>, pg. 11-12
 </aside>
 
-For example, when we say that "cultural and situational factors" are not the way we are going to determine whether or not a text is normative, if we are referring to modern cultural and situational factors, this would look like affirming the worship of the true and living God alone despite the cultural tendency away from absolute truths. If, however, we are referring to the cultural and situational factors of the text's context, this would look like not disregarding Paul's teaching on the role of women in the Church because he is "bound by rabbinical error"<sup>2</sup>.
+For example, when we say that "cultural and situational factors" are not the way we are going to determine whether or not a text is normative, if we are referring to *modern* cultural and situational factors, this would look like affirming the worship of the true and living God alone despite the cultural tendency away from absolute truths. If, however, we are referring to the cultural and situational factors of *the text's context*, this would look like not disregarding Paul's teaching on the role of women in the Church because he is "bound by rabbinical error"<sup>2</sup>.
 
 <aside class="marginnote">
   <span class="noteNumber">2</span> - <a href="https://www.etsjets.org/files/JETS-PDFs/40/40-1/40-1-pp069-082_JETS.pdf" target="_blank">https://www.etsjets.org/files/JETS-PDFs/40/40-1/40-1-pp069-082_JETS.pdf</a>, pg. 12

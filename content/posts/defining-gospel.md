@@ -18,7 +18,7 @@ When defining the Gospel, I often hear people conflate a correct response to the
 
 # How to Define the Gospel Well
 
-A safer approach to defining the Gospel is, what is often termed, a "word-study" approach which looks at the uses of the word "εὐαγγέλιον"<sup>2</sup> in the New Testament. A good passage to start defining the Gospel is 1 Corinthians 15:3-8.
+I believe a safer approach to defining the Gospel is, what is often termed, a "word-study" approach which looks at the uses of the word "εὐαγγέλιον"<sup>2</sup> in the New Testament. A good passage to start defining the Gospel is 1 Corinthians 15:3-8.
 
 <aside class="marginnote">
   <span class="noteNumber">2</span> - This is the <a href="https://en.wikipedia.org/wiki/Koine_Greek" target="_blank">Koine Greek</a> word which is usually translated as "the Gospel" (see <a target="_blank" href="https://biblehub.com/greek/2098.htm">https://biblehub.com/greek/2098.htm</a>)

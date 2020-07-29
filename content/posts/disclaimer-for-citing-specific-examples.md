@@ -5,6 +5,10 @@ description: "In the near future, I will be publishing articles which are asking
 tags: ["Citations", "Academic Integrity", "Truth", "Love", "Questions"]
 ---
 
+# Update (Summer 2020)
+
+In the past, I have cited specific examples (usually youtube clips) of issues and concerns I have with evangelicalism. I am no longer going to do this and have taken down mosts of my posts containing links to statements made by pastors. I do not object to the reasons for citing specific examples as detailed below and I see the merits of doing so, but I am unable to maintain a humble, gentle, peaceful heart when I cite specific examples, so I will no longer be doing so (at least not on a regular basis).
+
 # The Challenge
 
 > "And He gave some as apostles, and some as prophets, and some as evangelists, and some as pastors and teachers, for the equipping of the saints for the work of service, to the building up of the body of Christ; until we all attain to the unity of the faith, and of the knowledge of the Son of God, to a mature man, to the measure of the stature which belongs to the fullness of Christ. As a result, we are no longer to be children, tossed here and there by waves and carried about by every wind of doctrine, by the trickery of men, by craftiness in deceitful scheming; but speaking the truth in love, we are to grow up in all aspects into Him who is the head, even Christ, from whom the whole body, being fitted and held together by what every joint supplies, according to the proper working of each individual part, causes the growth of the body for the building up of itself in love."<sup>1</sup>

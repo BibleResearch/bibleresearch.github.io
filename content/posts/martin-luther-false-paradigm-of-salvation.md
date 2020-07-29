@@ -2,6 +2,7 @@
 title: "Did Martin Luther Teach a False Paradigm of Salvation?"
 date: 2020-01-10
 description: "In this post, I seek to make explicit what is seems to be implied by the logic used in many conservative, evangelical churches; namely, that Martin Luther taught a false paradigm of salvation."
+draft: True
 tags:
     - Question
     - Baptism

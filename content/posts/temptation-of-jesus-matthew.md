@@ -54,7 +54,7 @@ Here is the same passage with some annotations (the emphasis in **bold** are min
 > 
 > Then the devil left him and, behold, angels came and ministered to him.
 
-Notice that after Jesus's baptism, the Holy Spirit descends to and comes upon Jesus. Then, God the Father makes the declaration "This is my beloved Son, with whom I am well pleased." (referencing Psalm 2:7). Pause to consider this statement; God the Father is affirming and declaring, at least to John the Baptist and Christ, the sonship of Jesus Christ. Then, Jesus, led by the Spirit whom we saw descending to Him, goes into the wilderness “to be tempted by the devil” (notice how the word “then” at the beginning of the temptation narrative (Matthew 4:1) connects it temporally with the baptism narrative (Matthew 3:13-17)). So far the sonship of Christ has been declared and affirmed by God and Jesus is in the wilderness to be tempted.
+Notice that after Jesus' baptism, the Holy Spirit descends to and comes upon Jesus. Then, God the Father makes the declaration "This is my beloved Son, with whom I am well pleased." (referencing Psalm 2:7). Pause to consider this statement; God the Father is affirming and declaring, at least to John the Baptist and Christ, the sonship of Jesus Christ. Then, Jesus, led by the Spirit whom we saw descending to Him, goes into the wilderness “to be tempted by the devil” (notice how the word “then” at the beginning of the temptation narrative (Matthew 4:1) connects it temporally with the baptism narrative (Matthew 3:13-17)). So far the sonship of Christ has been declared and affirmed by God and Jesus is in the wilderness to be tempted.
 
 # Main Point
 

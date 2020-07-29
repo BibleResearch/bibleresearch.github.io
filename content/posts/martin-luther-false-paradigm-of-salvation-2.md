@@ -2,6 +2,7 @@
 title: "Did Martin Luther Teach a False Paradigm of Salvation? (part 2)"
 date: 2020-01-16
 description: "In this post, I examine Martin Luther's statements on baptism in his \"Large Catechism\" with the goal of bolstering my argument that Martin Luther holds a similar view on baptism as the Roman Catholic Church."
+draft: True
 tags:
     - Question
     - Baptism

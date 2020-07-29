@@ -24,7 +24,7 @@ I have two goals for you, my reader, in this post:
 
 ## Warning
 
-I forwarn all readers that I am wrestling with questions of [salvation](https://bible.hightower.space/tags/salvation/). This is important when we delve into the topic of forgiveness because there are some passages that certainly sound as if one *must* forgive to be saved; and I will not lessen or dilute Jesus' words to support a theology that believes contrary to this.
+I forewarn all readers that I am wrestling with questions of [salvation](https://bible.hightower.space/tags/salvation/). This is important when we delve into the topic of forgiveness because there are some passages that certainly sound as if one *must* forgive to be saved; and I will not lessen or dilute Jesus' words to support a theology that believes contrary to this.
 
 # Jesus on Forgiveness in Matthew
 
@@ -49,7 +49,7 @@ On earth as it is in heaven.
 
 Notice Jesus is explicit about both the positive (if you forgive) and negative (if you do not forgive): "if you forgive others for their transgressions, your heavenly Father will also forgive you. But if you do not forgive others, then your Father will not forgive your transgressions." Clearly, whether or not we forgive has serious implications. So what does Jesus mean when he says that God will (or will not) "forgive"? I'm not exactly sure, but here are some possibilities:
 
-Is forgiveness here referring to an ultimate forgiveness that indicates salvation? I don't think so because the phrase "your Heavenly Father" and "your Father" is used. This seems to be speaking of people who have a relationship with God. So, is forgiveness here referring to the fact that God will not forgive us of certain sins? In the denomination where I currently reside, we believe that *all* our sins are paid for (past, present, and future) by Christ's work on the cross. I'm not exactly sure why we believe this<sup>2</sup>, but my current theological position would deny that it is possible for a true believer to have such unforgiven sins because they are all covered by Christ. But, this passage could be interpreted in a way that challenges that axiom. Could this passage be referring to temporal forgiveness of temporal consquences? I'm sure it *could* be interpreted as such, but I'm not convinced that makes sense either. All this to say, I'm not sure what forgiveness in this passage is referring to.
+Is forgiveness here referring to an ultimate forgiveness that indicates salvation? I don't think so because the phrase "your Heavenly Father" and "your Father" is used. This seems to be speaking of people who have a relationship with God. So, is forgiveness here referring to the fact that God will not forgive us of certain sins? In the denomination where I currently reside, we believe that *all* our sins are paid for (past, present, and future) by Christ's work on the cross. I'm not exactly sure why we believe this<sup>2</sup>, but my current theological position would deny that it is possible for a true believer to have such unforgiven sins because they are all covered by Christ. But, this passage could be interpreted in a way that challenges that axiom. Could this passage be referring to temporal forgiveness of temporal consequences? I'm sure it *could* be interpreted as such, but I'm not convinced that makes sense either. All this to say, I'm not sure what forgiveness in this passage is referring to.
 
 <aside class="marginnote">
   <span class="noteNumber">2</span> - I'm sure there is some passage where we are getting this, I'm just not sure what it is
@@ -71,7 +71,7 @@ Wow! "My heavenly Father will also do the same to you, if each of you does not f
 
 > My heavenly father will hand you over to the torturers until you should repay all that you owe Him, if each of you does not forgive his brother from your heart.
 
-There are serious consequences for unforgiveness! What are these consequences? Some suggest purgetory, others suggest salvation<sup>3</sup>, others suggest Jesus is referring to temporal punishment<sup>4</sup>. I'm not sure, but clearly there are consequences for a lack of forgiveness.
+There are serious consequences for unforgiveness! What are these consequences? Some suggest Purgatory, others suggest salvation<sup>3</sup>, others suggest Jesus is referring to temporal punishment<sup>4</sup>. I'm not sure, but clearly there are consequences for a lack of forgiveness.
 
 <aside class="marginnote">
     <p><span class="noteNumber">3</span> - <a href="https://www.catholic.com/qa/where-does-the-bible-say-that-those-who-forgive-will-be-granted-everlasting-life" target="_blank">https://www.catholic.com/qa/where-does-the-bible-say-that-those-who-forgive-will-be-granted-everlasting-life</a> and <a href="https://www.catholic.com/magazine/online-edition/yes-christians-do-have-an-assurance-but-not-an-absolute-assurance-of" target="_blank">https://www.catholic.com/magazine/online-edition/yes-christians-do-have-an-assurance-but-not-an-absolute-assurance-of</a></p>

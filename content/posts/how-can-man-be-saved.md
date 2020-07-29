@@ -52,7 +52,7 @@ Here are some Bible passages and the main command which, by some people's interp
 ## Mark
 
 - Mark 1:15 - **Repent** and **believe** in the Gospel
-- Mark 1:4 - **Repent** and be **baptised**(?)
+- Mark 1:4 - **Repent** and be **baptized**(?)
 - Mark 3:29 - **Do NOT blaspheme the Spirit**
 - Mark 3:35 - **Do** the will of God the Father
 - Mark 4:1-20 - **Hear** the word of the kingdom and **understand** it, producing fruit
@@ -68,7 +68,7 @@ Here are some Bible passages and the main command which, by some people's interp
 - Mark 11:25-26 - **Forgive** anything you have against anyone
 - Mark 13:13 - **Endure** to the end[1]
 - Mark 13:21 - **Do NOT follow** false 'christs'
-- Mark 16:16 - **Believe and be baptised** (and do not **disbelieve**)[2]
+- Mark 16:16 - **Believe and be baptized** (and do not **disbelieve**)[2]
 
 ## Luke
 
@@ -106,7 +106,7 @@ Here are some Bible passages and the main command which, by some people's interp
 - John 3:5 - **Be born of water and spirit**[5]
 - John 3:9-21 (esp. 15, 16, 18) - **Believe**
 - John 3:36 - **Believe** in the Son and **obey** the son
-- John 5:24 - **Hear** Jesus's word and **believe** in Him who sent Jesus (God the Father)
+- John 5:24 - **Hear** Jesus' word and **believe** in Him who sent Jesus (God the Father)
 - John 5:29 - To be in the resurrection of life, one must **do good**
 - John 6:29 - **Believe** in Him (Jesus) whom He (God the Father) has sent
 - John 6:40 - **Behold** and **believe** the Son
