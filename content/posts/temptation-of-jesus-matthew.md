@@ -68,6 +68,8 @@ The temptation to turn stones into bread is not just designed to get Jesus to me
 
 The second temptation begins with the same phrase “If you are the son of God…” and follows suit with the first temptation. Fundamentally, Satan is tempting Christ to force God the Father to prove His declaration in Matthew 3:17. Satan's reasoning is that, based on Psalm 91, the Son of God will be protected; he challenges Christ to demonstrate His sonship by proving Psalm 91 to be true. Jesus Christ, again, sees the fundamental problem and quotes Deuteronomy 6:16, demonstrating that He will not put God to the test in this area, but will trust God's declaration (in Matthew 3:17).
 
+# Conclusion
+
 In short, I believe that to understand Matthew's account of the temptation of Jesus, we must read it in light of Matthew 3:13-17, especially God the Father's declaration in Matthew 3:17. I also assert that the fundamental temptation in the first two temptations is to doubt God's declaration in Matthew 3:17 (either by turning rocks into bread to prove it or by throwing oneself off of the temple to prove it).
 
 Jesus Christ, unlike our ancestors Adam and Eve, did not doubt God's words and He remained faithful even through temptation. Praise God the Father for sending His Son and for remaining faithfulness to His words! Praise God the Son for His faithfulness to the Father's will and trust in the Father's words! Praise God the Spirit for leading Christ into the wilderness to be tempted and for inspiring the Holy Scriptures in which we can read of the magnificence, wisdom, and power of God in Christ!

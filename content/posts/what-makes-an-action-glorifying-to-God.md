@@ -59,6 +59,6 @@ To put my question differently, there are a number of different components to a 
 
 What attribute(s) of which component(s) make an action glorifying to God?
 
-# Appendix A: A Corollary Question
+# Appendix A: Corollary Question
 
 A parallel question to the questions above is this: If it turns out that actions in and of themselves can be glorifying to God, can non-believers glorify God in their work when they do their work well? I assume that it is not possible for a non-believer to have proper motives, so their motives for doing the action will not glorify God, but does God get any glory from a non-Christian nurse who does wonderful, caring, careful work out of a, albeit misguided, desire to make the world a better place?
