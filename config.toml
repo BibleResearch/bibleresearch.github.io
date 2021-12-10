@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "//bible.hightower.space/"
+baseurl = "https://bible.hightower.space/"
 languageCode = "en"
 title = "Bible Research"
 theme = "hugo-theme-cactus-plus"
