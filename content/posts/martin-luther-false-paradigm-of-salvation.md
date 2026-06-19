@@ -23,8 +23,8 @@ By way of preface, I would like to voice some warnings (which you can [skip](#di
 
 **Second**, asking questions like the ones that follow make me feel like a child wading into the Pacific Ocean with the intention of swimming across it. I proceed with such apparent foolishness for three reasons:
 
-1. I firmly believe God is so magnificent and glorious that it would be better to sink quietly into unfathomable depths, lungs filled with suffocating saltwater, having caught a glimpse of glory than to spend a long, leisurely life safely on the shore without a glimmer of God.
-2. I do not think I can continue to live an intellectually vital and honest life without addressing these questions. I cannot ignore them and pursue a vital intellect; I cannot settle for partial, unsatisfying answers and have an honest intellect. No matter how inadequate I feel in this endevour, I must fight to achieve the prize or die in the attempt. It simply must be done.
+1. I firmly believe God is so magnificent and glorious that it would be better to sink quietly into unfathomable depths, lungs filled with suffocating saltwater, having caught a glimpse of glory than to spend a long, leisurely life safely on the shore without seeing a glimmer of God.
+2. I do not think I can continue to live an intellectually vital and honest life without addressing these questions. I cannot ignore them and pursue a vital intellect; I cannot settle for partial, unsatisfying answers and have an honest intellect. No matter how inadequate I feel in this endeavor, I must fight to achieve the prize or die in the attempt. It simply must be done.
 3. I proceed to, as it were, swim across the Pacific because I hope, as millennias of men have testified, that there is a gracious, triune God able to rescue those drowning in the depths of His word and character. We must never forget that theological questions are an attempt to sketch out the dimensions of realities now obscure to us. Theology has an object... and that object is living, powerful, and awesome! We must never be so foolish as to read the Bible and forget that the same God who inspired these words still lives. He is not dead! I swim because it's worth it. I swim because I must. I swim knowing that there is a gracious triune God who is able to deliver, but, even if He does not, I will still hope in Him.
 
 **Third**, do not assume I know what I'm talking about; please validate my claims. If what I'm saying does not make sense to you, please [let me know](https://hightower.space/contact/). I feel my biblical knowledge is, if translated to physical dimensions, about the size of a child; my theological knowledge about the size of a house-cat; my knowledge of church history akin to an ant. So be warned; I am not an expert on any of the topics I discuss or mention below.
@@ -68,7 +68,7 @@ In longer form, the argument goes:
 4. Martin Luther (*after* his departure from the Roman Church) held a view on baptism that is similar to the Roman Catholic Church. This is evidenced by his *[Small Catechism](https://catechism.cph.org/en/sacrament-of-holy-baptism.html)* where he says:
 
     > "What benefits does Baptism give?
-    > 
+    >
     > It works forgiveness of sins, rescues from death and the devil, and gives eternal salvation to all who believe this, as the words and promises of God declare."<sup>4</sup>
 
 5. Therefore (concluding from premise 2 and 4): Martin Luther taught a false paradigm of salvation.
