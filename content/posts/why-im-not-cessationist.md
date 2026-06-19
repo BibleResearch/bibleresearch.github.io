@@ -25,12 +25,12 @@ To keep this brief, I'm going to ignore:
 
 In this article, I'm going to focus on why I don't find Cessationism compelling (instead of why I find Continuationism compelling). I'm doing this for two reasons:
 
-1. I grew up in Cessationist circles so much of my thinking on this subject has been formed in Cessationist circles
+1. I grew up in Cessationist circles, so much of my thinking on this subject has been formed in Cessationist circles
 2. I think the burden of proof is primarily on Cessationists
     a. The spiritual gifts that Continuationists believe continue today are clearly listed in Scripture (sometimes in multiple places) and often have Divinely inspired guidance for their use in the Church today (e.g. prophecy and tongues in 1 Corinthians 14).
     b. There is more that could be shared here, but I'm going to start by assuming that a clear reading of Scripture inclines us toward Continuationism - so the burden of proof is on the Cessationist.
 
-# Why I'm not Cessationist
+# Why I'm not a Cessationist
 
 To be a Cessationist one must affirm temporal and category distinctions which I don't see clear grounds for in Scripture.
 
@@ -44,13 +44,13 @@ What's the ground for believing a gift like healing, for example, can no longer 
 
 I can think of a few arguments that Cessationists would present, but are there *clear* grounds for believing in such a temporal distinction from Scripture? I'm not aware of any such grounds.
 
-The arguments presented by Cessationists on this point are vague and conjectural (e.g. there was no longer a need for such gifts after the Apostles died or there's decreasing references to these gifts when you read the New Testament books chronologically) without *clear* Biblical support. Given that Scripture *clearly* lists these spiritual gifts as given by God the Father, through the Spirit to His Church, I need some clear Biblical teaching to overturn my understanding that such gifts continue.
+The arguments presented by Cessationists on this point are vague and conjectural (e.g. there was no longer a need for such gifts after the Apostles died or there are decreasing references to these gifts when you read the New Testament books chronologically) without *clear* Biblical support. Given that Scripture *clearly* lists these spiritual gifts as given by God the Father, through the Spirit to His Church, I need some clear Biblical teaching to overturn my understanding that such gifts continue.
 
 ## Category Distinction
 
 The second distinction a Cessationist must make is to assert that in the various lists of spiritual gifts, there are really two 'categories' or 'buckets' into which each gift falls. They are making a category distinction. But the buckets aren't explicitly laid out in Scripture, so where do these categories come from? Who determines what the categories are and which gifts are in which category? By what (and whose) standard?
 
-When Cessationists read a list of spiritual gifts like the one in 1 Corinthians 12:8-11, they have two 'buckets' in their mind in which they are placing each spiritual gift they read about. "Word of knowledge" - that goes in the bucket of gifts that continues today. "Faith" - same bucket. "Gifts of healing" - oh, that's definitely in the bucket of gifts that no longer continues today.
+When Cessationists read a list of spiritual gifts like the one in 1 Corinthians 12:8-11, they have two 'buckets' in their mind in which they are placing each spiritual gift they read about. "Word of knowledge" - that goes in the bucket of gifts that continue today. "Faith" - same bucket. "Gifts of healing" - oh, that's definitely in the bucket of gifts that no longer continue today.
 
 How do you know? What indication is there from the Bible that this is the proper categorization for a given gift?
 
@@ -62,7 +62,7 @@ You *might* be right, but you would need some compelling evidence. Do you honest
 
 Before I end, I must note a concerning theme that relates to this topic.
 
-There's much more that could be written on the subject, but I think the American church is in grave danger of adopting some of the premises of Naturalism - namely that there is no super-natural and that everything around us is just matter obeying the strict laws of physics. Sure, American Christians believe in the Trinitarian God of the Bible so they don't reject the super-natural entirely, but we do seem oddly uncomfortable with the reality of angels, super-natural powers, and spiritual warfare.
+There's much more that could be written on the subject, but I think the American Church is in grave danger of adopting some of the premises of Naturalism - namely that there is no super-natural and that everything around us is just matter obeying the strict laws of physics. Sure, American Christians believe in the Trinitarian God of the Bible so they don't reject the super-natural entirely, but we do seem oddly uncomfortable with the reality of angels, super-natural powers, and spiritual warfare.
 
 I'm concerned that a move toward Cessationism is another instance of this trend.
 
